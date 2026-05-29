@@ -44,7 +44,7 @@ UNIVERSE = [
 # ─────────────────────────────────────────────────────────────────────────────
 # SİNYAL EŞİKLERİ
 # ─────────────────────────────────────────────────────────────────────────────
-MIN_CONFIDENCE = 65       # Bu skorun altındaki sinyaller mail atılmaz
+MIN_CONFIDENCE = 75       # Bu skorun altındaki sinyaller mail atılmaz
 MIN_BARS = 60             # Bu kadar bar gelmeyen sembol atlanır
 DEDUPE_HOURS = 4          # Aynı sembol+yön için tekrar mail göndermeden bekle
 
