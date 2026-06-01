@@ -38,6 +38,7 @@ except ImportError:
 from config import UNIVERSE, MIN_CONFIDENCE, DEDUPE_HOURS, BAR_INTERVAL, BAR_PERIOD
 from indicators import compute_signal
 from notifier import send_email
+from market_hours import is_market_open
 
 
 STATE_FILE = Path(__file__).parent / "state.json"
