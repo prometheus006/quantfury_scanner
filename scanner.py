@@ -159,6 +159,10 @@ def main() -> int:
     parser.add_argument("--dry-run", action="store_true", help="Email gönderme, sadece konsola yaz")
     parser.add_argument("--no-dedupe", action="store_true", help="Dedupe'u atla (test için)")
     args = parser.parse_args()
+ # Piyasa kapalıysa tarama yapma (kapalı piyasada bar donar → sahte sinyal)
+    if not is_market_open() and not args.dry_run:
+        print("⏸ Piyasa kapalı — tarama atlandı.")
+        return 0
 
     started = datetime.now(timezone.utc)
     print("=" * 78)
