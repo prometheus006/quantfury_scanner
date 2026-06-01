@@ -39,6 +39,7 @@ from config import UNIVERSE, MIN_CONFIDENCE, DEDUPE_HOURS, BAR_INTERVAL, BAR_PER
 from indicators import compute_signal
 from notifier import send_email
 from market_hours import is_market_open
+from heartbeat import is_heartbeat_time, send_heartbeat
 
 
 STATE_FILE = Path(__file__).parent / "state.json"
@@ -159,7 +160,8 @@ def main() -> int:
     parser.add_argument("--dry-run", action="store_true", help="Email gönderme, sadece konsola yaz")
     parser.add_argument("--no-dedupe", action="store_true", help="Dedupe'u atla (test için)")
     args = parser.parse_args()
- # Piyasa kapalıysa tarama yapma (kapalı piyasada bar donar → sahte sinyal)
+
+    # Piyasa kapalıysa tarama yapma (kapalı piyasada bar donar → sahte sinyal)
     if not is_market_open() and not args.dry_run:
         print("⏸ Piyasa kapalı — tarama atlandı.")
         return 0
@@ -230,6 +232,14 @@ def main() -> int:
     # 6) Durum kaydet — sadece yeni alarm varsa state güncellenir
     if new_signals or not STATE_FILE.exists():
         save_state(state)
+
+    # Heartbeat — kapanışa yakın bir kez "bot yaşıyor" bildirimi
+    if is_heartbeat_time() and not args.dry_run:
+        send_heartbeat(
+            signal_count=len(new_signals),
+            scanned_count=len(bars),
+            scan_count=state["scan_count"],
+        )
 
     elapsed = (datetime.now(timezone.utc) - started).total_seconds()
     print(f"\n✓ Tamamlandı · {elapsed:.1f}s")
