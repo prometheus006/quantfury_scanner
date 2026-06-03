@@ -40,6 +40,11 @@
       "confidence": 75,
       "ts": "2026-06-03T14:01:10.881278+00:00"
     },
+    "GLD": {
+      "action": "LONG",
+      "confidence": 91,
+      "ts": "2026-06-03T15:01:10.293724+00:00"
+    },
     "HOOD": {
       "action": "LONG",
       "confidence": 75,
@@ -142,5 +147,5 @@
     }
   },
   "last_heartbeat": "2026-06-03",
-  "scan_count": 5
+  "scan_count": 6
 }
