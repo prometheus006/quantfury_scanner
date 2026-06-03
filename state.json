@@ -140,6 +140,11 @@
       "confidence": 78,
       "ts": "2026-06-03T18:01:05.143797+00:00"
     },
+    "QQQ": {
+      "action": "LONG",
+      "confidence": 81,
+      "ts": "2026-06-03T21:30:58.862389+00:00"
+    },
     "SMH": {
       "action": "LONG",
       "confidence": 84,
@@ -160,6 +165,11 @@
       "confidence": 88,
       "ts": "2026-06-03T14:01:12.607626+00:00"
     },
+    "TSM": {
+      "action": "LONG",
+      "confidence": 81,
+      "ts": "2026-06-03T21:30:57.410005+00:00"
+    },
     "TTE.PA": {
       "action": "LONG",
       "confidence": 80,
@@ -179,8 +189,13 @@
       "action": "LONG",
       "confidence": 75,
       "ts": "2026-06-03T14:01:13.670640+00:00"
+    },
+    "XLK": {
+      "action": "LONG",
+      "confidence": 95,
+      "ts": "2026-06-03T21:30:59.248979+00:00"
     }
   },
   "last_heartbeat": "2026-06-03",
-  "scan_count": 18
+  "scan_count": 19
 }
