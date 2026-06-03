@@ -25,6 +25,11 @@
       "confidence": 99,
       "ts": "2026-06-03T13:09:46.541930+00:00"
     },
+    "BAS.DE": {
+      "action": "LONG",
+      "confidence": 93,
+      "ts": "2026-06-03T16:01:10.309320+00:00"
+    },
     "CEG": {
       "action": "SHORT",
       "confidence": 85,
@@ -80,6 +85,11 @@
       "confidence": 91,
       "ts": "2026-06-03T13:09:44.638423+00:00"
     },
+    "NEE": {
+      "action": "SHORT",
+      "confidence": 80,
+      "ts": "2026-06-03T16:01:07.340286+00:00"
+    },
     "NESN.SW": {
       "action": "LONG",
       "confidence": 78,
@@ -125,6 +135,11 @@
       "confidence": 78,
       "ts": "2026-06-03T14:01:14.746535+00:00"
     },
+    "SPY": {
+      "action": "LONG",
+      "confidence": 81,
+      "ts": "2026-06-03T16:01:08.310552+00:00"
+    },
     "TSLA": {
       "action": "LONG",
       "confidence": 88,
@@ -152,5 +167,5 @@
     }
   },
   "last_heartbeat": "2026-06-03",
-  "scan_count": 7
+  "scan_count": 8
 }
