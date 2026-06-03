@@ -1,0 +1,76 @@
+{
+  "alerts": {
+    "AIR.PA": {
+      "action": "LONG",
+      "confidence": 78,
+      "ts": "2026-06-03T13:09:46.391731+00:00"
+    },
+    "AMD": {
+      "action": "LONG",
+      "confidence": 93,
+      "ts": "2026-06-03T13:09:42.869903+00:00"
+    },
+    "AMZN": {
+      "action": "LONG",
+      "confidence": 91,
+      "ts": "2026-06-03T13:09:42.594357+00:00"
+    },
+    "ASML.AS": {
+      "action": "LONG",
+      "confidence": 99,
+      "ts": "2026-06-03T13:09:46.541930+00:00"
+    },
+    "MBG.DE": {
+      "action": "LONG",
+      "confidence": 78,
+      "ts": "2026-06-03T13:09:46.003801+00:00"
+    },
+    "META": {
+      "action": "LONG",
+      "confidence": 91,
+      "ts": "2026-06-03T13:09:42.456469+00:00"
+    },
+    "MSTR": {
+      "action": "LONG",
+      "confidence": 91,
+      "ts": "2026-06-03T13:09:44.638423+00:00"
+    },
+    "NFLX": {
+      "action": "LONG",
+      "confidence": 93,
+      "ts": "2026-06-03T13:09:43.144530+00:00"
+    },
+    "NOVN.SW": {
+      "action": "LONG",
+      "confidence": 93,
+      "ts": "2026-06-03T13:09:46.692763+00:00"
+    },
+    "SMH": {
+      "action": "LONG",
+      "confidence": 84,
+      "ts": "2026-06-03T13:09:44.228511+00:00"
+    },
+    "TSLA": {
+      "action": "LONG",
+      "confidence": 91,
+      "ts": "2026-06-03T13:09:42.733509+00:00"
+    },
+    "TTE.PA": {
+      "action": "LONG",
+      "confidence": 80,
+      "ts": "2026-06-03T13:09:46.467169+00:00"
+    },
+    "XBI": {
+      "action": "LONG",
+      "confidence": 91,
+      "ts": "2026-06-03T13:09:44.093916+00:00"
+    },
+    "XLE": {
+      "action": "LONG",
+      "confidence": 80,
+      "ts": "2026-06-03T13:09:43.691170+00:00"
+    }
+  },
+  "last_heartbeat": "2026-06-03",
+  "scan_count": 1
+}
