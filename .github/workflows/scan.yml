@@ -3,8 +3,6 @@ on:
   workflow_dispatch:
   repository_dispatch:
     types: [run-scan]
-  schedule:
-    - cron: '*/30 * * * *'
 jobs:
   scan:
     runs-on: ubuntu-latest
