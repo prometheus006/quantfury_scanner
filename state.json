@@ -45,6 +45,11 @@
       "confidence": 75,
       "ts": "2026-06-03T14:01:10.881278+00:00"
     },
+    "GEV": {
+      "action": "SHORT",
+      "confidence": 93,
+      "ts": "2026-06-03T16:30:57.723874+00:00"
+    },
     "GLD": {
       "action": "LONG",
       "confidence": 91,
@@ -81,9 +86,9 @@
       "ts": "2026-06-03T13:30:54.100621+00:00"
     },
     "MSTR": {
-      "action": "LONG",
-      "confidence": 91,
-      "ts": "2026-06-03T13:09:44.638423+00:00"
+      "action": "SHORT",
+      "confidence": 77,
+      "ts": "2026-06-03T16:31:00.729967+00:00"
     },
     "NEE": {
       "action": "SHORT",
@@ -167,5 +172,5 @@
     }
   },
   "last_heartbeat": "2026-06-03",
-  "scan_count": 8
+  "scan_count": 9
 }
