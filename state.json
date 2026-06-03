@@ -113,7 +113,7 @@
     "NFLX": {
       "action": "LONG",
       "confidence": 93,
-      "ts": "2026-06-03T13:09:43.144530+00:00"
+      "ts": "2026-06-03T21:01:09.886199+00:00"
     },
     "NIO": {
       "action": "LONG",
@@ -182,5 +182,5 @@
     }
   },
   "last_heartbeat": "2026-06-03",
-  "scan_count": 17
+  "scan_count": 18
 }
