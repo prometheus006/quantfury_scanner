@@ -20,6 +20,11 @@
       "confidence": 91,
       "ts": "2026-06-03T13:09:42.594357+00:00"
     },
+    "ASML": {
+      "action": "LONG",
+      "confidence": 95,
+      "ts": "2026-06-03T19:30:49.484913+00:00"
+    },
     "ASML.AS": {
       "action": "LONG",
       "confidence": 99,
@@ -63,7 +68,7 @@
     "IWM": {
       "action": "LONG",
       "confidence": 78,
-      "ts": "2026-06-03T14:01:13.403721+00:00"
+      "ts": "2026-06-03T19:30:51.248184+00:00"
     },
     "MBG.DE": {
       "action": "LONG",
@@ -172,5 +177,5 @@
     }
   },
   "last_heartbeat": "2026-06-03",
-  "scan_count": 14
+  "scan_count": 15
 }
