@@ -55,6 +55,11 @@
       "confidence": 93,
       "ts": "2026-06-04T07:30:55.272554+00:00"
     },
+    "CCJ": {
+      "action": "LONG",
+      "confidence": 81,
+      "ts": "2026-06-04T09:31:01.110719+00:00"
+    },
     "CEG": {
       "action": "LONG",
       "confidence": 92,
@@ -116,9 +121,9 @@
       "ts": "2026-06-03T17:01:11.892695+00:00"
     },
     "NEE": {
-      "action": "SHORT",
-      "confidence": 80,
-      "ts": "2026-06-03T16:01:07.340286+00:00"
+      "action": "LONG",
+      "confidence": 91,
+      "ts": "2026-06-04T09:31:01.374286+00:00"
     },
     "NESN.SW": {
       "action": "LONG",
@@ -133,7 +138,7 @@
     "NIO": {
       "action": "LONG",
       "confidence": 78,
-      "ts": "2026-06-03T23:00:55.649487+00:00"
+      "ts": "2026-06-04T09:31:04.795650+00:00"
     },
     "NOVN.SW": {
       "action": "LONG",
@@ -212,5 +217,5 @@
     }
   },
   "last_heartbeat": "2026-06-04",
-  "scan_count": 42
+  "scan_count": 43
 }
