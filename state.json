@@ -62,8 +62,8 @@
     },
     "CCJ": {
       "action": "LONG",
-      "confidence": 94,
-      "ts": "2026-06-04T14:30:59.790462+00:00"
+      "confidence": 91,
+      "ts": "2026-06-04T19:01:00.998513+00:00"
     },
     "CEG": {
       "action": "SHORT",
@@ -123,7 +123,7 @@
     "MSFT": {
       "action": "LONG",
       "confidence": 91,
-      "ts": "2026-06-04T14:31:00.337159+00:00"
+      "ts": "2026-06-04T19:01:01.390032+00:00"
     },
     "MSTR": {
       "action": "LONG",
@@ -237,5 +237,5 @@
     }
   },
   "last_heartbeat": "2026-06-04",
-  "scan_count": 61
+  "scan_count": 62
 }
