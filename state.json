@@ -111,9 +111,9 @@
       "ts": "2026-06-04T08:31:01.781635+00:00"
     },
     "META": {
-      "action": "LONG",
-      "confidence": 88,
-      "ts": "2026-06-04T08:30:58.630252+00:00"
+      "action": "SHORT",
+      "confidence": 77,
+      "ts": "2026-06-04T12:01:05.922283+00:00"
     },
     "MSFT": {
       "action": "LONG",
@@ -122,8 +122,8 @@
     },
     "MSTR": {
       "action": "LONG",
-      "confidence": 91,
-      "ts": "2026-06-03T17:01:11.892695+00:00"
+      "confidence": 93,
+      "ts": "2026-06-04T12:01:07.477935+00:00"
     },
     "NEE": {
       "action": "SHORT",
@@ -159,6 +159,11 @@
       "action": "LONG",
       "confidence": 94,
       "ts": "2026-06-04T11:30:57.997718+00:00"
+    },
+    "PDD": {
+      "action": "LONG",
+      "confidence": 92,
+      "ts": "2026-06-04T12:01:07.965842+00:00"
     },
     "PLTR": {
       "action": "LONG",
@@ -227,5 +232,5 @@
     }
   },
   "last_heartbeat": "2026-06-04",
-  "scan_count": 47
+  "scan_count": 48
 }
