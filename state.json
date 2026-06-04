@@ -111,9 +111,9 @@
       "ts": "2026-06-04T08:31:01.781635+00:00"
     },
     "META": {
-      "action": "SHORT",
-      "confidence": 77,
-      "ts": "2026-06-04T12:01:05.922283+00:00"
+      "action": "LONG",
+      "confidence": 88,
+      "ts": "2026-06-04T13:01:05.887885+00:00"
     },
     "MSFT": {
       "action": "LONG",
@@ -132,8 +132,8 @@
     },
     "NESN.SW": {
       "action": "LONG",
-      "confidence": 78,
-      "ts": "2026-06-04T08:01:01.414397+00:00"
+      "confidence": 91,
+      "ts": "2026-06-04T13:01:09.777701+00:00"
     },
     "NFLX": {
       "action": "LONG",
@@ -232,5 +232,5 @@
     }
   },
   "last_heartbeat": "2026-06-04",
-  "scan_count": 49
+  "scan_count": 50
 }
