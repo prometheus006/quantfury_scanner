@@ -86,9 +86,9 @@
       "ts": "2026-06-04T16:30:56.866739+00:00"
     },
     "GLD": {
-      "action": "LONG",
-      "confidence": 99,
-      "ts": "2026-06-04T20:00:59.441356+00:00"
+      "action": "SHORT",
+      "confidence": 80,
+      "ts": "2026-06-04T20:30:50.121030+00:00"
     },
     "HOOD": {
       "action": "LONG",
@@ -177,8 +177,8 @@
     },
     "QQQ": {
       "action": "LONG",
-      "confidence": 78,
-      "ts": "2026-06-04T12:31:05.059568+00:00"
+      "confidence": 91,
+      "ts": "2026-06-04T20:30:52.288703+00:00"
     },
     "SAP.DE": {
       "action": "LONG",
@@ -237,5 +237,5 @@
     }
   },
   "last_heartbeat": "2026-06-04",
-  "scan_count": 64
+  "scan_count": 65
 }
