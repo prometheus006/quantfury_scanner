@@ -37,8 +37,8 @@
     },
     "AVGO": {
       "action": "LONG",
-      "confidence": 92,
-      "ts": "2026-06-04T18:00:57.606215+00:00"
+      "confidence": 91,
+      "ts": "2026-06-04T23:00:54.598237+00:00"
     },
     "BABA": {
       "action": "LONG",
@@ -242,5 +242,5 @@
     }
   },
   "last_heartbeat": "2026-06-04",
-  "scan_count": 69
+  "scan_count": 70
 }
