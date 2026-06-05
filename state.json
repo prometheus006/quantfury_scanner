@@ -23,7 +23,7 @@
     "AMZN": {
       "action": "SHORT",
       "confidence": 93,
-      "ts": "2026-06-05T11:01:02.180172+00:00"
+      "ts": "2026-06-05T16:01:08.236661+00:00"
     },
     "ASML": {
       "action": "LONG",
@@ -111,9 +111,9 @@
       "ts": "2026-06-05T14:01:03.098512+00:00"
     },
     "MBG.DE": {
-      "action": "SHORT",
-      "confidence": 77,
-      "ts": "2026-06-04T15:01:07.556132+00:00"
+      "action": "LONG",
+      "confidence": 78,
+      "ts": "2026-06-05T16:01:10.690905+00:00"
     },
     "MC.PA": {
       "action": "LONG",
@@ -185,6 +185,11 @@
       "confidence": 78,
       "ts": "2026-06-05T12:01:09.589458+00:00"
     },
+    "RHM.DE": {
+      "action": "LONG",
+      "confidence": 88,
+      "ts": "2026-06-05T16:01:10.815277+00:00"
+    },
     "SAP.DE": {
       "action": "LONG",
       "confidence": 99,
@@ -247,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-05",
-  "scan_count": 103
+  "scan_count": 104
 }
