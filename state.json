@@ -37,8 +37,8 @@
     },
     "AVGO": {
       "action": "LONG",
-      "confidence": 91,
-      "ts": "2026-06-05T12:01:09.199230+00:00"
+      "confidence": 94,
+      "ts": "2026-06-05T23:00:55.318221+00:00"
     },
     "BABA": {
       "action": "LONG",
@@ -73,7 +73,7 @@
     "COIN": {
       "action": "LONG",
       "confidence": 93,
-      "ts": "2026-06-04T10:01:09.487207+00:00"
+      "ts": "2026-06-05T23:00:56.395787+00:00"
     },
     "GDX": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-05",
-  "scan_count": 117
+  "scan_count": 118
 }
