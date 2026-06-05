@@ -221,9 +221,9 @@
       "ts": "2026-06-04T21:30:46.419375+00:00"
     },
     "TTE.PA": {
-      "action": "SHORT",
-      "confidence": 77,
-      "ts": "2026-06-04T10:30:59.550057+00:00"
+      "action": "LONG",
+      "confidence": 91,
+      "ts": "2026-06-05T11:30:57.716706+00:00"
     },
     "XBI": {
       "action": "SHORT",
@@ -247,5 +247,5 @@
     }
   },
   "last_heartbeat": "2026-06-05",
-  "scan_count": 94
+  "scan_count": 95
 }
