@@ -28,7 +28,7 @@
     "ASML": {
       "action": "LONG",
       "confidence": 99,
-      "ts": "2026-06-04T20:00:59.637519+00:00"
+      "ts": "2026-06-05T00:30:51.956120+00:00"
     },
     "ASML.AS": {
       "action": "LONG",
@@ -97,8 +97,8 @@
     },
     "HOOD": {
       "action": "LONG",
-      "confidence": 93,
-      "ts": "2026-06-04T20:01:02.301895+00:00"
+      "confidence": 99,
+      "ts": "2026-06-05T00:30:55.508485+00:00"
     },
     "IWM": {
       "action": "LONG",
@@ -242,5 +242,5 @@
     }
   },
   "last_heartbeat": "2026-06-05",
-  "scan_count": 72
+  "scan_count": 73
 }
