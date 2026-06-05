@@ -232,8 +232,8 @@
     },
     "XBI": {
       "action": "LONG",
-      "confidence": 81,
-      "ts": "2026-06-05T17:30:45.814511+00:00"
+      "confidence": 78,
+      "ts": "2026-06-05T21:30:50.601269+00:00"
     },
     "XLE": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-05",
-  "scan_count": 114
+  "scan_count": 115
 }
