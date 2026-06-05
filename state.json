@@ -1,9 +1,9 @@
 {
   "alerts": {
     "AAPL": {
-      "action": "LONG",
-      "confidence": 99,
-      "ts": "2026-06-05T18:00:59.727559+00:00"
+      "action": "SHORT",
+      "confidence": 75,
+      "ts": "2026-06-05T19:00:57.240343+00:00"
     },
     "AIR.PA": {
       "action": "LONG",
@@ -136,9 +136,9 @@
       "ts": "2026-06-04T12:01:07.477935+00:00"
     },
     "NEE": {
-      "action": "LONG",
-      "confidence": 91,
-      "ts": "2026-06-05T18:00:59.631196+00:00"
+      "action": "SHORT",
+      "confidence": 80,
+      "ts": "2026-06-05T19:00:57.144949+00:00"
     },
     "NESN.SW": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-05",
-  "scan_count": 109
+  "scan_count": 110
 }
