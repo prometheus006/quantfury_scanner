@@ -27,8 +27,8 @@
     },
     "ASML": {
       "action": "LONG",
-      "confidence": 99,
-      "ts": "2026-06-05T00:30:51.956120+00:00"
+      "confidence": 78,
+      "ts": "2026-06-05T18:30:47.207370+00:00"
     },
     "ASML.AS": {
       "action": "LONG",
@@ -102,8 +102,8 @@
     },
     "IWM": {
       "action": "LONG",
-      "confidence": 78,
-      "ts": "2026-06-05T14:01:01.561421+00:00"
+      "confidence": 81,
+      "ts": "2026-06-05T18:30:49.532051+00:00"
     },
     "JD": {
       "action": "LONG",
@@ -127,8 +127,8 @@
     },
     "MSFT": {
       "action": "LONG",
-      "confidence": 89,
-      "ts": "2026-06-05T14:01:00.270975+00:00"
+      "confidence": 81,
+      "ts": "2026-06-05T18:30:48.242180+00:00"
     },
     "MSTR": {
       "action": "LONG",
@@ -212,8 +212,8 @@
     },
     "SPY": {
       "action": "LONG",
-      "confidence": 75,
-      "ts": "2026-06-05T14:01:01.303200+00:00"
+      "confidence": 81,
+      "ts": "2026-06-05T18:30:49.274563+00:00"
     },
     "TSLA": {
       "action": "SHORT",
@@ -222,8 +222,8 @@
     },
     "TSM": {
       "action": "LONG",
-      "confidence": 75,
-      "ts": "2026-06-05T14:00:59.491931+00:00"
+      "confidence": 81,
+      "ts": "2026-06-05T18:30:47.467435+00:00"
     },
     "TTE.PA": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-05",
-  "scan_count": 108
+  "scan_count": 109
 }
