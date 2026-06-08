@@ -21,9 +21,9 @@
       "ts": "2026-06-08T14:01:04.426885+00:00"
     },
     "AMZN": {
-      "action": "LONG",
-      "confidence": 91,
-      "ts": "2026-06-08T12:01:05.376094+00:00"
+      "action": "SHORT",
+      "confidence": 77,
+      "ts": "2026-06-08T18:01:02.127528+00:00"
     },
     "ASML": {
       "action": "LONG",
@@ -137,8 +137,8 @@
     },
     "NEE": {
       "action": "LONG",
-      "confidence": 99,
-      "ts": "2026-06-08T13:30:57.713054+00:00"
+      "confidence": 78,
+      "ts": "2026-06-08T18:01:01.470967+00:00"
     },
     "NESN.SW": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-08",
-  "scan_count": 250
+  "scan_count": 251
 }
