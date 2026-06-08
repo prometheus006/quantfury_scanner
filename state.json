@@ -2,8 +2,8 @@
   "alerts": {
     "AAPL": {
       "action": "LONG",
-      "confidence": 94,
-      "ts": "2026-06-08T13:01:04.198217+00:00"
+      "confidence": 80,
+      "ts": "2026-06-08T17:30:49.055848+00:00"
     },
     "AIR.PA": {
       "action": "LONG",
@@ -121,9 +121,9 @@
       "ts": "2026-06-08T14:01:07.646073+00:00"
     },
     "META": {
-      "action": "SHORT",
-      "confidence": 77,
-      "ts": "2026-06-08T17:01:04.624153+00:00"
+      "action": "LONG",
+      "confidence": 91,
+      "ts": "2026-06-08T17:30:49.447551+00:00"
     },
     "MSFT": {
       "action": "LONG",
@@ -231,9 +231,9 @@
       "ts": "2026-06-08T07:30:55.196362+00:00"
     },
     "XBI": {
-      "action": "LONG",
-      "confidence": 87,
-      "ts": "2026-06-08T14:01:05.602801+00:00"
+      "action": "SHORT",
+      "confidence": 75,
+      "ts": "2026-06-08T17:30:51.010408+00:00"
     },
     "XLE": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-08",
-  "scan_count": 249
+  "scan_count": 250
 }
