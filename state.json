@@ -32,8 +32,8 @@
     },
     "ASML.AS": {
       "action": "LONG",
-      "confidence": 99,
-      "ts": "2026-06-08T11:30:53.872741+00:00"
+      "confidence": 93,
+      "ts": "2026-06-08T15:31:00.063578+00:00"
     },
     "AVGO": {
       "action": "LONG",
@@ -186,9 +186,9 @@
       "ts": "2026-06-08T14:01:04.953266+00:00"
     },
     "RHM.DE": {
-      "action": "LONG",
-      "confidence": 88,
-      "ts": "2026-06-05T16:01:10.815277+00:00"
+      "action": "SHORT",
+      "confidence": 93,
+      "ts": "2026-06-08T15:30:59.895143+00:00"
     },
     "SAP.DE": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-08",
-  "scan_count": 245
+  "scan_count": 246
 }
