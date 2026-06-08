@@ -28,7 +28,7 @@
     "ASML": {
       "action": "LONG",
       "confidence": 93,
-      "ts": "2026-06-08T14:30:55.800912+00:00"
+      "ts": "2026-06-08T19:00:58.844750+00:00"
     },
     "ASML.AS": {
       "action": "LONG",
@@ -77,8 +77,8 @@
     },
     "GDX": {
       "action": "LONG",
-      "confidence": 93,
-      "ts": "2026-06-08T11:30:49.929819+00:00"
+      "confidence": 91,
+      "ts": "2026-06-08T19:00:58.748660+00:00"
     },
     "GEV": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-08",
-  "scan_count": 252
+  "scan_count": 253
 }
