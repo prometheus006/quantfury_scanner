@@ -143,7 +143,7 @@
     "NESN.SW": {
       "action": "LONG",
       "confidence": 91,
-      "ts": "2026-06-08T07:30:55.302071+00:00"
+      "ts": "2026-06-08T12:30:53.691648+00:00"
     },
     "NFLX": {
       "action": "SHORT",
@@ -197,8 +197,8 @@
     },
     "SIE.DE": {
       "action": "LONG",
-      "confidence": 81,
-      "ts": "2026-06-08T07:30:54.693149+00:00"
+      "confidence": 78,
+      "ts": "2026-06-08T12:30:52.876712+00:00"
     },
     "SMH": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-08",
-  "scan_count": 239
+  "scan_count": 240
 }
