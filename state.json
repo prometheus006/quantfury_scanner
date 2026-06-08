@@ -2,8 +2,8 @@
   "alerts": {
     "AAPL": {
       "action": "LONG",
-      "confidence": 75,
-      "ts": "2026-06-05T20:01:00.200441+00:00"
+      "confidence": 94,
+      "ts": "2026-06-08T13:01:04.198217+00:00"
     },
     "AIR.PA": {
       "action": "LONG",
@@ -92,8 +92,8 @@
     },
     "GOOGL": {
       "action": "LONG",
-      "confidence": 88,
-      "ts": "2026-06-05T08:30:52.994237+00:00"
+      "confidence": 99,
+      "ts": "2026-06-08T13:01:04.459560+00:00"
     },
     "HOOD": {
       "action": "LONG",
@@ -171,9 +171,9 @@
       "ts": "2026-06-08T08:30:54.337866+00:00"
     },
     "PDD": {
-      "action": "SHORT",
-      "confidence": 84,
-      "ts": "2026-06-05T19:30:52.060999+00:00"
+      "action": "LONG",
+      "confidence": 91,
+      "ts": "2026-06-08T13:01:07.377921+00:00"
     },
     "PLTR": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-08",
-  "scan_count": 240
+  "scan_count": 241
 }
