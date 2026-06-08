@@ -33,7 +33,7 @@
     "ASML.AS": {
       "action": "LONG",
       "confidence": 99,
-      "ts": "2026-06-04T07:30:55.710818+00:00"
+      "ts": "2026-06-08T11:30:53.872741+00:00"
     },
     "AVGO": {
       "action": "LONG",
@@ -77,8 +77,8 @@
     },
     "GDX": {
       "action": "LONG",
-      "confidence": 78,
-      "ts": "2026-06-05T15:01:01.713980+00:00"
+      "confidence": 93,
+      "ts": "2026-06-08T11:30:49.929819+00:00"
     },
     "GEV": {
       "action": "LONG",
@@ -112,8 +112,8 @@
     },
     "MBG.DE": {
       "action": "LONG",
-      "confidence": 78,
-      "ts": "2026-06-05T16:01:10.690905+00:00"
+      "confidence": 92,
+      "ts": "2026-06-08T11:30:53.490114+00:00"
     },
     "MC.PA": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-08",
-  "scan_count": 237
+  "scan_count": 238
 }
