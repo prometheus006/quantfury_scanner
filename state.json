@@ -7,8 +7,8 @@
     },
     "AIR.PA": {
       "action": "LONG",
-      "confidence": 80,
-      "ts": "2026-06-05T16:31:04.024608+00:00"
+      "confidence": 91,
+      "ts": "2026-06-08T15:01:11.320439+00:00"
     },
     "ALV.DE": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-08",
-  "scan_count": 244
+  "scan_count": 245
 }
