@@ -62,8 +62,8 @@
     },
     "CCJ": {
       "action": "LONG",
-      "confidence": 78,
-      "ts": "2026-06-05T20:00:59.913448+00:00"
+      "confidence": 93,
+      "ts": "2026-06-08T10:30:51.761643+00:00"
     },
     "CEG": {
       "action": "LONG",
@@ -107,8 +107,8 @@
     },
     "JD": {
       "action": "LONG",
-      "confidence": 87,
-      "ts": "2026-06-05T14:01:03.098512+00:00"
+      "confidence": 94,
+      "ts": "2026-06-08T10:30:54.232325+00:00"
     },
     "MBG.DE": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-08",
-  "scan_count": 235
+  "scan_count": 236
 }
