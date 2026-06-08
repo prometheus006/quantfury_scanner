@@ -27,8 +27,8 @@
     },
     "ASML": {
       "action": "LONG",
-      "confidence": 93,
-      "ts": "2026-06-08T19:00:58.844750+00:00"
+      "confidence": 99,
+      "ts": "2026-06-08T23:30:48.037475+00:00"
     },
     "ASML.AS": {
       "action": "LONG",
@@ -231,9 +231,9 @@
       "ts": "2026-06-08T07:30:55.196362+00:00"
     },
     "XBI": {
-      "action": "SHORT",
-      "confidence": 75,
-      "ts": "2026-06-08T17:30:51.010408+00:00"
+      "action": "LONG",
+      "confidence": 94,
+      "ts": "2026-06-08T23:30:50.940549+00:00"
     },
     "XLE": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-08",
-  "scan_count": 261
+  "scan_count": 262
 }
