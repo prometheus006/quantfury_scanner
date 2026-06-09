@@ -162,8 +162,8 @@
     },
     "NVDA": {
       "action": "LONG",
-      "confidence": 92,
-      "ts": "2026-06-08T10:00:59.278196+00:00"
+      "confidence": 96,
+      "ts": "2026-06-09T20:01:07.619431+00:00"
     },
     "OR.PA": {
       "action": "LONG",
@@ -207,8 +207,8 @@
     },
     "SOFI": {
       "action": "LONG",
-      "confidence": 80,
-      "ts": "2026-06-09T14:01:11.797909+00:00"
+      "confidence": 96,
+      "ts": "2026-06-09T20:01:10.726760+00:00"
     },
     "SPY": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-09",
-  "scan_count": 301
+  "scan_count": 302
 }
