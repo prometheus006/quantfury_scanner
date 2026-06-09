@@ -92,8 +92,8 @@
     },
     "GOOGL": {
       "action": "SHORT",
-      "confidence": 84,
-      "ts": "2026-06-09T16:01:08.193629+00:00"
+      "confidence": 80,
+      "ts": "2026-06-09T22:30:51.623203+00:00"
     },
     "HOOD": {
       "action": "LONG",
@@ -232,8 +232,8 @@
     },
     "XBI": {
       "action": "LONG",
-      "confidence": 99,
-      "ts": "2026-06-09T18:01:06.312404+00:00"
+      "confidence": 88,
+      "ts": "2026-06-09T22:30:53.303926+00:00"
     },
     "XLE": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-09",
-  "scan_count": 306
+  "scan_count": 307
 }
