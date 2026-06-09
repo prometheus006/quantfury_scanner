@@ -137,8 +137,8 @@
     },
     "NEE": {
       "action": "LONG",
-      "confidence": 94,
-      "ts": "2026-06-09T14:31:02.137104+00:00"
+      "confidence": 87,
+      "ts": "2026-06-09T20:30:52.001949+00:00"
     },
     "NESN.SW": {
       "action": "LONG",
@@ -171,9 +171,9 @@
       "ts": "2026-06-09T17:01:16.991767+00:00"
     },
     "PDD": {
-      "action": "SHORT",
-      "confidence": 77,
-      "ts": "2026-06-09T16:31:04.122938+00:00"
+      "action": "LONG",
+      "confidence": 92,
+      "ts": "2026-06-09T20:30:54.426524+00:00"
     },
     "PLTR": {
       "action": "SHORT",
@@ -222,8 +222,8 @@
     },
     "TSM": {
       "action": "LONG",
-      "confidence": 88,
-      "ts": "2026-06-09T14:01:08.385101+00:00"
+      "confidence": 92,
+      "ts": "2026-06-09T20:30:51.613840+00:00"
     },
     "TTE.PA": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-09",
-  "scan_count": 302
+  "scan_count": 303
 }
