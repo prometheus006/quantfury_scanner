@@ -152,8 +152,8 @@
     },
     "NIO": {
       "action": "LONG",
-      "confidence": 93,
-      "ts": "2026-06-10T14:01:15.383706+00:00"
+      "confidence": 91,
+      "ts": "2026-06-10T19:30:55.735034+00:00"
     },
     "NOVN.SW": {
       "action": "LONG",
@@ -212,8 +212,8 @@
     },
     "SPY": {
       "action": "LONG",
-      "confidence": 94,
-      "ts": "2026-06-10T13:01:11.767188+00:00"
+      "confidence": 78,
+      "ts": "2026-06-10T19:30:54.187543+00:00"
     },
     "TSLA": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-10",
-  "scan_count": 348
+  "scan_count": 349
 }
