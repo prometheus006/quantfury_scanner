@@ -102,8 +102,8 @@
     },
     "IWM": {
       "action": "LONG",
-      "confidence": 93,
-      "ts": "2026-06-09T22:00:57.261033+00:00"
+      "confidence": 99,
+      "ts": "2026-06-10T11:01:07.559631+00:00"
     },
     "JD": {
       "action": "SHORT",
@@ -247,10 +247,10 @@
     },
     "XLK": {
       "action": "LONG",
-      "confidence": 78,
-      "ts": "2026-06-09T17:01:14.721156+00:00"
+      "confidence": 96,
+      "ts": "2026-06-10T11:01:07.943166+00:00"
     }
   },
   "last_heartbeat": "2026-06-10",
-  "scan_count": 331
+  "scan_count": 332
 }
