@@ -112,8 +112,8 @@
     },
     "MBG.DE": {
       "action": "LONG",
-      "confidence": 86,
-      "ts": "2026-06-09T16:01:11.289132+00:00"
+      "confidence": 91,
+      "ts": "2026-06-10T10:01:05.290397+00:00"
     },
     "MC.PA": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-10",
-  "scan_count": 329
+  "scan_count": 330
 }
