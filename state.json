@@ -12,8 +12,8 @@
     },
     "ALV.DE": {
       "action": "LONG",
-      "confidence": 84,
-      "ts": "2026-06-10T17:31:00.777319+00:00"
+      "confidence": 88,
+      "ts": "2026-06-11T07:30:56.511488+00:00"
     },
     "AMD": {
       "action": "LONG",
@@ -142,8 +142,8 @@
     },
     "NESN.SW": {
       "action": "LONG",
-      "confidence": 80,
-      "ts": "2026-06-10T14:01:16.358789+00:00"
+      "confidence": 75,
+      "ts": "2026-06-11T07:30:57.253820+00:00"
     },
     "NFLX": {
       "action": "SHORT",
@@ -157,8 +157,8 @@
     },
     "NOVN.SW": {
       "action": "LONG",
-      "confidence": 88,
-      "ts": "2026-06-10T14:01:16.421156+00:00"
+      "confidence": 80,
+      "ts": "2026-06-11T07:30:57.325935+00:00"
     },
     "NVDA": {
       "action": "SHORT",
@@ -167,8 +167,8 @@
     },
     "OR.PA": {
       "action": "LONG",
-      "confidence": 93,
-      "ts": "2026-06-10T07:30:58.588622+00:00"
+      "confidence": 95,
+      "ts": "2026-06-11T07:30:56.969654+00:00"
     },
     "PDD": {
       "action": "LONG",
@@ -187,8 +187,8 @@
     },
     "RHM.DE": {
       "action": "LONG",
-      "confidence": 88,
-      "ts": "2026-06-09T11:30:52.960452+00:00"
+      "confidence": 91,
+      "ts": "2026-06-11T07:30:56.825561+00:00"
     },
     "SAP.DE": {
       "action": "LONG",
@@ -198,7 +198,7 @@
     "SIE.DE": {
       "action": "LONG",
       "confidence": 78,
-      "ts": "2026-06-10T13:01:13.559134+00:00"
+      "ts": "2026-06-11T07:30:56.432245+00:00"
     },
     "SMH": {
       "action": "LONG",
@@ -227,8 +227,8 @@
     },
     "TTE.PA": {
       "action": "LONG",
-      "confidence": 96,
-      "ts": "2026-06-10T13:31:00.205195+00:00"
+      "confidence": 88,
+      "ts": "2026-06-11T07:30:57.111382+00:00"
     },
     "XBI": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-11",
-  "scan_count": 372
+  "scan_count": 373
 }
