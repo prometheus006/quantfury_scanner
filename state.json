@@ -47,8 +47,8 @@
     },
     "BAS.DE": {
       "action": "LONG",
-      "confidence": 91,
-      "ts": "2026-06-10T16:31:05.497523+00:00"
+      "confidence": 80,
+      "ts": "2026-06-12T16:30:55.617569+00:00"
     },
     "BIDU": {
       "action": "SHORT",
@@ -181,9 +181,9 @@
       "ts": "2026-06-11T15:01:10.566769+00:00"
     },
     "QQQ": {
-      "action": "SHORT",
-      "confidence": 77,
-      "ts": "2026-06-12T16:01:10.564487+00:00"
+      "action": "LONG",
+      "confidence": 84,
+      "ts": "2026-06-12T16:30:53.719028+00:00"
     },
     "RHM.DE": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-12",
-  "scan_count": 438
+  "scan_count": 439
 }
