@@ -212,8 +212,8 @@
     },
     "SPY": {
       "action": "LONG",
-      "confidence": 88,
-      "ts": "2026-06-11T18:01:06.972711+00:00"
+      "confidence": 80,
+      "ts": "2026-06-12T09:01:01.074922+00:00"
     },
     "TSLA": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-12",
-  "scan_count": 423
+  "scan_count": 424
 }
