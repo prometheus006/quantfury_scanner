@@ -52,8 +52,8 @@
     },
     "BIDU": {
       "action": "SHORT",
-      "confidence": 93,
-      "ts": "2026-06-12T15:30:59.997104+00:00"
+      "confidence": 85,
+      "ts": "2026-06-12T20:01:08.658349+00:00"
     },
     "BMW.DE": {
       "action": "LONG",
@@ -217,13 +217,13 @@
     },
     "TSLA": {
       "action": "LONG",
-      "confidence": 89,
-      "ts": "2026-06-12T15:30:57.997224+00:00"
+      "confidence": 88,
+      "ts": "2026-06-12T20:01:05.882509+00:00"
     },
     "TSM": {
-      "action": "LONG",
-      "confidence": 88,
-      "ts": "2026-06-12T15:01:14.470439+00:00"
+      "action": "SHORT",
+      "confidence": 77,
+      "ts": "2026-06-12T20:01:04.555313+00:00"
     },
     "TTE.PA": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-12",
-  "scan_count": 445
+  "scan_count": 446
 }
