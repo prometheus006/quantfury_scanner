@@ -7,8 +7,8 @@
     },
     "AIR.PA": {
       "action": "LONG",
-      "confidence": 91,
-      "ts": "2026-06-11T13:31:02.758602+00:00"
+      "confidence": 93,
+      "ts": "2026-06-12T07:30:49.446631+00:00"
     },
     "ALV.DE": {
       "action": "LONG",
@@ -32,8 +32,8 @@
     },
     "ASML.AS": {
       "action": "LONG",
-      "confidence": 99,
-      "ts": "2026-06-11T16:31:02.370256+00:00"
+      "confidence": 93,
+      "ts": "2026-06-12T07:30:49.590675+00:00"
     },
     "AVGO": {
       "action": "LONG",
@@ -57,8 +57,8 @@
     },
     "BMW.DE": {
       "action": "LONG",
-      "confidence": 93,
-      "ts": "2026-06-11T16:31:01.852843+00:00"
+      "confidence": 95,
+      "ts": "2026-06-12T07:30:48.989993+00:00"
     },
     "CCJ": {
       "action": "LONG",
@@ -117,8 +117,8 @@
     },
     "MC.PA": {
       "action": "LONG",
-      "confidence": 99,
-      "ts": "2026-06-11T14:01:21.511734+00:00"
+      "confidence": 95,
+      "ts": "2026-06-12T07:30:49.302001+00:00"
     },
     "META": {
       "action": "LONG",
@@ -157,8 +157,8 @@
     },
     "NOVN.SW": {
       "action": "LONG",
-      "confidence": 93,
-      "ts": "2026-06-11T15:31:04.127843+00:00"
+      "confidence": 84,
+      "ts": "2026-06-12T07:30:49.734690+00:00"
     },
     "NVDA": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-12",
-  "scan_count": 420
+  "scan_count": 421
 }
