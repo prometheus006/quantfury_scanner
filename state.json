@@ -12,8 +12,8 @@
     },
     "ALV.DE": {
       "action": "LONG",
-      "confidence": 80,
-      "ts": "2026-06-11T11:31:02.701890+00:00"
+      "confidence": 85,
+      "ts": "2026-06-12T08:00:53.366448+00:00"
     },
     "AMD": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-12",
-  "scan_count": 421
+  "scan_count": 422
 }
