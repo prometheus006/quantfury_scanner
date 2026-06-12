@@ -82,8 +82,8 @@
     },
     "GEV": {
       "action": "LONG",
-      "confidence": 92,
-      "ts": "2026-06-11T08:01:09.770390+00:00"
+      "confidence": 88,
+      "ts": "2026-06-12T11:01:01.460008+00:00"
     },
     "GLD": {
       "action": "LONG",
@@ -222,8 +222,8 @@
     },
     "TSM": {
       "action": "LONG",
-      "confidence": 91,
-      "ts": "2026-06-11T13:01:07.657615+00:00"
+      "confidence": 88,
+      "ts": "2026-06-12T11:01:01.364272+00:00"
     },
     "TTE.PA": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-12",
-  "scan_count": 427
+  "scan_count": 428
 }
