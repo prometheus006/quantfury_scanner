@@ -2,8 +2,8 @@
   "alerts": {
     "AAPL": {
       "action": "LONG",
-      "confidence": 91,
-      "ts": "2026-06-10T12:01:09.592345+00:00"
+      "confidence": 96,
+      "ts": "2026-06-15T09:01:11.157399+00:00"
     },
     "AIR.PA": {
       "action": "LONG",
@@ -27,8 +27,8 @@
     },
     "ASML": {
       "action": "LONG",
-      "confidence": 99,
-      "ts": "2026-06-12T08:30:54.872917+00:00"
+      "confidence": 95,
+      "ts": "2026-06-15T09:01:10.368978+00:00"
     },
     "ASML.AS": {
       "action": "LONG",
@@ -97,18 +97,18 @@
     },
     "HOOD": {
       "action": "LONG",
-      "confidence": 93,
-      "ts": "2026-06-12T15:30:59.426559+00:00"
+      "confidence": 95,
+      "ts": "2026-06-15T09:01:13.400625+00:00"
     },
     "IWM": {
-      "action": "SHORT",
-      "confidence": 77,
-      "ts": "2026-06-12T18:01:03.502614+00:00"
+      "action": "LONG",
+      "confidence": 95,
+      "ts": "2026-06-15T09:01:12.391829+00:00"
     },
     "JD": {
-      "action": "SHORT",
-      "confidence": 77,
-      "ts": "2026-06-13T00:01:10.219982+00:00"
+      "action": "LONG",
+      "confidence": 91,
+      "ts": "2026-06-15T09:01:13.737118+00:00"
     },
     "MBG.DE": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-15",
-  "scan_count": 567
+  "scan_count": 568
 }
