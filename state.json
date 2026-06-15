@@ -147,8 +147,8 @@
     },
     "NFLX": {
       "action": "LONG",
-      "confidence": 96,
-      "ts": "2026-06-11T21:01:09.933303+00:00"
+      "confidence": 94,
+      "ts": "2026-06-15T10:01:14.988333+00:00"
     },
     "NIO": {
       "action": "LONG",
@@ -237,8 +237,8 @@
     },
     "XLE": {
       "action": "LONG",
-      "confidence": 91,
-      "ts": "2026-06-13T00:01:08.775153+00:00"
+      "confidence": 78,
+      "ts": "2026-06-15T10:01:15.372959+00:00"
     },
     "XLF": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-15",
-  "scan_count": 569
+  "scan_count": 570
 }
