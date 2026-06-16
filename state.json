@@ -1,9 +1,9 @@
 {
   "alerts": {
     "AAPL": {
-      "action": "LONG",
-      "confidence": 88,
-      "ts": "2026-06-16T11:01:20.860972+00:00"
+      "action": "SHORT",
+      "confidence": 77,
+      "ts": "2026-06-16T11:31:09.837203+00:00"
     },
     "AIR.PA": {
       "action": "LONG",
@@ -12,8 +12,8 @@
     },
     "ALV.DE": {
       "action": "LONG",
-      "confidence": 93,
-      "ts": "2026-06-16T07:31:09.193862+00:00"
+      "confidence": 84,
+      "ts": "2026-06-16T11:31:13.452241+00:00"
     },
     "AMD": {
       "action": "SHORT",
@@ -21,9 +21,9 @@
       "ts": "2026-06-15T19:31:09.554792+00:00"
     },
     "AMZN": {
-      "action": "LONG",
-      "confidence": 80,
-      "ts": "2026-06-16T08:01:38.997496+00:00"
+      "action": "SHORT",
+      "confidence": 77,
+      "ts": "2026-06-16T11:31:10.359450+00:00"
     },
     "ASML": {
       "action": "LONG",
@@ -198,7 +198,7 @@
     "SIE.DE": {
       "action": "LONG",
       "confidence": 80,
-      "ts": "2026-06-16T07:31:09.135299+00:00"
+      "ts": "2026-06-16T11:31:13.373551+00:00"
     },
     "SMH": {
       "action": "SHORT",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-16",
-  "scan_count": 620
+  "scan_count": 621
 }
