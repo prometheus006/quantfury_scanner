@@ -1,9 +1,9 @@
 {
   "alerts": {
     "AAPL": {
-      "action": "SHORT",
-      "confidence": 77,
-      "ts": "2026-06-16T11:31:09.837203+00:00"
+      "action": "LONG",
+      "confidence": 91,
+      "ts": "2026-06-16T14:31:06.767717+00:00"
     },
     "AIR.PA": {
       "action": "LONG",
@@ -11,9 +11,9 @@
       "ts": "2026-06-16T07:31:09.589071+00:00"
     },
     "ALV.DE": {
-      "action": "LONG",
-      "confidence": 84,
-      "ts": "2026-06-16T11:31:13.452241+00:00"
+      "action": "SHORT",
+      "confidence": 78,
+      "ts": "2026-06-16T14:31:09.439684+00:00"
     },
     "AMD": {
       "action": "SHORT",
@@ -66,9 +66,9 @@
       "ts": "2026-06-16T10:01:18.348046+00:00"
     },
     "CEG": {
-      "action": "SHORT",
-      "confidence": 80,
-      "ts": "2026-06-15T20:31:07.213077+00:00"
+      "action": "LONG",
+      "confidence": 93,
+      "ts": "2026-06-16T14:31:06.576962+00:00"
     },
     "COIN": {
       "action": "SHORT",
@@ -136,9 +136,9 @@
       "ts": "2026-06-15T19:31:11.270847+00:00"
     },
     "NEE": {
-      "action": "SHORT",
-      "confidence": 75,
-      "ts": "2026-06-15T20:01:11.520124+00:00"
+      "action": "LONG",
+      "confidence": 91,
+      "ts": "2026-06-16T14:31:06.672321+00:00"
     },
     "NESN.SW": {
       "action": "SHORT",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-16",
-  "scan_count": 626
+  "scan_count": 627
 }
