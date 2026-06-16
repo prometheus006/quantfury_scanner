@@ -201,9 +201,9 @@
       "ts": "2026-06-16T15:31:17.956065+00:00"
     },
     "SMH": {
-      "action": "SHORT",
-      "confidence": 75,
-      "ts": "2026-06-15T18:31:09.992010+00:00"
+      "action": "LONG",
+      "confidence": 81,
+      "ts": "2026-06-16T19:01:20.814015+00:00"
     },
     "SOFI": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-16",
-  "scan_count": 635
+  "scan_count": 636
 }
