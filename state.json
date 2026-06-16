@@ -187,8 +187,8 @@
     },
     "RHM.DE": {
       "action": "LONG",
-      "confidence": 80,
-      "ts": "2026-06-11T15:31:03.627399+00:00"
+      "confidence": 95,
+      "ts": "2026-06-16T09:31:17.908209+00:00"
     },
     "SAP.DE": {
       "action": "LONG",
@@ -227,8 +227,8 @@
     },
     "TTE.PA": {
       "action": "LONG",
-      "confidence": 81,
-      "ts": "2026-06-12T08:30:59.872869+00:00"
+      "confidence": 92,
+      "ts": "2026-06-16T09:31:18.193681+00:00"
     },
     "XBI": {
       "action": "SHORT",
@@ -236,9 +236,9 @@
       "ts": "2026-06-15T17:32:53.133578+00:00"
     },
     "XLE": {
-      "action": "SHORT",
-      "confidence": 77,
-      "ts": "2026-06-16T09:01:18.529734+00:00"
+      "action": "LONG",
+      "confidence": 91,
+      "ts": "2026-06-16T09:31:15.543078+00:00"
     },
     "XLF": {
       "action": "SHORT",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-16",
-  "scan_count": 616
+  "scan_count": 617
 }
