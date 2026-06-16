@@ -8,12 +8,12 @@
     "AIR.PA": {
       "action": "LONG",
       "confidence": 99,
-      "ts": "2026-06-15T15:31:17.911121+00:00"
+      "ts": "2026-06-16T07:31:09.589071+00:00"
     },
     "ALV.DE": {
       "action": "LONG",
-      "confidence": 84,
-      "ts": "2026-06-15T15:31:17.379409+00:00"
+      "confidence": 93,
+      "ts": "2026-06-16T07:31:09.193862+00:00"
     },
     "AMD": {
       "action": "SHORT",
@@ -47,8 +47,8 @@
     },
     "BAS.DE": {
       "action": "LONG",
-      "confidence": 80,
-      "ts": "2026-06-12T16:30:55.617569+00:00"
+      "confidence": 91,
+      "ts": "2026-06-16T07:31:09.370183+00:00"
     },
     "BIDU": {
       "action": "SHORT",
@@ -112,8 +112,8 @@
     },
     "MBG.DE": {
       "action": "LONG",
-      "confidence": 84,
-      "ts": "2026-06-15T17:32:54.491658+00:00"
+      "confidence": 88,
+      "ts": "2026-06-16T07:31:09.311499+00:00"
     },
     "MC.PA": {
       "action": "LONG",
@@ -197,8 +197,8 @@
     },
     "SIE.DE": {
       "action": "LONG",
-      "confidence": 84,
-      "ts": "2026-06-15T17:32:54.314861+00:00"
+      "confidence": 80,
+      "ts": "2026-06-16T07:31:09.135299+00:00"
     },
     "SMH": {
       "action": "SHORT",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-16",
-  "scan_count": 612
+  "scan_count": 613
 }
