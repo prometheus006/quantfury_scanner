@@ -176,9 +176,9 @@
       "ts": "2026-06-16T00:01:10.296281+00:00"
     },
     "PLTR": {
-      "action": "LONG",
-      "confidence": 80,
-      "ts": "2026-06-16T08:01:40.129553+00:00"
+      "action": "SHORT",
+      "confidence": 77,
+      "ts": "2026-06-16T12:01:21.400297+00:00"
     },
     "QQQ": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-16",
-  "scan_count": 621
+  "scan_count": 622
 }
