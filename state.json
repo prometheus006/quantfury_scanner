@@ -47,8 +47,8 @@
     },
     "BAS.DE": {
       "action": "LONG",
-      "confidence": 91,
-      "ts": "2026-06-17T10:31:06.411805+00:00"
+      "confidence": 88,
+      "ts": "2026-06-17T14:31:13.540020+00:00"
     },
     "BIDU": {
       "action": "LONG",
@@ -76,19 +76,19 @@
       "ts": "2026-06-15T20:31:09.871104+00:00"
     },
     "GDX": {
-      "action": "SHORT",
-      "confidence": 75,
-      "ts": "2026-06-15T18:31:07.606693+00:00"
+      "action": "LONG",
+      "confidence": 88,
+      "ts": "2026-06-17T14:31:09.919399+00:00"
     },
     "GEV": {
       "action": "LONG",
-      "confidence": 88,
-      "ts": "2026-06-16T17:01:18.765647+00:00"
+      "confidence": 93,
+      "ts": "2026-06-17T14:31:10.305538+00:00"
     },
     "GLD": {
-      "action": "SHORT",
-      "confidence": 77,
-      "ts": "2026-06-15T18:31:07.506890+00:00"
+      "action": "LONG",
+      "confidence": 85,
+      "ts": "2026-06-17T14:31:09.822789+00:00"
     },
     "GOOGL": {
       "action": "SHORT",
@@ -242,8 +242,8 @@
     },
     "XLF": {
       "action": "LONG",
-      "confidence": 93,
-      "ts": "2026-06-17T09:31:18.518821+00:00"
+      "confidence": 88,
+      "ts": "2026-06-17T14:31:11.938095+00:00"
     },
     "XLK": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-17",
-  "scan_count": 674
+  "scan_count": 675
 }
