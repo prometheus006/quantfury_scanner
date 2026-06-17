@@ -106,9 +106,9 @@
       "ts": "2026-06-17T13:31:10.285623+00:00"
     },
     "JD": {
-      "action": "SHORT",
-      "confidence": 75,
-      "ts": "2026-06-17T16:01:22.272366+00:00"
+      "action": "LONG",
+      "confidence": 78,
+      "ts": "2026-06-17T17:31:06.951181+00:00"
     },
     "MBG.DE": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-17",
-  "scan_count": 680
+  "scan_count": 681
 }
