@@ -122,8 +122,8 @@
     },
     "META": {
       "action": "LONG",
-      "confidence": 84,
-      "ts": "2026-06-17T18:01:15.720644+00:00"
+      "confidence": 78,
+      "ts": "2026-06-17T23:31:02.434129+00:00"
     },
     "MSFT": {
       "action": "LONG",
@@ -247,10 +247,10 @@
     },
     "XLK": {
       "action": "LONG",
-      "confidence": 96,
-      "ts": "2026-06-17T18:31:04.824027+00:00"
+      "confidence": 99,
+      "ts": "2026-06-17T23:31:03.872700+00:00"
     }
   },
   "last_heartbeat": "2026-06-17",
-  "scan_count": 692
+  "scan_count": 693
 }
