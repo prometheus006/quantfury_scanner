@@ -1,9 +1,9 @@
 {
   "alerts": {
     "AAPL": {
-      "action": "LONG",
-      "confidence": 88,
-      "ts": "2026-06-17T08:01:09.675211+00:00"
+      "action": "SHORT",
+      "confidence": 77,
+      "ts": "2026-06-17T08:31:11.238425+00:00"
     },
     "AIR.PA": {
       "action": "LONG",
@@ -27,8 +27,8 @@
     },
     "ASML": {
       "action": "LONG",
-      "confidence": 78,
-      "ts": "2026-06-17T01:01:04.014329+00:00"
+      "confidence": 99,
+      "ts": "2026-06-17T08:31:10.419206+00:00"
     },
     "ASML.AS": {
       "action": "SHORT",
@@ -42,8 +42,8 @@
     },
     "BABA": {
       "action": "LONG",
-      "confidence": 92,
-      "ts": "2026-06-16T19:31:13.662486+00:00"
+      "confidence": 91,
+      "ts": "2026-06-17T08:31:13.643040+00:00"
     },
     "BAS.DE": {
       "action": "LONG",
@@ -107,8 +107,8 @@
     },
     "JD": {
       "action": "LONG",
-      "confidence": 99,
-      "ts": "2026-06-16T20:31:11.495911+00:00"
+      "confidence": 91,
+      "ts": "2026-06-17T08:31:13.758411+00:00"
     },
     "MBG.DE": {
       "action": "LONG",
@@ -152,8 +152,8 @@
     },
     "NIO": {
       "action": "LONG",
-      "confidence": 93,
-      "ts": "2026-06-16T23:01:05.765488+00:00"
+      "confidence": 91,
+      "ts": "2026-06-17T08:31:13.985779+00:00"
     },
     "NOVN.SW": {
       "action": "SHORT",
@@ -187,8 +187,8 @@
     },
     "RHM.DE": {
       "action": "LONG",
-      "confidence": 95,
-      "ts": "2026-06-16T09:31:17.908209+00:00"
+      "confidence": 92,
+      "ts": "2026-06-17T08:31:14.580418+00:00"
     },
     "SAP.DE": {
       "action": "SHORT",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-17",
-  "scan_count": 662
+  "scan_count": 663
 }
