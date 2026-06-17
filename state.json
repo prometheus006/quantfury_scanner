@@ -241,9 +241,9 @@
       "ts": "2026-06-16T18:01:20.685924+00:00"
     },
     "XLF": {
-      "action": "LONG",
-      "confidence": 84,
-      "ts": "2026-06-17T08:01:10.922178+00:00"
+      "action": "SHORT",
+      "confidence": 77,
+      "ts": "2026-06-17T09:01:12.496904+00:00"
     },
     "XLK": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-17",
-  "scan_count": 663
+  "scan_count": 664
 }
