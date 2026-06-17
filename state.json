@@ -7,8 +7,8 @@
     },
     "AIR.PA": {
       "action": "LONG",
-      "confidence": 99,
-      "ts": "2026-06-16T07:31:09.589071+00:00"
+      "confidence": 95,
+      "ts": "2026-06-17T11:31:17.878806+00:00"
     },
     "ALV.DE": {
       "action": "SHORT",
@@ -156,9 +156,9 @@
       "ts": "2026-06-17T08:31:13.985779+00:00"
     },
     "NOVN.SW": {
-      "action": "SHORT",
-      "confidence": 75,
-      "ts": "2026-06-12T14:01:09.251808+00:00"
+      "action": "LONG",
+      "confidence": 99,
+      "ts": "2026-06-17T11:31:18.161351+00:00"
     },
     "NVDA": {
       "action": "SHORT",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-17",
-  "scan_count": 668
+  "scan_count": 669
 }
