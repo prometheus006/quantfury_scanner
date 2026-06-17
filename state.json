@@ -1,9 +1,9 @@
 {
   "alerts": {
     "AAPL": {
-      "action": "SHORT",
-      "confidence": 77,
-      "ts": "2026-06-17T08:31:11.238425+00:00"
+      "action": "LONG",
+      "confidence": 91,
+      "ts": "2026-06-17T13:31:08.814615+00:00"
     },
     "AIR.PA": {
       "action": "LONG",
@@ -102,8 +102,8 @@
     },
     "IWM": {
       "action": "LONG",
-      "confidence": 81,
-      "ts": "2026-06-16T20:01:17.778131+00:00"
+      "confidence": 99,
+      "ts": "2026-06-17T13:31:10.285623+00:00"
     },
     "JD": {
       "action": "LONG",
@@ -153,7 +153,7 @@
     "NIO": {
       "action": "LONG",
       "confidence": 91,
-      "ts": "2026-06-17T08:31:13.985779+00:00"
+      "ts": "2026-06-17T13:31:12.163531+00:00"
     },
     "NOVN.SW": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-17",
-  "scan_count": 672
+  "scan_count": 673
 }
