@@ -36,14 +36,14 @@
       "ts": "2026-06-15T13:31:10.029738+00:00"
     },
     "AVGO": {
-      "action": "SHORT",
-      "confidence": 77,
-      "ts": "2026-06-15T21:01:12.941026+00:00"
+      "action": "LONG",
+      "confidence": 95,
+      "ts": "2026-06-17T10:01:10.137245+00:00"
     },
     "BABA": {
-      "action": "LONG",
-      "confidence": 91,
-      "ts": "2026-06-17T08:31:13.643040+00:00"
+      "action": "SHORT",
+      "confidence": 84,
+      "ts": "2026-06-17T10:01:11.581153+00:00"
     },
     "BAS.DE": {
       "action": "LONG",
@@ -222,8 +222,8 @@
     },
     "TSM": {
       "action": "LONG",
-      "confidence": 81,
-      "ts": "2026-06-16T19:31:11.613279+00:00"
+      "confidence": 99,
+      "ts": "2026-06-17T10:01:08.977650+00:00"
     },
     "TTE.PA": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-17",
-  "scan_count": 665
+  "scan_count": 666
 }
