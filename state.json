@@ -12,8 +12,8 @@
     },
     "ALV.DE": {
       "action": "SHORT",
-      "confidence": 80,
-      "ts": "2026-06-16T16:01:26.072464+00:00"
+      "confidence": 75,
+      "ts": "2026-06-17T07:31:01.197784+00:00"
     },
     "AMD": {
       "action": "LONG",
@@ -227,8 +227,8 @@
     },
     "TTE.PA": {
       "action": "LONG",
-      "confidence": 92,
-      "ts": "2026-06-16T09:31:18.193681+00:00"
+      "confidence": 91,
+      "ts": "2026-06-17T07:31:01.809666+00:00"
     },
     "XBI": {
       "action": "SHORT",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-17",
-  "scan_count": 660
+  "scan_count": 661
 }
