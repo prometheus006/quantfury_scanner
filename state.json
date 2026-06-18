@@ -22,8 +22,8 @@
     },
     "AMZN": {
       "action": "LONG",
-      "confidence": 78,
-      "ts": "2026-06-17T14:01:11.815224+00:00"
+      "confidence": 94,
+      "ts": "2026-06-18T10:01:10.608700+00:00"
     },
     "ASML": {
       "action": "LONG",
@@ -212,13 +212,13 @@
     },
     "SPY": {
       "action": "LONG",
-      "confidence": 81,
-      "ts": "2026-06-17T18:31:04.341811+00:00"
+      "confidence": 93,
+      "ts": "2026-06-18T10:01:11.237416+00:00"
     },
     "TSLA": {
-      "action": "SHORT",
-      "confidence": 75,
-      "ts": "2026-06-17T18:31:03.958445+00:00"
+      "action": "LONG",
+      "confidence": 94,
+      "ts": "2026-06-18T10:01:10.732765+00:00"
     },
     "TSM": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-18",
-  "scan_count": 713
+  "scan_count": 714
 }
