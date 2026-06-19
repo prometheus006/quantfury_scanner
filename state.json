@@ -47,8 +47,8 @@
     },
     "BAS.DE": {
       "action": "LONG",
-      "confidence": 88,
-      "ts": "2026-06-17T14:31:13.540020+00:00"
+      "confidence": 99,
+      "ts": "2026-06-19T08:31:08.031103+00:00"
     },
     "BIDU": {
       "action": "LONG",
@@ -112,8 +112,8 @@
     },
     "MBG.DE": {
       "action": "LONG",
-      "confidence": 88,
-      "ts": "2026-06-16T07:31:09.311499+00:00"
+      "confidence": 92,
+      "ts": "2026-06-19T08:31:07.971655+00:00"
     },
     "MC.PA": {
       "action": "LONG",
@@ -226,9 +226,9 @@
       "ts": "2026-06-19T01:01:04.111336+00:00"
     },
     "TTE.PA": {
-      "action": "SHORT",
-      "confidence": 77,
-      "ts": "2026-06-18T08:31:07.687717+00:00"
+      "action": "LONG",
+      "confidence": 92,
+      "ts": "2026-06-19T08:31:08.304958+00:00"
     },
     "XBI": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-19",
-  "scan_count": 758
+  "scan_count": 759
 }
