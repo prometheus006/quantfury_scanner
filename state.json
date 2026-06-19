@@ -167,8 +167,8 @@
     },
     "OR.PA": {
       "action": "LONG",
-      "confidence": 96,
-      "ts": "2026-06-18T15:31:14.635215+00:00"
+      "confidence": 91,
+      "ts": "2026-06-19T10:01:07.808771+00:00"
     },
     "PDD": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-19",
-  "scan_count": 761
+  "scan_count": 762
 }
