@@ -8,7 +8,7 @@
     "AIR.PA": {
       "action": "LONG",
       "confidence": 99,
-      "ts": "2026-06-18T15:31:14.706569+00:00"
+      "ts": "2026-06-19T07:30:59.133170+00:00"
     },
     "ALV.DE": {
       "action": "SHORT",
@@ -56,9 +56,9 @@
       "ts": "2026-06-18T20:31:09.269236+00:00"
     },
     "BMW.DE": {
-      "action": "SHORT",
-      "confidence": 84,
-      "ts": "2026-06-16T08:31:05.708861+00:00"
+      "action": "LONG",
+      "confidence": 92,
+      "ts": "2026-06-19T07:30:58.676021+00:00"
     },
     "CCJ": {
       "action": "LONG",
@@ -142,8 +142,8 @@
     },
     "NESN.SW": {
       "action": "LONG",
-      "confidence": 81,
-      "ts": "2026-06-18T07:30:59.789978+00:00"
+      "confidence": 99,
+      "ts": "2026-06-19T07:30:59.352407+00:00"
     },
     "NFLX": {
       "action": "LONG",
@@ -187,8 +187,8 @@
     },
     "RHM.DE": {
       "action": "LONG",
-      "confidence": 99,
-      "ts": "2026-06-18T16:02:00.251614+00:00"
+      "confidence": 91,
+      "ts": "2026-06-19T07:30:58.916449+00:00"
     },
     "SAP.DE": {
       "action": "SHORT",
@@ -197,8 +197,8 @@
     },
     "SIE.DE": {
       "action": "LONG",
-      "confidence": 99,
-      "ts": "2026-06-18T17:31:05.206915+00:00"
+      "confidence": 88,
+      "ts": "2026-06-19T07:30:58.512757+00:00"
     },
     "SMH": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-19",
-  "scan_count": 756
+  "scan_count": 757
 }
