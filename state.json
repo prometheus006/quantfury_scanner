@@ -17,8 +17,8 @@
     },
     "AMD": {
       "action": "LONG",
-      "confidence": 99,
-      "ts": "2026-06-22T16:01:20.926782+00:00"
+      "confidence": 93,
+      "ts": "2026-06-22T20:31:14.213088+00:00"
     },
     "AMZN": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-22",
-  "scan_count": 926
+  "scan_count": 927
 }
