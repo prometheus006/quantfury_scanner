@@ -118,7 +118,7 @@
     "MC.PA": {
       "action": "LONG",
       "confidence": 78,
-      "ts": "2026-06-19T17:01:07.435040+00:00"
+      "ts": "2026-06-22T07:31:06.512102+00:00"
     },
     "META": {
       "action": "LONG",
@@ -187,8 +187,8 @@
     },
     "RHM.DE": {
       "action": "LONG",
-      "confidence": 89,
-      "ts": "2026-06-19T16:01:07.946704+00:00"
+      "confidence": 88,
+      "ts": "2026-06-22T07:31:06.456328+00:00"
     },
     "SAP.DE": {
       "action": "SHORT",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-22",
-  "scan_count": 900
+  "scan_count": 901
 }
