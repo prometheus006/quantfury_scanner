@@ -107,8 +107,8 @@
     },
     "JD": {
       "action": "LONG",
-      "confidence": 91,
-      "ts": "2026-06-22T08:31:05.497217+00:00"
+      "confidence": 92,
+      "ts": "2026-06-22T18:31:18.297495+00:00"
     },
     "MBG.DE": {
       "action": "LONG",
@@ -217,8 +217,8 @@
     },
     "TSLA": {
       "action": "LONG",
-      "confidence": 80,
-      "ts": "2026-06-22T14:01:21.350377+00:00"
+      "confidence": 88,
+      "ts": "2026-06-22T18:31:15.903391+00:00"
     },
     "TSM": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-22",
-  "scan_count": 922
+  "scan_count": 923
 }
