@@ -161,9 +161,9 @@
       "ts": "2026-06-22T14:01:24.187546+00:00"
     },
     "NVDA": {
-      "action": "LONG",
-      "confidence": 88,
-      "ts": "2026-06-22T11:31:11.267884+00:00"
+      "action": "SHORT",
+      "confidence": 77,
+      "ts": "2026-06-22T15:31:08.312495+00:00"
     },
     "OR.PA": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-22",
-  "scan_count": 916
+  "scan_count": 917
 }
