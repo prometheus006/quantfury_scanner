@@ -32,8 +32,8 @@
     },
     "ASML.AS": {
       "action": "LONG",
-      "confidence": 93,
-      "ts": "2026-06-18T15:31:14.865387+00:00"
+      "confidence": 99,
+      "ts": "2026-06-22T09:31:09.725859+00:00"
     },
     "AVGO": {
       "action": "SHORT",
@@ -46,14 +46,14 @@
       "ts": "2026-06-22T08:01:13.868350+00:00"
     },
     "BAS.DE": {
-      "action": "LONG",
-      "confidence": 91,
-      "ts": "2026-06-22T08:01:14.590355+00:00"
+      "action": "SHORT",
+      "confidence": 75,
+      "ts": "2026-06-22T09:31:09.291048+00:00"
     },
     "BIDU": {
-      "action": "SHORT",
-      "confidence": 84,
-      "ts": "2026-06-22T09:01:16.958734+00:00"
+      "action": "LONG",
+      "confidence": 91,
+      "ts": "2026-06-22T09:31:08.818281+00:00"
     },
     "BMW.DE": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-22",
-  "scan_count": 904
+  "scan_count": 905
 }
