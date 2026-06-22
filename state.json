@@ -41,9 +41,9 @@
       "ts": "2026-06-18T23:31:03.455115+00:00"
     },
     "BABA": {
-      "action": "LONG",
-      "confidence": 91,
-      "ts": "2026-06-22T08:01:13.868350+00:00"
+      "action": "SHORT",
+      "confidence": 77,
+      "ts": "2026-06-22T10:01:15.467692+00:00"
     },
     "BAS.DE": {
       "action": "SHORT",
@@ -141,9 +141,9 @@
       "ts": "2026-06-22T08:01:11.683527+00:00"
     },
     "NESN.SW": {
-      "action": "SHORT",
-      "confidence": 75,
-      "ts": "2026-06-19T14:31:07.026119+00:00"
+      "action": "LONG",
+      "confidence": 78,
+      "ts": "2026-06-22T10:01:16.873558+00:00"
     },
     "NFLX": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-22",
-  "scan_count": 905
+  "scan_count": 906
 }
