@@ -1,9 +1,9 @@
 {
   "alerts": {
     "AAPL": {
-      "action": "LONG",
-      "confidence": 88,
-      "ts": "2026-06-23T18:01:26.857646+00:00"
+      "action": "SHORT",
+      "confidence": 75,
+      "ts": "2026-06-23T19:31:15.715320+00:00"
     },
     "AIR.PA": {
       "action": "LONG",
@@ -148,7 +148,7 @@
     "NFLX": {
       "action": "LONG",
       "confidence": 91,
-      "ts": "2026-06-23T14:31:08.928092+00:00"
+      "ts": "2026-06-23T19:31:16.756631+00:00"
     },
     "NIO": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-23",
-  "scan_count": 972
+  "scan_count": 973
 }
