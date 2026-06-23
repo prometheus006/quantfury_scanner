@@ -158,7 +158,7 @@
     "NOVN.SW": {
       "action": "LONG",
       "confidence": 80,
-      "ts": "2026-06-23T08:31:11.131803+00:00"
+      "ts": "2026-06-23T12:31:11.576865+00:00"
     },
     "NVDA": {
       "action": "LONG",
@@ -187,8 +187,8 @@
     },
     "RHM.DE": {
       "action": "LONG",
-      "confidence": 91,
-      "ts": "2026-06-23T08:31:10.767964+00:00"
+      "confidence": 99,
+      "ts": "2026-06-23T12:31:11.090660+00:00"
     },
     "SAP.DE": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-23",
-  "scan_count": 958
+  "scan_count": 959
 }
