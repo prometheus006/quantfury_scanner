@@ -97,8 +97,8 @@
     },
     "HOOD": {
       "action": "LONG",
-      "confidence": 95,
-      "ts": "2026-06-23T08:01:12.934303+00:00"
+      "confidence": 99,
+      "ts": "2026-06-23T14:31:10.064560+00:00"
     },
     "IWM": {
       "action": "LONG",
@@ -147,13 +147,13 @@
     },
     "NFLX": {
       "action": "LONG",
-      "confidence": 92,
-      "ts": "2026-06-23T09:01:14.241593+00:00"
+      "confidence": 91,
+      "ts": "2026-06-23T14:31:08.928092+00:00"
     },
     "NIO": {
-      "action": "SHORT",
-      "confidence": 77,
-      "ts": "2026-06-23T08:01:13.581321+00:00"
+      "action": "LONG",
+      "confidence": 91,
+      "ts": "2026-06-23T14:31:10.538075+00:00"
     },
     "NOVN.SW": {
       "action": "LONG",
@@ -231,9 +231,9 @@
       "ts": "2026-06-23T08:31:10.975518+00:00"
     },
     "XBI": {
-      "action": "SHORT",
-      "confidence": 75,
-      "ts": "2026-06-22T23:01:11.915227+00:00"
+      "action": "LONG",
+      "confidence": 95,
+      "ts": "2026-06-23T14:31:09.591465+00:00"
     },
     "XLE": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-23",
-  "scan_count": 962
+  "scan_count": 963
 }
