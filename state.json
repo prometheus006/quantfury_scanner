@@ -32,8 +32,8 @@
     },
     "ASML.AS": {
       "action": "LONG",
-      "confidence": 93,
-      "ts": "2026-06-22T13:31:21.766163+00:00"
+      "confidence": 95,
+      "ts": "2026-06-23T07:31:05.491690+00:00"
     },
     "AVGO": {
       "action": "SHORT",
@@ -118,7 +118,7 @@
     "MC.PA": {
       "action": "LONG",
       "confidence": 81,
-      "ts": "2026-06-22T16:01:24.090173+00:00"
+      "ts": "2026-06-23T07:31:05.328798+00:00"
     },
     "META": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-23",
-  "scan_count": 948
+  "scan_count": 949
 }
