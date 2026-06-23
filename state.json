@@ -2,8 +2,8 @@
   "alerts": {
     "AAPL": {
       "action": "LONG",
-      "confidence": 99,
-      "ts": "2026-06-22T18:01:20.475088+00:00"
+      "confidence": 91,
+      "ts": "2026-06-23T14:01:23.159394+00:00"
     },
     "AIR.PA": {
       "action": "LONG",
@@ -122,8 +122,8 @@
     },
     "META": {
       "action": "LONG",
-      "confidence": 91,
-      "ts": "2026-06-22T21:31:06.249573+00:00"
+      "confidence": 88,
+      "ts": "2026-06-23T14:01:23.564351+00:00"
     },
     "MSFT": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-23",
-  "scan_count": 961
+  "scan_count": 962
 }
