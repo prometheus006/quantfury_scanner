@@ -107,8 +107,8 @@
     },
     "JD": {
       "action": "LONG",
-      "confidence": 93,
-      "ts": "2026-06-22T23:31:10.295239+00:00"
+      "confidence": 91,
+      "ts": "2026-06-23T20:31:10.821703+00:00"
     },
     "MBG.DE": {
       "action": "LONG",
@@ -242,8 +242,8 @@
     },
     "XLF": {
       "action": "LONG",
-      "confidence": 91,
-      "ts": "2026-06-23T13:31:23.985640+00:00"
+      "confidence": 99,
+      "ts": "2026-06-23T20:31:09.521899+00:00"
     },
     "XLK": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-23",
-  "scan_count": 974
+  "scan_count": 975
 }
