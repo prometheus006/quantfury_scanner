@@ -67,8 +67,8 @@
     },
     "CEG": {
       "action": "LONG",
-      "confidence": 81,
-      "ts": "2026-06-23T13:01:13.938008+00:00"
+      "confidence": 99,
+      "ts": "2026-06-23T17:01:27.269913+00:00"
     },
     "COIN": {
       "action": "SHORT",
@@ -137,8 +137,8 @@
     },
     "NEE": {
       "action": "LONG",
-      "confidence": 91,
-      "ts": "2026-06-23T12:01:16.029444+00:00"
+      "confidence": 99,
+      "ts": "2026-06-23T17:01:27.401909+00:00"
     },
     "NESN.SW": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-23",
-  "scan_count": 967
+  "scan_count": 968
 }
