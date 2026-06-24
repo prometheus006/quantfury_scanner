@@ -82,8 +82,8 @@
     },
     "GEV": {
       "action": "LONG",
-      "confidence": 78,
-      "ts": "2026-06-23T22:31:11.228401+00:00"
+      "confidence": 99,
+      "ts": "2026-06-24T09:01:11.448383+00:00"
     },
     "GLD": {
       "action": "SHORT",
@@ -217,8 +217,8 @@
     },
     "TSLA": {
       "action": "LONG",
-      "confidence": 99,
-      "ts": "2026-06-22T23:01:10.927712+00:00"
+      "confidence": 92,
+      "ts": "2026-06-24T09:01:12.611081+00:00"
     },
     "TSM": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-24",
-  "scan_count": 999
+  "scan_count": 1000
 }
