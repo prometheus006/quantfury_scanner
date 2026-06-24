@@ -132,8 +132,8 @@
     },
     "MSTR": {
       "action": "LONG",
-      "confidence": 92,
-      "ts": "2026-06-23T17:31:16.199376+00:00"
+      "confidence": 91,
+      "ts": "2026-06-24T13:31:05.095969+00:00"
     },
     "NEE": {
       "action": "LONG",
@@ -172,8 +172,8 @@
     },
     "PDD": {
       "action": "LONG",
-      "confidence": 92,
-      "ts": "2026-06-23T18:31:13.253910+00:00"
+      "confidence": 91,
+      "ts": "2026-06-24T13:31:05.757649+00:00"
     },
     "PLTR": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-24",
-  "scan_count": 1008
+  "scan_count": 1009
 }
