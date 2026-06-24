@@ -68,7 +68,7 @@
     "CEG": {
       "action": "LONG",
       "confidence": 99,
-      "ts": "2026-06-24T09:31:05.076264+00:00"
+      "ts": "2026-06-24T15:01:15.453880+00:00"
     },
     "COIN": {
       "action": "SHORT",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-24",
-  "scan_count": 1011
+  "scan_count": 1012
 }
