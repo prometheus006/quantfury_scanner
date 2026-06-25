@@ -136,14 +136,14 @@
       "ts": "2026-06-25T13:31:12.689831+00:00"
     },
     "NEE": {
-      "action": "LONG",
-      "confidence": 91,
-      "ts": "2026-06-25T13:01:10.000904+00:00"
+      "action": "SHORT",
+      "confidence": 78,
+      "ts": "2026-06-25T16:01:09.425236+00:00"
     },
     "NESN.SW": {
-      "action": "LONG",
-      "confidence": 84,
-      "ts": "2026-06-25T14:31:11.938641+00:00"
+      "action": "SHORT",
+      "confidence": 78,
+      "ts": "2026-06-25T16:01:13.994497+00:00"
     },
     "NFLX": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-25",
-  "scan_count": 1061
+  "scan_count": 1062
 }
