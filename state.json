@@ -67,8 +67,8 @@
     },
     "CEG": {
       "action": "LONG",
-      "confidence": 99,
-      "ts": "2026-06-24T15:01:15.453880+00:00"
+      "confidence": 93,
+      "ts": "2026-06-25T09:01:09.194732+00:00"
     },
     "COIN": {
       "action": "LONG",
@@ -111,9 +111,9 @@
       "ts": "2026-06-25T08:01:10.673539+00:00"
     },
     "MBG.DE": {
-      "action": "SHORT",
-      "confidence": 84,
-      "ts": "2026-06-24T08:31:11.308461+00:00"
+      "action": "LONG",
+      "confidence": 95,
+      "ts": "2026-06-25T09:01:11.515659+00:00"
     },
     "MC.PA": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-25",
-  "scan_count": 1047
+  "scan_count": 1048
 }
