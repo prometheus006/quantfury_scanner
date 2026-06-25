@@ -136,9 +136,9 @@
       "ts": "2026-06-25T13:31:12.689831+00:00"
     },
     "NEE": {
-      "action": "SHORT",
-      "confidence": 78,
-      "ts": "2026-06-25T16:01:09.425236+00:00"
+      "action": "LONG",
+      "confidence": 91,
+      "ts": "2026-06-25T18:01:25.942259+00:00"
     },
     "NESN.SW": {
       "action": "SHORT",
@@ -217,8 +217,8 @@
     },
     "TSLA": {
       "action": "LONG",
-      "confidence": 86,
-      "ts": "2026-06-25T14:01:19.073922+00:00"
+      "confidence": 91,
+      "ts": "2026-06-25T18:01:26.618326+00:00"
     },
     "TSM": {
       "action": "SHORT",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-25",
-  "scan_count": 1065
+  "scan_count": 1066
 }
