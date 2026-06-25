@@ -62,8 +62,8 @@
     },
     "CCJ": {
       "action": "LONG",
-      "confidence": 99,
-      "ts": "2026-06-24T12:01:13.039204+00:00"
+      "confidence": 91,
+      "ts": "2026-06-25T10:01:12.675116+00:00"
     },
     "CEG": {
       "action": "LONG",
@@ -222,8 +222,8 @@
     },
     "TSM": {
       "action": "LONG",
-      "confidence": 91,
-      "ts": "2026-06-24T17:31:10.538680+00:00"
+      "confidence": 88,
+      "ts": "2026-06-25T10:01:12.417746+00:00"
     },
     "TTE.PA": {
       "action": "SHORT",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-25",
-  "scan_count": 1049
+  "scan_count": 1050
 }
