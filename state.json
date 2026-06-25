@@ -102,8 +102,8 @@
     },
     "IWM": {
       "action": "LONG",
-      "confidence": 91,
-      "ts": "2026-06-25T12:31:04.805940+00:00"
+      "confidence": 88,
+      "ts": "2026-06-25T16:31:10.057943+00:00"
     },
     "JD": {
       "action": "SHORT",
@@ -197,8 +197,8 @@
     },
     "SIE.DE": {
       "action": "LONG",
-      "confidence": 99,
-      "ts": "2026-06-25T07:31:02.736896+00:00"
+      "confidence": 91,
+      "ts": "2026-06-25T16:31:12.275288+00:00"
     },
     "SMH": {
       "action": "SHORT",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-25",
-  "scan_count": 1062
+  "scan_count": 1063
 }
