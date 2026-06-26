@@ -207,8 +207,8 @@
     },
     "SOFI": {
       "action": "LONG",
-      "confidence": 91,
-      "ts": "2026-06-26T14:01:13.908148+00:00"
+      "confidence": 88,
+      "ts": "2026-06-26T18:31:03.113869+00:00"
     },
     "SPY": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-26",
-  "scan_count": 1114
+  "scan_count": 1115
 }
