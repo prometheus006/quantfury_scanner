@@ -17,8 +17,8 @@
     },
     "AMD": {
       "action": "LONG",
-      "confidence": 78,
-      "ts": "2026-06-26T13:01:11.463266+00:00"
+      "confidence": 96,
+      "ts": "2026-06-26T17:31:02.749897+00:00"
     },
     "AMZN": {
       "action": "LONG",
@@ -36,9 +36,9 @@
       "ts": "2026-06-26T09:31:11.605752+00:00"
     },
     "AVGO": {
-      "action": "SHORT",
-      "confidence": 80,
-      "ts": "2026-06-25T13:31:11.132752+00:00"
+      "action": "LONG",
+      "confidence": 92,
+      "ts": "2026-06-26T17:31:02.878686+00:00"
     },
     "BABA": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-26",
-  "scan_count": 1112
+  "scan_count": 1113
 }
