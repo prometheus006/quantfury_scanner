@@ -42,8 +42,8 @@
     },
     "BABA": {
       "action": "LONG",
-      "confidence": 78,
-      "ts": "2026-06-25T20:01:14.645374+00:00"
+      "confidence": 92,
+      "ts": "2026-06-26T00:01:19.728169+00:00"
     },
     "BAS.DE": {
       "action": "SHORT",
@@ -251,6 +251,6 @@
       "ts": "2026-06-25T14:01:19.738069+00:00"
     }
   },
-  "last_heartbeat": "2026-06-25",
-  "scan_count": 1077
+  "last_heartbeat": "2026-06-26",
+  "scan_count": 1078
 }
