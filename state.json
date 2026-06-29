@@ -122,8 +122,8 @@
     },
     "META": {
       "action": "LONG",
-      "confidence": 88,
-      "ts": "2026-06-29T13:31:04.015258+00:00"
+      "confidence": 80,
+      "ts": "2026-06-29T18:01:08.008908+00:00"
     },
     "MSFT": {
       "action": "LONG",
@@ -217,8 +217,8 @@
     },
     "TSLA": {
       "action": "LONG",
-      "confidence": 88,
-      "ts": "2026-06-29T13:31:04.212658+00:00"
+      "confidence": 84,
+      "ts": "2026-06-29T18:01:08.276801+00:00"
     },
     "TSM": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-29",
-  "scan_count": 1257
+  "scan_count": 1258
 }
