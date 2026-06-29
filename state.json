@@ -22,8 +22,8 @@
     },
     "AMZN": {
       "action": "LONG",
-      "confidence": 80,
-      "ts": "2026-06-29T15:31:01.887557+00:00"
+      "confidence": 88,
+      "ts": "2026-06-29T20:01:09.401835+00:00"
     },
     "ASML": {
       "action": "LONG",
@@ -137,8 +137,8 @@
     },
     "NEE": {
       "action": "LONG",
-      "confidence": 88,
-      "ts": "2026-06-29T12:30:57.488330+00:00"
+      "confidence": 92,
+      "ts": "2026-06-29T20:01:08.731686+00:00"
     },
     "NESN.SW": {
       "action": "LONG",
@@ -212,8 +212,8 @@
     },
     "SPY": {
       "action": "LONG",
-      "confidence": 88,
-      "ts": "2026-06-29T15:31:02.551093+00:00"
+      "confidence": 82,
+      "ts": "2026-06-29T20:01:10.069014+00:00"
     },
     "TSLA": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-29",
-  "scan_count": 1261
+  "scan_count": 1262
 }
