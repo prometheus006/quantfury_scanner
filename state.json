@@ -31,9 +31,9 @@
       "ts": "2026-06-26T23:01:08.371495+00:00"
     },
     "ASML.AS": {
-      "action": "SHORT",
-      "confidence": 75,
-      "ts": "2026-06-26T09:31:11.605752+00:00"
+      "action": "LONG",
+      "confidence": 99,
+      "ts": "2026-06-29T07:31:04.188631+00:00"
     },
     "AVGO": {
       "action": "LONG",
@@ -227,8 +227,8 @@
     },
     "TTE.PA": {
       "action": "LONG",
-      "confidence": 92,
-      "ts": "2026-06-26T10:01:16.747256+00:00"
+      "confidence": 91,
+      "ts": "2026-06-29T07:31:04.115740+00:00"
     },
     "XBI": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-29",
-  "scan_count": 1236
+  "scan_count": 1237
 }
