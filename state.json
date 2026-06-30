@@ -52,8 +52,8 @@
     },
     "BIDU": {
       "action": "SHORT",
-      "confidence": 80,
-      "ts": "2026-06-30T10:31:03.202245+00:00"
+      "confidence": 75,
+      "ts": "2026-06-30T20:01:05.317034+00:00"
     },
     "BMW.DE": {
       "action": "LONG",
@@ -67,8 +67,8 @@
     },
     "CEG": {
       "action": "LONG",
-      "confidence": 91,
-      "ts": "2026-06-30T12:31:03.985928+00:00"
+      "confidence": 78,
+      "ts": "2026-06-30T20:01:02.594451+00:00"
     },
     "COIN": {
       "action": "SHORT",
@@ -87,13 +87,13 @@
     },
     "GLD": {
       "action": "LONG",
-      "confidence": 93,
-      "ts": "2026-06-30T10:30:58.647014+00:00"
+      "confidence": 87,
+      "ts": "2026-06-30T20:01:01.913044+00:00"
     },
     "GOOGL": {
-      "action": "LONG",
-      "confidence": 85,
-      "ts": "2026-06-30T16:01:05.646863+00:00"
+      "action": "SHORT",
+      "confidence": 75,
+      "ts": "2026-06-30T20:01:02.985926+00:00"
     },
     "HOOD": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-06-30",
-  "scan_count": 1309
+  "scan_count": 1310
 }
