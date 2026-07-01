@@ -7,8 +7,8 @@
     },
     "AIR.PA": {
       "action": "LONG",
-      "confidence": 99,
-      "ts": "2026-06-30T16:01:09.610578+00:00"
+      "confidence": 94,
+      "ts": "2026-07-01T07:30:56.953629+00:00"
     },
     "ALV.DE": {
       "action": "LONG",
@@ -32,8 +32,8 @@
     },
     "ASML.AS": {
       "action": "LONG",
-      "confidence": 84,
-      "ts": "2026-06-30T17:01:10.647939+00:00"
+      "confidence": 93,
+      "ts": "2026-07-01T07:30:57.062273+00:00"
     },
     "AVGO": {
       "action": "LONG",
@@ -197,8 +197,8 @@
     },
     "SIE.DE": {
       "action": "LONG",
-      "confidence": 94,
-      "ts": "2026-06-30T17:01:10.075822+00:00"
+      "confidence": 88,
+      "ts": "2026-07-01T07:30:56.557125+00:00"
     },
     "SMH": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-01",
-  "scan_count": 1332
+  "scan_count": 1333
 }
