@@ -7,8 +7,8 @@
     },
     "AIR.PA": {
       "action": "LONG",
-      "confidence": 94,
-      "ts": "2026-07-01T07:30:56.953629+00:00"
+      "confidence": 84,
+      "ts": "2026-07-01T11:31:02.493890+00:00"
     },
     "ALV.DE": {
       "action": "LONG",
@@ -32,8 +32,8 @@
     },
     "ASML.AS": {
       "action": "LONG",
-      "confidence": 93,
-      "ts": "2026-07-01T07:30:57.062273+00:00"
+      "confidence": 84,
+      "ts": "2026-07-01T11:31:02.640753+00:00"
     },
     "AVGO": {
       "action": "LONG",
@@ -46,9 +46,9 @@
       "ts": "2026-07-01T08:30:59.940620+00:00"
     },
     "BAS.DE": {
-      "action": "LONG",
-      "confidence": 91,
-      "ts": "2026-07-01T10:30:57.823789+00:00"
+      "action": "SHORT",
+      "confidence": 77,
+      "ts": "2026-07-01T11:31:02.187164+00:00"
     },
     "BIDU": {
       "action": "SHORT",
@@ -76,9 +76,9 @@
       "ts": "2026-07-01T09:01:09.361219+00:00"
     },
     "GDX": {
-      "action": "SHORT",
-      "confidence": 84,
-      "ts": "2026-06-30T21:30:54.121387+00:00"
+      "action": "LONG",
+      "confidence": 95,
+      "ts": "2026-07-01T11:30:57.048429+00:00"
     },
     "GEV": {
       "action": "SHORT",
@@ -192,8 +192,8 @@
     },
     "SAP.DE": {
       "action": "LONG",
-      "confidence": 80,
-      "ts": "2026-06-29T11:30:59.378892+00:00"
+      "confidence": 89,
+      "ts": "2026-07-01T11:31:01.775134+00:00"
     },
     "SIE.DE": {
       "action": "SHORT",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-01",
-  "scan_count": 1340
+  "scan_count": 1341
 }
