@@ -72,8 +72,8 @@
     },
     "COIN": {
       "action": "LONG",
-      "confidence": 91,
-      "ts": "2026-07-01T09:01:09.361219+00:00"
+      "confidence": 95,
+      "ts": "2026-07-01T13:31:00.908338+00:00"
     },
     "GDX": {
       "action": "LONG",
@@ -167,13 +167,13 @@
     },
     "OR.PA": {
       "action": "LONG",
-      "confidence": 81,
-      "ts": "2026-06-30T13:01:11.360679+00:00"
+      "confidence": 93,
+      "ts": "2026-07-01T13:31:02.213042+00:00"
     },
     "PDD": {
-      "action": "SHORT",
-      "confidence": 77,
-      "ts": "2026-06-29T15:01:08.954559+00:00"
+      "action": "LONG",
+      "confidence": 80,
+      "ts": "2026-07-01T13:31:01.494766+00:00"
     },
     "PLTR": {
       "action": "LONG",
@@ -207,8 +207,8 @@
     },
     "SOFI": {
       "action": "LONG",
-      "confidence": 95,
-      "ts": "2026-06-30T08:01:12.826934+00:00"
+      "confidence": 99,
+      "ts": "2026-07-01T13:31:01.201857+00:00"
     },
     "SPY": {
       "action": "SHORT",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-01",
-  "scan_count": 1344
+  "scan_count": 1345
 }
