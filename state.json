@@ -176,9 +176,9 @@
       "ts": "2026-07-01T22:01:10.968158+00:00"
     },
     "PLTR": {
-      "action": "LONG",
-      "confidence": 99,
-      "ts": "2026-07-01T21:01:07.996927+00:00"
+      "action": "SHORT",
+      "confidence": 75,
+      "ts": "2026-07-01T23:01:04.032770+00:00"
     },
     "QQQ": {
       "action": "SHORT",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-01",
-  "scan_count": 1363
+  "scan_count": 1364
 }
