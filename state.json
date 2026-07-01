@@ -12,8 +12,8 @@
     },
     "ALV.DE": {
       "action": "LONG",
-      "confidence": 93,
-      "ts": "2026-06-30T16:01:09.074547+00:00"
+      "confidence": 99,
+      "ts": "2026-07-01T16:31:24.389683+00:00"
     },
     "AMD": {
       "action": "LONG",
@@ -87,13 +87,13 @@
     },
     "GLD": {
       "action": "LONG",
-      "confidence": 99,
-      "ts": "2026-07-01T12:01:03.211013+00:00"
+      "confidence": 88,
+      "ts": "2026-07-01T16:31:19.481150+00:00"
     },
     "GOOGL": {
-      "action": "LONG",
-      "confidence": 85,
-      "ts": "2026-07-01T13:01:03.110139+00:00"
+      "action": "SHORT",
+      "confidence": 77,
+      "ts": "2026-07-01T16:31:20.944935+00:00"
     },
     "HOOD": {
       "action": "LONG",
@@ -122,13 +122,13 @@
     },
     "META": {
       "action": "LONG",
-      "confidence": 80,
-      "ts": "2026-07-01T12:30:59.553017+00:00"
+      "confidence": 84,
+      "ts": "2026-07-01T16:31:21.076959+00:00"
     },
     "MSFT": {
       "action": "LONG",
-      "confidence": 80,
-      "ts": "2026-07-01T12:30:59.288648+00:00"
+      "confidence": 75,
+      "ts": "2026-07-01T16:31:20.812345+00:00"
     },
     "MSTR": {
       "action": "LONG",
@@ -177,8 +177,8 @@
     },
     "PLTR": {
       "action": "LONG",
-      "confidence": 80,
-      "ts": "2026-07-01T12:31:01.382886+00:00"
+      "confidence": 84,
+      "ts": "2026-07-01T16:31:22.939330+00:00"
     },
     "QQQ": {
       "action": "SHORT",
@@ -237,8 +237,8 @@
     },
     "XLE": {
       "action": "LONG",
-      "confidence": 78,
-      "ts": "2026-07-01T12:31:00.724006+00:00"
+      "confidence": 94,
+      "ts": "2026-07-01T16:31:22.273393+00:00"
     },
     "XLF": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-01",
-  "scan_count": 1350
+  "scan_count": 1351
 }
