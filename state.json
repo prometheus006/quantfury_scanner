@@ -132,8 +132,8 @@
     },
     "MSTR": {
       "action": "LONG",
-      "confidence": 95,
-      "ts": "2026-07-01T09:01:09.472357+00:00"
+      "confidence": 88,
+      "ts": "2026-07-02T10:01:04.568626+00:00"
     },
     "NEE": {
       "action": "LONG",
@@ -171,14 +171,14 @@
       "ts": "2026-07-01T13:31:02.213042+00:00"
     },
     "PDD": {
-      "action": "LONG",
-      "confidence": 88,
-      "ts": "2026-07-02T08:01:09.546798+00:00"
+      "action": "SHORT",
+      "confidence": 79,
+      "ts": "2026-07-02T10:01:05.056394+00:00"
     },
     "PLTR": {
-      "action": "SHORT",
-      "confidence": 75,
-      "ts": "2026-07-01T23:01:04.032770+00:00"
+      "action": "LONG",
+      "confidence": 95,
+      "ts": "2026-07-02T10:01:04.372920+00:00"
     },
     "QQQ": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-02",
-  "scan_count": 1385
+  "scan_count": 1386
 }
