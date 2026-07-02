@@ -157,8 +157,8 @@
     },
     "NOVN.SW": {
       "action": "LONG",
-      "confidence": 93,
-      "ts": "2026-06-30T11:31:04.567989+00:00"
+      "confidence": 99,
+      "ts": "2026-07-02T13:31:04.996103+00:00"
     },
     "NVDA": {
       "action": "LONG",
@@ -187,8 +187,8 @@
     },
     "RHM.DE": {
       "action": "LONG",
-      "confidence": 80,
-      "ts": "2026-07-02T09:31:03.670206+00:00"
+      "confidence": 75,
+      "ts": "2026-07-02T13:31:04.615456+00:00"
     },
     "SAP.DE": {
       "action": "LONG",
@@ -211,9 +211,9 @@
       "ts": "2026-07-02T13:01:07.831332+00:00"
     },
     "SPY": {
-      "action": "SHORT",
-      "confidence": 77,
-      "ts": "2026-07-01T18:01:08.178071+00:00"
+      "action": "LONG",
+      "confidence": 91,
+      "ts": "2026-07-02T13:31:02.550175+00:00"
     },
     "TSLA": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-02",
-  "scan_count": 1392
+  "scan_count": 1393
 }
