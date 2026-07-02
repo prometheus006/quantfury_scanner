@@ -106,9 +106,9 @@
       "ts": "2026-07-01T14:31:05.449757+00:00"
     },
     "JD": {
-      "action": "LONG",
-      "confidence": 88,
-      "ts": "2026-07-02T08:01:09.416066+00:00"
+      "action": "SHORT",
+      "confidence": 77,
+      "ts": "2026-07-02T09:31:03.112220+00:00"
     },
     "MBG.DE": {
       "action": "LONG",
@@ -187,8 +187,8 @@
     },
     "RHM.DE": {
       "action": "LONG",
-      "confidence": 91,
-      "ts": "2026-06-26T12:01:13.938945+00:00"
+      "confidence": 80,
+      "ts": "2026-07-02T09:31:03.670206+00:00"
     },
     "SAP.DE": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-02",
-  "scan_count": 1384
+  "scan_count": 1385
 }
