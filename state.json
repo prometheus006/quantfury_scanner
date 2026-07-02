@@ -2,8 +2,8 @@
   "alerts": {
     "AAPL": {
       "action": "LONG",
-      "confidence": 89,
-      "ts": "2026-07-02T14:01:09.156706+00:00"
+      "confidence": 84,
+      "ts": "2026-07-02T18:30:57.728965+00:00"
     },
     "AIR.PA": {
       "action": "LONG",
@@ -182,8 +182,8 @@
     },
     "QQQ": {
       "action": "LONG",
-      "confidence": 92,
-      "ts": "2026-07-02T14:01:10.506123+00:00"
+      "confidence": 78,
+      "ts": "2026-07-02T18:30:59.041927+00:00"
     },
     "RHM.DE": {
       "action": "LONG",
@@ -241,9 +241,9 @@
       "ts": "2026-07-02T14:01:10.777886+00:00"
     },
     "XLF": {
-      "action": "SHORT",
-      "confidence": 80,
-      "ts": "2026-07-02T17:31:04.351805+00:00"
+      "action": "LONG",
+      "confidence": 75,
+      "ts": "2026-07-02T18:30:59.431592+00:00"
     },
     "XLK": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-02",
-  "scan_count": 1402
+  "scan_count": 1403
 }
