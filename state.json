@@ -31,9 +31,9 @@
       "ts": "2026-07-02T23:01:09.504807+00:00"
     },
     "ASML.AS": {
-      "action": "SHORT",
-      "confidence": 75,
-      "ts": "2026-07-06T09:31:23.258019+00:00"
+      "action": "LONG",
+      "confidence": 93,
+      "ts": "2026-07-06T12:31:28.124686+00:00"
     },
     "AVGO": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-06",
-  "scan_count": 1582
+  "scan_count": 1583
 }
