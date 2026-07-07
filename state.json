@@ -82,8 +82,8 @@
     },
     "GEV": {
       "action": "LONG",
-      "confidence": 99,
-      "ts": "2026-07-06T22:01:25.903946+00:00"
+      "confidence": 78,
+      "ts": "2026-07-07T13:31:18.101378+00:00"
     },
     "GLD": {
       "action": "LONG",
@@ -91,9 +91,9 @@
       "ts": "2026-07-06T11:31:16.371115+00:00"
     },
     "GOOGL": {
-      "action": "SHORT",
-      "confidence": 77,
-      "ts": "2026-07-07T13:01:28.840112+00:00"
+      "action": "LONG",
+      "confidence": 99,
+      "ts": "2026-07-07T13:31:18.895335+00:00"
     },
     "HOOD": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-07",
-  "scan_count": 1631
+  "scan_count": 1632
 }
