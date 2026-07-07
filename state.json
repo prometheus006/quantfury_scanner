@@ -193,7 +193,7 @@
     "SAP.DE": {
       "action": "LONG",
       "confidence": 85,
-      "ts": "2026-07-06T08:31:21.223610+00:00"
+      "ts": "2026-07-07T07:31:12.593054+00:00"
     },
     "SIE.DE": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-07",
-  "scan_count": 1620
+  "scan_count": 1621
 }
