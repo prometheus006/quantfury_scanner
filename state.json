@@ -147,8 +147,8 @@
     },
     "NFLX": {
       "action": "LONG",
-      "confidence": 91,
-      "ts": "2026-07-07T11:31:15.660094+00:00"
+      "confidence": 99,
+      "ts": "2026-07-07T15:31:20.251837+00:00"
     },
     "NIO": {
       "action": "SHORT",
@@ -193,7 +193,7 @@
     "SAP.DE": {
       "action": "LONG",
       "confidence": 80,
-      "ts": "2026-07-07T11:31:17.743041+00:00"
+      "ts": "2026-07-07T15:31:22.801123+00:00"
     },
     "SIE.DE": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-07",
-  "scan_count": 1635
+  "scan_count": 1636
 }
