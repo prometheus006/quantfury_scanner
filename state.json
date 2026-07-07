@@ -22,8 +22,8 @@
     },
     "AMZN": {
       "action": "LONG",
-      "confidence": 88,
-      "ts": "2026-07-07T09:01:23.301036+00:00"
+      "confidence": 99,
+      "ts": "2026-07-07T13:01:29.104012+00:00"
     },
     "ASML": {
       "action": "SHORT",
@@ -91,9 +91,9 @@
       "ts": "2026-07-06T11:31:16.371115+00:00"
     },
     "GOOGL": {
-      "action": "LONG",
-      "confidence": 88,
-      "ts": "2026-07-07T12:31:21.228495+00:00"
+      "action": "SHORT",
+      "confidence": 77,
+      "ts": "2026-07-07T13:01:28.840112+00:00"
     },
     "HOOD": {
       "action": "LONG",
@@ -152,8 +152,8 @@
     },
     "NIO": {
       "action": "LONG",
-      "confidence": 99,
-      "ts": "2026-07-07T08:31:20.532393+00:00"
+      "confidence": 88,
+      "ts": "2026-07-07T13:01:31.852012+00:00"
     },
     "NOVN.SW": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-07",
-  "scan_count": 1630
+  "scan_count": 1631
 }
