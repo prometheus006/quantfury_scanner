@@ -117,8 +117,8 @@
     },
     "MC.PA": {
       "action": "LONG",
-      "confidence": 88,
-      "ts": "2026-07-06T11:31:21.795459+00:00"
+      "confidence": 91,
+      "ts": "2026-07-07T11:01:23.803353+00:00"
     },
     "META": {
       "action": "LONG",
@@ -137,8 +137,8 @@
     },
     "NEE": {
       "action": "LONG",
-      "confidence": 88,
-      "ts": "2026-07-06T12:01:28.760775+00:00"
+      "confidence": 91,
+      "ts": "2026-07-07T11:01:19.524480+00:00"
     },
     "NESN.SW": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-07",
-  "scan_count": 1626
+  "scan_count": 1627
 }
