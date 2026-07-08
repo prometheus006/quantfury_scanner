@@ -7,8 +7,8 @@
     },
     "AIR.PA": {
       "action": "LONG",
-      "confidence": 95,
-      "ts": "2026-07-08T07:31:16.569839+00:00"
+      "confidence": 81,
+      "ts": "2026-07-08T11:31:45.136379+00:00"
     },
     "ALV.DE": {
       "action": "LONG",
@@ -227,8 +227,8 @@
     },
     "TTE.PA": {
       "action": "LONG",
-      "confidence": 80,
-      "ts": "2026-07-08T07:31:16.623237+00:00"
+      "confidence": 88,
+      "ts": "2026-07-08T11:31:45.208872+00:00"
     },
     "XBI": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-08",
-  "scan_count": 1675
+  "scan_count": 1676
 }
