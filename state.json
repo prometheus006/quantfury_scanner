@@ -72,8 +72,8 @@
     },
     "COIN": {
       "action": "LONG",
-      "confidence": 81,
-      "ts": "2026-07-08T08:31:23.344469+00:00"
+      "confidence": 93,
+      "ts": "2026-07-08T17:31:29.841738+00:00"
     },
     "GDX": {
       "action": "LONG",
@@ -132,8 +132,8 @@
     },
     "MSTR": {
       "action": "LONG",
-      "confidence": 95,
-      "ts": "2026-07-06T08:01:27.650195+00:00"
+      "confidence": 92,
+      "ts": "2026-07-08T17:31:29.971744+00:00"
     },
     "NEE": {
       "action": "SHORT",
@@ -162,8 +162,8 @@
     },
     "NVDA": {
       "action": "LONG",
-      "confidence": 91,
-      "ts": "2026-07-08T13:31:22.428461+00:00"
+      "confidence": 80,
+      "ts": "2026-07-08T17:31:26.697504+00:00"
     },
     "OR.PA": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-08",
-  "scan_count": 1687
+  "scan_count": 1688
 }
