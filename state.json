@@ -152,8 +152,8 @@
     },
     "NIO": {
       "action": "LONG",
-      "confidence": 93,
-      "ts": "2026-07-08T14:31:22.298522+00:00"
+      "confidence": 87,
+      "ts": "2026-07-08T20:31:19.802612+00:00"
     },
     "NOVN.SW": {
       "action": "SHORT",
@@ -233,7 +233,7 @@
     "XBI": {
       "action": "LONG",
       "confidence": 99,
-      "ts": "2026-07-08T08:01:27.377690+00:00"
+      "ts": "2026-07-08T20:31:18.816428+00:00"
     },
     "XLE": {
       "action": "SHORT",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-08",
-  "scan_count": 1693
+  "scan_count": 1694
 }
