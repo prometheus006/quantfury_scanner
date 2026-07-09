@@ -16,9 +16,9 @@
       "ts": "2026-07-09T14:01:27.779407+00:00"
     },
     "AMD": {
-      "action": "SHORT",
-      "confidence": 77,
-      "ts": "2026-07-09T23:01:20.246508+00:00"
+      "action": "LONG",
+      "confidence": 99,
+      "ts": "2026-07-09T23:31:20.704471+00:00"
     },
     "AMZN": {
       "action": "LONG",
@@ -137,8 +137,8 @@
     },
     "NEE": {
       "action": "LONG",
-      "confidence": 91,
-      "ts": "2026-07-09T17:31:21.362330+00:00"
+      "confidence": 94,
+      "ts": "2026-07-09T23:31:19.785097+00:00"
     },
     "NESN.SW": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-09",
-  "scan_count": 1745
+  "scan_count": 1746
 }
