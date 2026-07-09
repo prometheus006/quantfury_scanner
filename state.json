@@ -3,7 +3,7 @@
     "AAPL": {
       "action": "LONG",
       "confidence": 99,
-      "ts": "2026-07-09T08:06:40.005534+00:00"
+      "ts": "2026-07-09T15:31:12.573347+00:00"
     },
     "AIR.PA": {
       "action": "LONG",
@@ -87,8 +87,8 @@
     },
     "GLD": {
       "action": "LONG",
-      "confidence": 97,
-      "ts": "2026-07-08T19:01:25.152437+00:00"
+      "confidence": 88,
+      "ts": "2026-07-09T15:31:11.675155+00:00"
     },
     "GOOGL": {
       "action": "LONG",
@@ -222,8 +222,8 @@
     },
     "TSM": {
       "action": "LONG",
-      "confidence": 92,
-      "ts": "2026-07-08T13:01:27.394911+00:00"
+      "confidence": 88,
+      "ts": "2026-07-09T15:31:12.075919+00:00"
     },
     "TTE.PA": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-09",
-  "scan_count": 1729
+  "scan_count": 1730
 }
