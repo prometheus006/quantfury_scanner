@@ -17,8 +17,8 @@
     },
     "AMD": {
       "action": "LONG",
-      "confidence": 95,
-      "ts": "2026-07-10T16:31:18.567031+00:00"
+      "confidence": 99,
+      "ts": "2026-07-10T21:01:23.479822+00:00"
     },
     "AMZN": {
       "action": "LONG",
@@ -121,9 +121,9 @@
       "ts": "2026-07-09T11:31:23.332422+00:00"
     },
     "META": {
-      "action": "LONG",
-      "confidence": 93,
-      "ts": "2026-07-10T20:31:11.861197+00:00"
+      "action": "SHORT",
+      "confidence": 75,
+      "ts": "2026-07-10T21:01:23.191618+00:00"
     },
     "MSFT": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-10",
-  "scan_count": 1787
+  "scan_count": 1788
 }
