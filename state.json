@@ -22,8 +22,8 @@
     },
     "AMZN": {
       "action": "LONG",
-      "confidence": 88,
-      "ts": "2026-07-10T12:01:23.906548+00:00"
+      "confidence": 85,
+      "ts": "2026-07-13T15:01:32.873927+00:00"
     },
     "ASML": {
       "action": "LONG",
@@ -91,9 +91,9 @@
       "ts": "2026-07-13T14:01:26.535753+00:00"
     },
     "GOOGL": {
-      "action": "SHORT",
-      "confidence": 75,
-      "ts": "2026-07-13T14:31:17.736535+00:00"
+      "action": "LONG",
+      "confidence": 91,
+      "ts": "2026-07-13T15:01:32.597549+00:00"
     },
     "HOOD": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-13",
-  "scan_count": 1919
+  "scan_count": 1920
 }
