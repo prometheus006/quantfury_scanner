@@ -107,8 +107,8 @@
     },
     "JD": {
       "action": "LONG",
-      "confidence": 93,
-      "ts": "2026-07-10T16:01:32.370283+00:00"
+      "confidence": 88,
+      "ts": "2026-07-13T09:01:24.864867+00:00"
     },
     "MBG.DE": {
       "action": "LONG",
@@ -193,7 +193,7 @@
     "SAP.DE": {
       "action": "LONG",
       "confidence": 91,
-      "ts": "2026-07-10T15:31:16.489847+00:00"
+      "ts": "2026-07-13T09:01:25.339740+00:00"
     },
     "SIE.DE": {
       "action": "SHORT",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-13",
-  "scan_count": 1907
+  "scan_count": 1908
 }
