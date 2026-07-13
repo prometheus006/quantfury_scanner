@@ -107,8 +107,8 @@
     },
     "JD": {
       "action": "LONG",
-      "confidence": 88,
-      "ts": "2026-07-13T09:01:24.864867+00:00"
+      "confidence": 93,
+      "ts": "2026-07-13T13:01:26.238310+00:00"
     },
     "MBG.DE": {
       "action": "LONG",
@@ -156,9 +156,9 @@
       "ts": "2026-07-13T08:31:20.061490+00:00"
     },
     "NOVN.SW": {
-      "action": "SHORT",
-      "confidence": 75,
-      "ts": "2026-07-10T15:31:17.461171+00:00"
+      "action": "LONG",
+      "confidence": 93,
+      "ts": "2026-07-13T13:01:27.718340+00:00"
     },
     "NVDA": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-13",
-  "scan_count": 1915
+  "scan_count": 1916
 }
