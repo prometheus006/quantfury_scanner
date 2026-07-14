@@ -12,8 +12,8 @@
     },
     "ALV.DE": {
       "action": "LONG",
-      "confidence": 99,
-      "ts": "2026-07-13T07:31:17.232131+00:00"
+      "confidence": 81,
+      "ts": "2026-07-14T11:01:33.197736+00:00"
     },
     "AMD": {
       "action": "LONG",
@@ -196,9 +196,9 @@
       "ts": "2026-07-14T09:31:15.419015+00:00"
     },
     "SIE.DE": {
-      "action": "SHORT",
-      "confidence": 80,
-      "ts": "2026-07-13T08:31:20.351364+00:00"
+      "action": "LONG",
+      "confidence": 91,
+      "ts": "2026-07-14T11:01:33.138000+00:00"
     },
     "SMH": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-14",
-  "scan_count": 1959
+  "scan_count": 1960
 }
