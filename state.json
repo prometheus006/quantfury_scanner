@@ -27,8 +27,8 @@
     },
     "ASML": {
       "action": "LONG",
-      "confidence": 96,
-      "ts": "2026-07-14T08:31:15.236937+00:00"
+      "confidence": 88,
+      "ts": "2026-07-14T22:01:22.090798+00:00"
     },
     "ASML.AS": {
       "action": "LONG",
@@ -92,8 +92,8 @@
     },
     "GOOGL": {
       "action": "LONG",
-      "confidence": 78,
-      "ts": "2026-07-14T13:01:28.046281+00:00"
+      "confidence": 88,
+      "ts": "2026-07-14T22:01:23.110549+00:00"
     },
     "HOOD": {
       "action": "LONG",
@@ -182,8 +182,8 @@
     },
     "QQQ": {
       "action": "LONG",
-      "confidence": 88,
-      "ts": "2026-07-14T17:31:21.946256+00:00"
+      "confidence": 99,
+      "ts": "2026-07-14T22:01:24.016068+00:00"
     },
     "RHM.DE": {
       "action": "LONG",
@@ -208,7 +208,7 @@
     "SOFI": {
       "action": "LONG",
       "confidence": 99,
-      "ts": "2026-07-14T17:31:23.455901+00:00"
+      "ts": "2026-07-14T22:01:25.264830+00:00"
     },
     "SPY": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-14",
-  "scan_count": 1981
+  "scan_count": 1982
 }
