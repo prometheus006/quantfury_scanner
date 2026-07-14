@@ -17,8 +17,8 @@
     },
     "AMD": {
       "action": "LONG",
-      "confidence": 93,
-      "ts": "2026-07-14T13:01:28.571993+00:00"
+      "confidence": 99,
+      "ts": "2026-07-14T17:31:21.397163+00:00"
     },
     "AMZN": {
       "action": "LONG",
@@ -182,8 +182,8 @@
     },
     "QQQ": {
       "action": "LONG",
-      "confidence": 78,
-      "ts": "2026-07-13T22:31:22.726608+00:00"
+      "confidence": 88,
+      "ts": "2026-07-14T17:31:21.946256+00:00"
     },
     "RHM.DE": {
       "action": "LONG",
@@ -207,8 +207,8 @@
     },
     "SOFI": {
       "action": "LONG",
-      "confidence": 96,
-      "ts": "2026-07-14T13:01:30.538706+00:00"
+      "confidence": 99,
+      "ts": "2026-07-14T17:31:23.455901+00:00"
     },
     "SPY": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-14",
-  "scan_count": 1972
+  "scan_count": 1973
 }
