@@ -31,9 +31,9 @@
       "ts": "2026-07-14T08:31:15.236937+00:00"
     },
     "ASML.AS": {
-      "action": "SHORT",
-      "confidence": 75,
-      "ts": "2026-07-13T07:31:17.619450+00:00"
+      "action": "LONG",
+      "confidence": 96,
+      "ts": "2026-07-14T12:01:26.924552+00:00"
     },
     "AVGO": {
       "action": "LONG",
@@ -162,8 +162,8 @@
     },
     "NVDA": {
       "action": "LONG",
-      "confidence": 93,
-      "ts": "2026-07-10T22:31:21.187581+00:00"
+      "confidence": 99,
+      "ts": "2026-07-14T12:01:21.886735+00:00"
     },
     "OR.PA": {
       "action": "SHORT",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-14",
-  "scan_count": 1961
+  "scan_count": 1962
 }
