@@ -37,8 +37,8 @@
     },
     "AVGO": {
       "action": "LONG",
-      "confidence": 93,
-      "ts": "2026-07-14T09:01:24.766169+00:00"
+      "confidence": 88,
+      "ts": "2026-07-14T15:31:22.357682+00:00"
     },
     "BABA": {
       "action": "LONG",
@@ -121,9 +121,9 @@
       "ts": "2026-07-14T08:31:20.185666+00:00"
     },
     "META": {
-      "action": "SHORT",
-      "confidence": 75,
-      "ts": "2026-07-10T21:01:23.191618+00:00"
+      "action": "LONG",
+      "confidence": 99,
+      "ts": "2026-07-14T15:31:21.825201+00:00"
     },
     "MSFT": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-14",
-  "scan_count": 1968
+  "scan_count": 1969
 }
