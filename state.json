@@ -217,8 +217,8 @@
     },
     "TSLA": {
       "action": "LONG",
-      "confidence": 78,
-      "ts": "2026-07-13T22:31:22.060187+00:00"
+      "confidence": 94,
+      "ts": "2026-07-14T10:01:23.767386+00:00"
     },
     "TSM": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-14",
-  "scan_count": 1957
+  "scan_count": 1958
 }
