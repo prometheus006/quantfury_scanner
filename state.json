@@ -86,9 +86,9 @@
       "ts": "2026-07-14T14:01:24.761630+00:00"
     },
     "GLD": {
-      "action": "LONG",
-      "confidence": 91,
-      "ts": "2026-07-15T09:01:23.329241+00:00"
+      "action": "SHORT",
+      "confidence": 75,
+      "ts": "2026-07-15T09:31:10.197448+00:00"
     },
     "GOOGL": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-15",
-  "scan_count": 2004
+  "scan_count": 2005
 }
