@@ -107,8 +107,8 @@
     },
     "JD": {
       "action": "LONG",
-      "confidence": 99,
-      "ts": "2026-07-15T17:31:21.203618+00:00"
+      "confidence": 95,
+      "ts": "2026-07-16T09:31:17.275454+00:00"
     },
     "MBG.DE": {
       "action": "LONG",
@@ -137,8 +137,8 @@
     },
     "NEE": {
       "action": "LONG",
-      "confidence": 88,
-      "ts": "2026-07-15T08:01:19.567440+00:00"
+      "confidence": 91,
+      "ts": "2026-07-16T09:31:14.052762+00:00"
     },
     "NESN.SW": {
       "action": "SHORT",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-16",
-  "scan_count": 2052
+  "scan_count": 2053
 }
