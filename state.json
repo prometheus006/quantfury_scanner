@@ -1,9 +1,9 @@
 {
   "alerts": {
     "AAPL": {
-      "action": "LONG",
-      "confidence": 93,
-      "ts": "2026-07-16T08:01:20.318338+00:00"
+      "action": "SHORT",
+      "confidence": 75,
+      "ts": "2026-07-16T11:01:25.048885+00:00"
     },
     "AIR.PA": {
       "action": "LONG",
@@ -52,8 +52,8 @@
     },
     "BIDU": {
       "action": "LONG",
-      "confidence": 80,
-      "ts": "2026-07-15T14:01:34.887624+00:00"
+      "confidence": 88,
+      "ts": "2026-07-16T11:01:27.169983+00:00"
     },
     "BMW.DE": {
       "action": "LONG",
@@ -208,7 +208,7 @@
     "SOFI": {
       "action": "LONG",
       "confidence": 78,
-      "ts": "2026-07-15T16:31:26.468565+00:00"
+      "ts": "2026-07-16T11:01:26.766326+00:00"
     },
     "SPY": {
       "action": "SHORT",
@@ -232,8 +232,8 @@
     },
     "XBI": {
       "action": "LONG",
-      "confidence": 85,
-      "ts": "2026-07-15T20:01:23.770391+00:00"
+      "confidence": 91,
+      "ts": "2026-07-16T11:01:26.278764+00:00"
     },
     "XLE": {
       "action": "LONG",
@@ -248,9 +248,9 @@
     "XLK": {
       "action": "LONG",
       "confidence": 78,
-      "ts": "2026-07-15T16:01:39.563383+00:00"
+      "ts": "2026-07-16T11:01:26.195338+00:00"
     }
   },
   "last_heartbeat": "2026-07-16",
-  "scan_count": 2055
+  "scan_count": 2056
 }
