@@ -1,9 +1,9 @@
 {
   "alerts": {
     "AAPL": {
-      "action": "LONG",
-      "confidence": 84,
-      "ts": "2026-07-16T17:31:12.883105+00:00"
+      "action": "SHORT",
+      "confidence": 75,
+      "ts": "2026-07-16T18:01:12.622769+00:00"
     },
     "AIR.PA": {
       "action": "LONG",
@@ -37,8 +37,8 @@
     },
     "AVGO": {
       "action": "LONG",
-      "confidence": 78,
-      "ts": "2026-07-16T13:31:18.049377+00:00"
+      "confidence": 81,
+      "ts": "2026-07-16T18:01:13.307322+00:00"
     },
     "BABA": {
       "action": "LONG",
@@ -67,8 +67,8 @@
     },
     "CEG": {
       "action": "LONG",
-      "confidence": 99,
-      "ts": "2026-07-15T14:01:31.013058+00:00"
+      "confidence": 78,
+      "ts": "2026-07-16T18:01:12.428399+00:00"
     },
     "COIN": {
       "action": "LONG",
@@ -218,7 +218,7 @@
     "TSLA": {
       "action": "LONG",
       "confidence": 78,
-      "ts": "2026-07-16T13:31:17.790835+00:00"
+      "ts": "2026-07-16T18:01:13.111944+00:00"
     },
     "TSM": {
       "action": "LONG",
@@ -238,7 +238,7 @@
     "XLE": {
       "action": "LONG",
       "confidence": 88,
-      "ts": "2026-07-16T13:31:18.694366+00:00"
+      "ts": "2026-07-16T18:01:13.795587+00:00"
     },
     "XLF": {
       "action": "SHORT",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-16",
-  "scan_count": 2069
+  "scan_count": 2070
 }
