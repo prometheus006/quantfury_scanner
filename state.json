@@ -126,9 +126,9 @@
       "ts": "2026-07-16T12:01:24.514374+00:00"
     },
     "MSFT": {
-      "action": "LONG",
-      "confidence": 93,
-      "ts": "2026-07-16T12:01:24.320509+00:00"
+      "action": "SHORT",
+      "confidence": 78,
+      "ts": "2026-07-16T14:01:35.677272+00:00"
     },
     "MSTR": {
       "action": "SHORT",
@@ -138,17 +138,17 @@
     "NEE": {
       "action": "LONG",
       "confidence": 91,
-      "ts": "2026-07-16T09:31:14.052762+00:00"
+      "ts": "2026-07-16T14:01:35.417570+00:00"
     },
     "NESN.SW": {
-      "action": "SHORT",
-      "confidence": 80,
-      "ts": "2026-07-16T13:01:27.779534+00:00"
+      "action": "LONG",
+      "confidence": 91,
+      "ts": "2026-07-16T14:01:39.929389+00:00"
     },
     "NFLX": {
-      "action": "LONG",
-      "confidence": 88,
-      "ts": "2026-07-16T13:01:25.315535+00:00"
+      "action": "SHORT",
+      "confidence": 76,
+      "ts": "2026-07-16T14:01:36.591418+00:00"
     },
     "NIO": {
       "action": "LONG",
@@ -177,8 +177,8 @@
     },
     "PLTR": {
       "action": "LONG",
-      "confidence": 99,
-      "ts": "2026-07-15T12:01:28.010019+00:00"
+      "confidence": 78,
+      "ts": "2026-07-16T14:01:37.765542+00:00"
     },
     "QQQ": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-16",
-  "scan_count": 2061
+  "scan_count": 2062
 }
