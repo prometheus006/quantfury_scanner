@@ -1,9 +1,9 @@
 {
   "alerts": {
     "AAPL": {
-      "action": "SHORT",
-      "confidence": 75,
-      "ts": "2026-07-16T11:01:25.048885+00:00"
+      "action": "LONG",
+      "confidence": 93,
+      "ts": "2026-07-16T11:31:19.151177+00:00"
     },
     "AIR.PA": {
       "action": "LONG",
@@ -112,8 +112,8 @@
     },
     "MBG.DE": {
       "action": "LONG",
-      "confidence": 80,
-      "ts": "2026-07-16T07:31:14.639279+00:00"
+      "confidence": 88,
+      "ts": "2026-07-16T11:31:22.945856+00:00"
     },
     "MC.PA": {
       "action": "LONG",
@@ -157,8 +157,8 @@
     },
     "NOVN.SW": {
       "action": "LONG",
-      "confidence": 93,
-      "ts": "2026-07-16T07:31:15.132329+00:00"
+      "confidence": 91,
+      "ts": "2026-07-16T11:31:23.616283+00:00"
     },
     "NVDA": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-16",
-  "scan_count": 2056
+  "scan_count": 2057
 }
