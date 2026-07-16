@@ -1,9 +1,9 @@
 {
   "alerts": {
     "AAPL": {
-      "action": "SHORT",
-      "confidence": 75,
-      "ts": "2026-07-16T20:31:06.286919+00:00"
+      "action": "LONG",
+      "confidence": 95,
+      "ts": "2026-07-16T23:31:05.280694+00:00"
     },
     "AIR.PA": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-16",
-  "scan_count": 2080
+  "scan_count": 2081
 }
