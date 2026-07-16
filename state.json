@@ -76,14 +76,14 @@
       "ts": "2026-07-16T08:01:22.085801+00:00"
     },
     "GDX": {
-      "action": "LONG",
-      "confidence": 96,
-      "ts": "2026-07-15T22:31:20.479385+00:00"
+      "action": "SHORT",
+      "confidence": 84,
+      "ts": "2026-07-16T08:31:11.203743+00:00"
     },
     "GEV": {
-      "action": "LONG",
-      "confidence": 93,
-      "ts": "2026-07-15T22:31:21.013842+00:00"
+      "action": "SHORT",
+      "confidence": 84,
+      "ts": "2026-07-16T08:31:11.599108+00:00"
     },
     "GLD": {
       "action": "SHORT",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-16",
-  "scan_count": 2050
+  "scan_count": 2051
 }
