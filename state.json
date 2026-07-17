@@ -77,8 +77,8 @@
     },
     "GDX": {
       "action": "LONG",
-      "confidence": 93,
-      "ts": "2026-07-17T11:01:03.527901+00:00"
+      "confidence": 91,
+      "ts": "2026-07-17T15:01:09.159573+00:00"
     },
     "GEV": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-17",
-  "scan_count": 2111
+  "scan_count": 2112
 }
