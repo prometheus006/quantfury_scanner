@@ -6,9 +6,9 @@
       "ts": "2026-07-17T09:01:13.644219+00:00"
     },
     "AIR.PA": {
-      "action": "SHORT",
-      "confidence": 75,
-      "ts": "2026-07-17T07:30:58.771040+00:00"
+      "action": "LONG",
+      "confidence": 78,
+      "ts": "2026-07-17T09:31:11.321233+00:00"
     },
     "ALV.DE": {
       "action": "LONG",
@@ -87,8 +87,8 @@
     },
     "GLD": {
       "action": "LONG",
-      "confidence": 78,
-      "ts": "2026-07-16T22:01:13.447326+00:00"
+      "confidence": 93,
+      "ts": "2026-07-17T09:31:08.182350+00:00"
     },
     "GOOGL": {
       "action": "LONG",
@@ -227,8 +227,8 @@
     },
     "TTE.PA": {
       "action": "LONG",
-      "confidence": 81,
-      "ts": "2026-07-16T12:01:27.386433+00:00"
+      "confidence": 99,
+      "ts": "2026-07-17T09:31:11.363646+00:00"
     },
     "XBI": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-17",
-  "scan_count": 2100
+  "scan_count": 2101
 }
