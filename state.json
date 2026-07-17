@@ -82,8 +82,8 @@
     },
     "GEV": {
       "action": "LONG",
-      "confidence": 97,
-      "ts": "2026-07-17T14:01:15.771782+00:00"
+      "confidence": 88,
+      "ts": "2026-07-17T20:01:08.478537+00:00"
     },
     "GLD": {
       "action": "LONG",
@@ -92,8 +92,8 @@
     },
     "GOOGL": {
       "action": "LONG",
-      "confidence": 78,
-      "ts": "2026-07-17T12:01:13.482880+00:00"
+      "confidence": 93,
+      "ts": "2026-07-17T20:01:08.931233+00:00"
     },
     "HOOD": {
       "action": "LONG",
@@ -122,8 +122,8 @@
     },
     "META": {
       "action": "LONG",
-      "confidence": 78,
-      "ts": "2026-07-17T13:31:03.319618+00:00"
+      "confidence": 91,
+      "ts": "2026-07-17T20:01:09.006944+00:00"
     },
     "MSFT": {
       "action": "LONG",
@@ -232,8 +232,8 @@
     },
     "XBI": {
       "action": "LONG",
-      "confidence": 78,
-      "ts": "2026-07-17T11:01:05.744678+00:00"
+      "confidence": 88,
+      "ts": "2026-07-17T20:01:09.909478+00:00"
     },
     "XLE": {
       "action": "SHORT",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-17",
-  "scan_count": 2121
+  "scan_count": 2122
 }
