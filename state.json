@@ -48,7 +48,7 @@
     "BAS.DE": {
       "action": "LONG",
       "confidence": 99,
-      "ts": "2026-07-17T07:30:58.554777+00:00"
+      "ts": "2026-07-17T12:31:08.957030+00:00"
     },
     "BIDU": {
       "action": "LONG",
@@ -137,8 +137,8 @@
     },
     "NEE": {
       "action": "LONG",
-      "confidence": 99,
-      "ts": "2026-07-17T08:01:13.061536+00:00"
+      "confidence": 80,
+      "ts": "2026-07-17T12:31:04.983867+00:00"
     },
     "NESN.SW": {
       "action": "LONG",
@@ -162,8 +162,8 @@
     },
     "NVDA": {
       "action": "LONG",
-      "confidence": 81,
-      "ts": "2026-07-17T08:01:12.383690+00:00"
+      "confidence": 78,
+      "ts": "2026-07-17T12:31:04.324657+00:00"
     },
     "OR.PA": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-17",
-  "scan_count": 2106
+  "scan_count": 2107
 }
