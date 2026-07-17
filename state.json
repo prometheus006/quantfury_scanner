@@ -26,9 +26,9 @@
       "ts": "2026-07-17T16:31:02.951058+00:00"
     },
     "ASML": {
-      "action": "LONG",
-      "confidence": 96,
-      "ts": "2026-07-17T16:31:01.494621+00:00"
+      "action": "SHORT",
+      "confidence": 75,
+      "ts": "2026-07-17T20:30:56.536309+00:00"
     },
     "ASML.AS": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-17",
-  "scan_count": 2122
+  "scan_count": 2123
 }
