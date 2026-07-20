@@ -13,7 +13,7 @@
     "ALV.DE": {
       "action": "LONG",
       "confidence": 88,
-      "ts": "2026-07-20T07:30:50.847229+00:00"
+      "ts": "2026-07-20T11:30:51.176135+00:00"
     },
     "AMD": {
       "action": "LONG",
@@ -157,8 +157,8 @@
     },
     "NOVN.SW": {
       "action": "LONG",
-      "confidence": 99,
-      "ts": "2026-07-20T07:30:51.461247+00:00"
+      "confidence": 88,
+      "ts": "2026-07-20T11:30:51.794205+00:00"
     },
     "NVDA": {
       "action": "LONG",
@@ -227,8 +227,8 @@
     },
     "TTE.PA": {
       "action": "LONG",
-      "confidence": 80,
-      "ts": "2026-07-20T07:30:51.299501+00:00"
+      "confidence": 88,
+      "ts": "2026-07-20T11:30:51.631351+00:00"
     },
     "XBI": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-20",
-  "scan_count": 2245
+  "scan_count": 2246
 }
