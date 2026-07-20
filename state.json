@@ -146,9 +146,9 @@
       "ts": "2026-07-20T09:30:59.275691+00:00"
     },
     "NFLX": {
-      "action": "LONG",
-      "confidence": 91,
-      "ts": "2026-07-20T18:01:01.122263+00:00"
+      "action": "SHORT",
+      "confidence": 77,
+      "ts": "2026-07-20T18:30:55.359350+00:00"
     },
     "NIO": {
       "action": "SHORT",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-20",
-  "scan_count": 2259
+  "scan_count": 2260
 }
