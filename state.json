@@ -1,9 +1,9 @@
 {
   "alerts": {
     "AAPL": {
-      "action": "LONG",
-      "confidence": 91,
-      "ts": "2026-07-21T20:30:48.927113+00:00"
+      "action": "SHORT",
+      "confidence": 75,
+      "ts": "2026-07-21T23:01:00.924508+00:00"
     },
     "AIR.PA": {
       "action": "LONG",
@@ -78,7 +78,7 @@
     "GDX": {
       "action": "LONG",
       "confidence": 80,
-      "ts": "2026-07-21T18:30:50.290357+00:00"
+      "ts": "2026-07-21T23:01:00.295186+00:00"
     },
     "GEV": {
       "action": "SHORT",
@@ -103,7 +103,7 @@
     "IWM": {
       "action": "LONG",
       "confidence": 88,
-      "ts": "2026-07-21T18:30:52.770364+00:00"
+      "ts": "2026-07-21T23:01:01.782323+00:00"
     },
     "JD": {
       "action": "LONG",
@@ -207,8 +207,8 @@
     },
     "SOFI": {
       "action": "LONG",
-      "confidence": 91,
-      "ts": "2026-07-21T09:30:47.595447+00:00"
+      "confidence": 80,
+      "ts": "2026-07-21T23:01:02.567529+00:00"
     },
     "SPY": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-21",
-  "scan_count": 2314
+  "scan_count": 2315
 }
