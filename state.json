@@ -77,13 +77,13 @@
     },
     "GDX": {
       "action": "LONG",
-      "confidence": 84,
-      "ts": "2026-07-21T08:30:43.793884+00:00"
+      "confidence": 82,
+      "ts": "2026-07-21T14:30:47.261355+00:00"
     },
     "GEV": {
-      "action": "LONG",
-      "confidence": 93,
-      "ts": "2026-07-21T12:30:44.522842+00:00"
+      "action": "SHORT",
+      "confidence": 77,
+      "ts": "2026-07-21T14:30:47.711871+00:00"
     },
     "GLD": {
       "action": "LONG",
@@ -186,9 +186,9 @@
       "ts": "2026-07-21T08:30:46.146556+00:00"
     },
     "RHM.DE": {
-      "action": "LONG",
-      "confidence": 80,
-      "ts": "2026-07-21T09:01:07.141668+00:00"
+      "action": "SHORT",
+      "confidence": 87,
+      "ts": "2026-07-21T14:30:51.563550+00:00"
     },
     "SAP.DE": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-21",
-  "scan_count": 2297
+  "scan_count": 2298
 }
