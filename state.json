@@ -22,8 +22,8 @@
     },
     "AMZN": {
       "action": "LONG",
-      "confidence": 88,
-      "ts": "2026-07-21T08:30:45.367400+00:00"
+      "confidence": 96,
+      "ts": "2026-07-22T10:00:57.682527+00:00"
     },
     "ASML": {
       "action": "SHORT",
@@ -91,9 +91,9 @@
       "ts": "2026-07-22T08:30:44.170480+00:00"
     },
     "GOOGL": {
-      "action": "SHORT",
-      "confidence": 80,
-      "ts": "2026-07-21T13:00:54.187775+00:00"
+      "action": "LONG",
+      "confidence": 93,
+      "ts": "2026-07-22T10:00:57.423233+00:00"
     },
     "HOOD": {
       "action": "SHORT",
@@ -156,9 +156,9 @@
       "ts": "2026-07-22T00:01:02.006381+00:00"
     },
     "NOVN.SW": {
-      "action": "LONG",
-      "confidence": 88,
-      "ts": "2026-07-22T08:30:48.399370+00:00"
+      "action": "SHORT",
+      "confidence": 77,
+      "ts": "2026-07-22T10:01:01.618470+00:00"
     },
     "NVDA": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-22",
-  "scan_count": 2336
+  "scan_count": 2337
 }
