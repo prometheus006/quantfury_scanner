@@ -32,8 +32,8 @@
     },
     "ASML.AS": {
       "action": "LONG",
-      "confidence": 88,
-      "ts": "2026-07-21T14:00:59.655811+00:00"
+      "confidence": 99,
+      "ts": "2026-07-22T09:30:49.282614+00:00"
     },
     "AVGO": {
       "action": "SHORT",
@@ -47,8 +47,8 @@
     },
     "BAS.DE": {
       "action": "LONG",
-      "confidence": 99,
-      "ts": "2026-07-21T17:30:56.139388+00:00"
+      "confidence": 80,
+      "ts": "2026-07-22T09:30:48.942828+00:00"
     },
     "BIDU": {
       "action": "SHORT",
@@ -96,9 +96,9 @@
       "ts": "2026-07-21T13:00:54.187775+00:00"
     },
     "HOOD": {
-      "action": "LONG",
-      "confidence": 88,
-      "ts": "2026-07-22T08:30:47.010024+00:00"
+      "action": "SHORT",
+      "confidence": 77,
+      "ts": "2026-07-22T09:30:47.973463+00:00"
     },
     "IWM": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-22",
-  "scan_count": 2335
+  "scan_count": 2336
 }
