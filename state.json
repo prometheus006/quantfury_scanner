@@ -67,8 +67,8 @@
     },
     "CEG": {
       "action": "LONG",
-      "confidence": 84,
-      "ts": "2026-07-22T18:30:50.659474+00:00"
+      "confidence": 93,
+      "ts": "2026-07-22T22:30:52.331127+00:00"
     },
     "COIN": {
       "action": "LONG",
@@ -122,8 +122,8 @@
     },
     "META": {
       "action": "LONG",
-      "confidence": 78,
-      "ts": "2026-07-22T18:01:04.393870+00:00"
+      "confidence": 81,
+      "ts": "2026-07-22T22:30:52.998613+00:00"
     },
     "MSFT": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-22",
-  "scan_count": 2361
+  "scan_count": 2362
 }
