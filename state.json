@@ -37,13 +37,13 @@
     },
     "AVGO": {
       "action": "LONG",
-      "confidence": 93,
-      "ts": "2026-07-22T19:30:48.393674+00:00"
+      "confidence": 99,
+      "ts": "2026-07-22T23:30:49.414005+00:00"
     },
     "BABA": {
       "action": "LONG",
-      "confidence": 94,
-      "ts": "2026-07-22T19:30:49.900658+00:00"
+      "confidence": 91,
+      "ts": "2026-07-22T23:30:51.406815+00:00"
     },
     "BAS.DE": {
       "action": "LONG",
@@ -162,8 +162,8 @@
     },
     "NVDA": {
       "action": "LONG",
-      "confidence": 93,
-      "ts": "2026-07-22T19:30:47.104234+00:00"
+      "confidence": 88,
+      "ts": "2026-07-22T23:30:47.682996+00:00"
     },
     "OR.PA": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-22",
-  "scan_count": 2363
+  "scan_count": 2364
 }
