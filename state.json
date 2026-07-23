@@ -122,8 +122,8 @@
     },
     "META": {
       "action": "LONG",
-      "confidence": 78,
-      "ts": "2026-07-23T10:30:44.971654+00:00"
+      "confidence": 93,
+      "ts": "2026-07-23T19:30:50.020400+00:00"
     },
     "MSFT": {
       "action": "LONG",
@@ -177,8 +177,8 @@
     },
     "PLTR": {
       "action": "LONG",
-      "confidence": 86,
-      "ts": "2026-07-23T14:01:07.979287+00:00"
+      "confidence": 93,
+      "ts": "2026-07-23T19:30:51.416346+00:00"
     },
     "QQQ": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-23",
-  "scan_count": 2402
+  "scan_count": 2403
 }
