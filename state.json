@@ -1,9 +1,9 @@
 {
   "alerts": {
     "AAPL": {
-      "action": "LONG",
-      "confidence": 91,
-      "ts": "2026-07-23T08:30:45.678455+00:00"
+      "action": "SHORT",
+      "confidence": 75,
+      "ts": "2026-07-23T09:01:02.557081+00:00"
     },
     "AIR.PA": {
       "action": "LONG",
@@ -161,9 +161,9 @@
       "ts": "2026-07-22T11:01:03.199561+00:00"
     },
     "NVDA": {
-      "action": "LONG",
-      "confidence": 88,
-      "ts": "2026-07-23T08:30:44.889774+00:00"
+      "action": "SHORT",
+      "confidence": 77,
+      "ts": "2026-07-23T09:01:02.005159+00:00"
     },
     "OR.PA": {
       "action": "LONG",
@@ -201,9 +201,9 @@
       "ts": "2026-07-22T14:30:59.091337+00:00"
     },
     "SMH": {
-      "action": "LONG",
-      "confidence": 88,
-      "ts": "2026-07-23T00:01:01.781279+00:00"
+      "action": "SHORT",
+      "confidence": 77,
+      "ts": "2026-07-23T09:01:04.018785+00:00"
     },
     "SOFI": {
       "action": "LONG",
@@ -232,8 +232,8 @@
     },
     "XBI": {
       "action": "LONG",
-      "confidence": 99,
-      "ts": "2026-07-22T08:30:46.519640+00:00"
+      "confidence": 78,
+      "ts": "2026-07-23T09:01:03.927619+00:00"
     },
     "XLE": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-23",
-  "scan_count": 2381
+  "scan_count": 2382
 }
