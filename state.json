@@ -22,8 +22,8 @@
     },
     "AMZN": {
       "action": "LONG",
-      "confidence": 86,
-      "ts": "2026-07-24T14:00:54.189256+00:00"
+      "confidence": 91,
+      "ts": "2026-07-24T19:30:47.197753+00:00"
     },
     "ASML": {
       "action": "LONG",
@@ -237,8 +237,8 @@
     },
     "XLE": {
       "action": "LONG",
-      "confidence": 95,
-      "ts": "2026-07-24T15:00:56.716320+00:00"
+      "confidence": 99,
+      "ts": "2026-07-24T19:30:47.984709+00:00"
     },
     "XLF": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-24",
-  "scan_count": 2449
+  "scan_count": 2450
 }
