@@ -157,8 +157,8 @@
     },
     "NOVN.SW": {
       "action": "LONG",
-      "confidence": 88,
-      "ts": "2026-07-24T07:30:51.029980+00:00"
+      "confidence": 99,
+      "ts": "2026-07-24T12:00:59.662151+00:00"
     },
     "NVDA": {
       "action": "SHORT",
@@ -167,8 +167,8 @@
     },
     "OR.PA": {
       "action": "LONG",
-      "confidence": 78,
-      "ts": "2026-07-24T07:30:50.672623+00:00"
+      "confidence": 94,
+      "ts": "2026-07-24T12:00:59.392760+00:00"
     },
     "PDD": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-24",
-  "scan_count": 2435
+  "scan_count": 2436
 }
