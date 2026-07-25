@@ -72,8 +72,8 @@
     },
     "COIN": {
       "action": "LONG",
-      "confidence": 94,
-      "ts": "2026-07-24T21:00:53.836378+00:00"
+      "confidence": 91,
+      "ts": "2026-07-25T01:00:54.867222+00:00"
     },
     "GDX": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-25",
-  "scan_count": 2460
+  "scan_count": 2461
 }
