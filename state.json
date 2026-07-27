@@ -1,9 +1,9 @@
 {
   "alerts": {
     "AAPL": {
-      "action": "LONG",
-      "confidence": 93,
-      "ts": "2026-07-27T12:30:59.341522+00:00"
+      "action": "SHORT",
+      "confidence": 75,
+      "ts": "2026-07-27T13:00:57.905208+00:00"
     },
     "AIR.PA": {
       "action": "LONG",
@@ -102,8 +102,8 @@
     },
     "IWM": {
       "action": "LONG",
-      "confidence": 91,
-      "ts": "2026-07-27T08:30:51.367126+00:00"
+      "confidence": 88,
+      "ts": "2026-07-27T13:00:59.436531+00:00"
     },
     "JD": {
       "action": "LONG",
@@ -162,8 +162,8 @@
     },
     "NVDA": {
       "action": "LONG",
-      "confidence": 91,
-      "ts": "2026-07-27T08:30:49.093098+00:00"
+      "confidence": 99,
+      "ts": "2026-07-27T13:00:57.076911+00:00"
     },
     "OR.PA": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-27",
-  "scan_count": 2579
+  "scan_count": 2580
 }
