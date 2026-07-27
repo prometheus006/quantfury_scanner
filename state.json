@@ -36,9 +36,9 @@
       "ts": "2026-07-27T09:30:48.287288+00:00"
     },
     "AVGO": {
-      "action": "LONG",
-      "confidence": 93,
-      "ts": "2026-07-27T21:00:52.604336+00:00"
+      "action": "SHORT",
+      "confidence": 75,
+      "ts": "2026-07-27T23:00:57.581140+00:00"
     },
     "BABA": {
       "action": "LONG",
@@ -177,8 +177,8 @@
     },
     "PLTR": {
       "action": "LONG",
-      "confidence": 75,
-      "ts": "2026-07-27T18:30:53.028384+00:00"
+      "confidence": 80,
+      "ts": "2026-07-27T23:00:58.904540+00:00"
     },
     "QQQ": {
       "action": "SHORT",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-27",
-  "scan_count": 2599
+  "scan_count": 2600
 }
