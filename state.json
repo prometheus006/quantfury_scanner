@@ -7,8 +7,8 @@
     },
     "AIR.PA": {
       "action": "LONG",
-      "confidence": 99,
-      "ts": "2026-07-23T07:30:47.649750+00:00"
+      "confidence": 95,
+      "ts": "2026-07-27T08:00:51.425072+00:00"
     },
     "ALV.DE": {
       "action": "LONG",
@@ -112,8 +112,8 @@
     },
     "MBG.DE": {
       "action": "LONG",
-      "confidence": 93,
-      "ts": "2026-07-24T14:30:52.886965+00:00"
+      "confidence": 80,
+      "ts": "2026-07-27T08:00:51.047419+00:00"
     },
     "MC.PA": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-27",
-  "scan_count": 2569
+  "scan_count": 2570
 }
