@@ -146,14 +146,14 @@
       "ts": "2026-07-27T15:30:56.254370+00:00"
     },
     "NFLX": {
-      "action": "LONG",
-      "confidence": 88,
-      "ts": "2026-07-28T19:30:49.256767+00:00"
+      "action": "SHORT",
+      "confidence": 77,
+      "ts": "2026-07-28T21:00:54.066291+00:00"
     },
     "NIO": {
-      "action": "LONG",
-      "confidence": 88,
-      "ts": "2026-07-28T18:31:00.216206+00:00"
+      "action": "SHORT",
+      "confidence": 77,
+      "ts": "2026-07-28T21:00:55.765800+00:00"
     },
     "NOVN.SW": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-28",
-  "scan_count": 2643
+  "scan_count": 2644
 }
