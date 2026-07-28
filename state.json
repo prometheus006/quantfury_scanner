@@ -147,8 +147,8 @@
     },
     "NFLX": {
       "action": "LONG",
-      "confidence": 77,
-      "ts": "2026-07-28T15:01:00.445091+00:00"
+      "confidence": 88,
+      "ts": "2026-07-28T19:30:49.256767+00:00"
     },
     "NIO": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-28",
-  "scan_count": 2640
+  "scan_count": 2641
 }
