@@ -43,7 +43,7 @@
     "BABA": {
       "action": "LONG",
       "confidence": 88,
-      "ts": "2026-07-28T14:30:50.763033+00:00"
+      "ts": "2026-07-28T18:30:59.828251+00:00"
     },
     "BAS.DE": {
       "action": "LONG",
@@ -152,8 +152,8 @@
     },
     "NIO": {
       "action": "LONG",
-      "confidence": 80,
-      "ts": "2026-07-28T14:01:06.293241+00:00"
+      "confidence": 88,
+      "ts": "2026-07-28T18:31:00.216206+00:00"
     },
     "NOVN.SW": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-28",
-  "scan_count": 2638
+  "scan_count": 2639
 }
