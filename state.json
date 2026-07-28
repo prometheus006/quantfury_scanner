@@ -42,8 +42,8 @@
     },
     "BABA": {
       "action": "LONG",
-      "confidence": 88,
-      "ts": "2026-07-27T20:00:58.466445+00:00"
+      "confidence": 99,
+      "ts": "2026-07-28T09:30:59.388393+00:00"
     },
     "BAS.DE": {
       "action": "SHORT",
@@ -167,13 +167,13 @@
     },
     "OR.PA": {
       "action": "LONG",
-      "confidence": 88,
-      "ts": "2026-07-27T15:01:05.152865+00:00"
+      "confidence": 80,
+      "ts": "2026-07-28T09:31:00.025683+00:00"
     },
     "PDD": {
-      "action": "LONG",
-      "confidence": 99,
-      "ts": "2026-07-28T09:00:56.422966+00:00"
+      "action": "SHORT",
+      "confidence": 77,
+      "ts": "2026-07-28T09:30:59.522160+00:00"
     },
     "PLTR": {
       "action": "LONG",
@@ -236,9 +236,9 @@
       "ts": "2026-07-27T17:30:56.379779+00:00"
     },
     "XLE": {
-      "action": "SHORT",
-      "confidence": 75,
-      "ts": "2026-07-28T09:00:55.076379+00:00"
+      "action": "LONG",
+      "confidence": 91,
+      "ts": "2026-07-28T09:30:58.717772+00:00"
     },
     "XLF": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-28",
-  "scan_count": 2620
+  "scan_count": 2621
 }
