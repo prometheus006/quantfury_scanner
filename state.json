@@ -16,9 +16,9 @@
       "ts": "2026-07-28T12:30:55.172999+00:00"
     },
     "AMD": {
-      "action": "SHORT",
-      "confidence": 79,
-      "ts": "2026-07-27T14:01:01.199657+00:00"
+      "action": "LONG",
+      "confidence": 86,
+      "ts": "2026-07-28T20:01:02.121439+00:00"
     },
     "AMZN": {
       "action": "LONG",
@@ -27,8 +27,8 @@
     },
     "ASML": {
       "action": "LONG",
-      "confidence": 93,
-      "ts": "2026-07-28T16:00:55.276249+00:00"
+      "confidence": 86,
+      "ts": "2026-07-28T20:01:01.019853+00:00"
     },
     "ASML.AS": {
       "action": "LONG",
@@ -72,8 +72,8 @@
     },
     "COIN": {
       "action": "LONG",
-      "confidence": 91,
-      "ts": "2026-07-28T15:30:54.344095+00:00"
+      "confidence": 89,
+      "ts": "2026-07-28T20:01:03.121670+00:00"
     },
     "GDX": {
       "action": "LONG",
@@ -92,8 +92,8 @@
     },
     "GOOGL": {
       "action": "LONG",
-      "confidence": 80,
-      "ts": "2026-07-28T15:30:52.805403+00:00"
+      "confidence": 77,
+      "ts": "2026-07-28T20:01:01.773557+00:00"
     },
     "HOOD": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-28",
-  "scan_count": 2641
+  "scan_count": 2642
 }
