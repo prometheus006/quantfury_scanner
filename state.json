@@ -62,8 +62,8 @@
     },
     "CCJ": {
       "action": "LONG",
-      "confidence": 99,
-      "ts": "2026-07-27T22:01:03.458407+00:00"
+      "confidence": 91,
+      "ts": "2026-07-28T23:30:52.445223+00:00"
     },
     "CEG": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-28",
-  "scan_count": 2648
+  "scan_count": 2649
 }
