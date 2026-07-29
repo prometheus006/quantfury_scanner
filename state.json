@@ -22,8 +22,8 @@
     },
     "AMZN": {
       "action": "LONG",
-      "confidence": 92,
-      "ts": "2026-07-28T16:30:46.741321+00:00"
+      "confidence": 95,
+      "ts": "2026-07-29T18:00:59.738473+00:00"
     },
     "ASML": {
       "action": "LONG",
@@ -42,8 +42,8 @@
     },
     "BABA": {
       "action": "LONG",
-      "confidence": 88,
-      "ts": "2026-07-28T18:30:59.828251+00:00"
+      "confidence": 91,
+      "ts": "2026-07-29T18:01:01.482526+00:00"
     },
     "BAS.DE": {
       "action": "LONG",
@@ -121,9 +121,9 @@
       "ts": "2026-07-29T16:01:07.736823+00:00"
     },
     "META": {
-      "action": "SHORT",
-      "confidence": 84,
-      "ts": "2026-07-29T13:30:50.942900+00:00"
+      "action": "LONG",
+      "confidence": 95,
+      "ts": "2026-07-29T18:00:59.640228+00:00"
     },
     "MSFT": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-29",
-  "scan_count": 2685
+  "scan_count": 2686
 }
