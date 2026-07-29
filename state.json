@@ -187,8 +187,8 @@
     },
     "RHM.DE": {
       "action": "LONG",
-      "confidence": 99,
-      "ts": "2026-07-28T15:30:55.539725+00:00"
+      "confidence": 95,
+      "ts": "2026-07-29T11:01:01.477112+00:00"
     },
     "SAP.DE": {
       "action": "SHORT",
@@ -197,8 +197,8 @@
     },
     "SIE.DE": {
       "action": "LONG",
-      "confidence": 81,
-      "ts": "2026-07-28T14:01:06.518083+00:00"
+      "confidence": 99,
+      "ts": "2026-07-29T11:01:01.086559+00:00"
     },
     "SMH": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-29",
-  "scan_count": 2671
+  "scan_count": 2672
 }
