@@ -47,8 +47,8 @@
     },
     "BAS.DE": {
       "action": "LONG",
-      "confidence": 84,
-      "ts": "2026-07-29T11:30:51.160720+00:00"
+      "confidence": 93,
+      "ts": "2026-07-29T15:30:51.980224+00:00"
     },
     "BIDU": {
       "action": "LONG",
@@ -57,8 +57,8 @@
     },
     "BMW.DE": {
       "action": "LONG",
-      "confidence": 88,
-      "ts": "2026-07-29T11:30:50.997297+00:00"
+      "confidence": 80,
+      "ts": "2026-07-29T15:30:51.868139+00:00"
     },
     "CCJ": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-29",
-  "scan_count": 2680
+  "scan_count": 2681
 }
