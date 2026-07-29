@@ -2,8 +2,8 @@
   "alerts": {
     "AAPL": {
       "action": "LONG",
-      "confidence": 88,
-      "ts": "2026-07-28T13:30:47.706561+00:00"
+      "confidence": 99,
+      "ts": "2026-07-29T17:30:58.027561+00:00"
     },
     "AIR.PA": {
       "action": "LONG",
@@ -67,8 +67,8 @@
     },
     "CEG": {
       "action": "LONG",
-      "confidence": 93,
-      "ts": "2026-07-29T13:01:04.017441+00:00"
+      "confidence": 91,
+      "ts": "2026-07-29T17:30:57.768942+00:00"
     },
     "COIN": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-29",
-  "scan_count": 2684
+  "scan_count": 2685
 }
