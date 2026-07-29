@@ -102,8 +102,8 @@
     },
     "IWM": {
       "action": "LONG",
-      "confidence": 99,
-      "ts": "2026-07-28T20:30:48.770050+00:00"
+      "confidence": 88,
+      "ts": "2026-07-29T01:01:01.718669+00:00"
     },
     "JD": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-29",
-  "scan_count": 2651
+  "scan_count": 2652
 }
