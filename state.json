@@ -67,8 +67,8 @@
     },
     "CEG": {
       "action": "LONG",
-      "confidence": 94,
-      "ts": "2026-07-29T08:30:47.180576+00:00"
+      "confidence": 93,
+      "ts": "2026-07-29T13:01:04.017441+00:00"
     },
     "COIN": {
       "action": "LONG",
@@ -87,8 +87,8 @@
     },
     "GLD": {
       "action": "LONG",
-      "confidence": 93,
-      "ts": "2026-07-29T08:30:46.563804+00:00"
+      "confidence": 91,
+      "ts": "2026-07-29T13:01:03.337936+00:00"
     },
     "GOOGL": {
       "action": "SHORT",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-29",
-  "scan_count": 2675
+  "scan_count": 2676
 }
