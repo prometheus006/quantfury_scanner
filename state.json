@@ -117,8 +117,8 @@
     },
     "MC.PA": {
       "action": "SHORT",
-      "confidence": 84,
-      "ts": "2026-07-28T12:00:58.464780+00:00"
+      "confidence": 80,
+      "ts": "2026-07-29T16:01:07.736823+00:00"
     },
     "META": {
       "action": "SHORT",
@@ -196,9 +196,9 @@
       "ts": "2026-07-29T10:30:51.843059+00:00"
     },
     "SIE.DE": {
-      "action": "LONG",
-      "confidence": 99,
-      "ts": "2026-07-29T11:01:01.086559+00:00"
+      "action": "SHORT",
+      "confidence": 80,
+      "ts": "2026-07-29T16:01:07.258142+00:00"
     },
     "SMH": {
       "action": "SHORT",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-29",
-  "scan_count": 2681
+  "scan_count": 2682
 }
