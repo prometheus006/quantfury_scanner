@@ -87,8 +87,8 @@
     },
     "GLD": {
       "action": "LONG",
-      "confidence": 78,
-      "ts": "2026-07-29T15:01:03.276204+00:00"
+      "confidence": 91,
+      "ts": "2026-07-29T21:00:56.423541+00:00"
     },
     "GOOGL": {
       "action": "SHORT",
@@ -146,9 +146,9 @@
       "ts": "2026-07-27T15:30:56.254370+00:00"
     },
     "NFLX": {
-      "action": "LONG",
-      "confidence": 99,
-      "ts": "2026-07-29T18:30:55.759850+00:00"
+      "action": "SHORT",
+      "confidence": 77,
+      "ts": "2026-07-29T21:00:58.673011+00:00"
     },
     "NIO": {
       "action": "SHORT",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-29",
-  "scan_count": 2691
+  "scan_count": 2692
 }
