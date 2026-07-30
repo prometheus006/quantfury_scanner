@@ -27,8 +27,8 @@
     },
     "ASML": {
       "action": "LONG",
-      "confidence": 80,
-      "ts": "2026-07-30T14:00:57.003122+00:00"
+      "confidence": 88,
+      "ts": "2026-07-30T20:30:49.359892+00:00"
     },
     "ASML.AS": {
       "action": "LONG",
@@ -71,9 +71,9 @@
       "ts": "2026-07-30T14:00:57.494190+00:00"
     },
     "COIN": {
-      "action": "LONG",
-      "confidence": 91,
-      "ts": "2026-07-30T15:01:06.466721+00:00"
+      "action": "SHORT",
+      "confidence": 77,
+      "ts": "2026-07-30T20:30:52.695994+00:00"
     },
     "GDX": {
       "action": "LONG",
@@ -137,8 +137,8 @@
     },
     "NEE": {
       "action": "LONG",
-      "confidence": 96,
-      "ts": "2026-07-30T11:31:01.229914+00:00"
+      "confidence": 93,
+      "ts": "2026-07-30T20:30:50.155128+00:00"
     },
     "NESN.SW": {
       "action": "SHORT",
@@ -182,8 +182,8 @@
     },
     "QQQ": {
       "action": "LONG",
-      "confidence": 88,
-      "ts": "2026-07-30T14:00:58.679154+00:00"
+      "confidence": 80,
+      "ts": "2026-07-30T20:30:51.625602+00:00"
     },
     "RHM.DE": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-30",
-  "scan_count": 2738
+  "scan_count": 2739
 }
