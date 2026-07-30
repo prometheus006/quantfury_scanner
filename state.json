@@ -111,9 +111,9 @@
       "ts": "2026-07-29T18:30:57.722209+00:00"
     },
     "MBG.DE": {
-      "action": "SHORT",
-      "confidence": 77,
-      "ts": "2026-07-29T08:30:49.865413+00:00"
+      "action": "LONG",
+      "confidence": 95,
+      "ts": "2026-07-30T08:01:01.898835+00:00"
     },
     "MC.PA": {
       "action": "SHORT",
@@ -142,8 +142,8 @@
     },
     "NESN.SW": {
       "action": "LONG",
-      "confidence": 91,
-      "ts": "2026-07-27T15:30:56.254370+00:00"
+      "confidence": 80,
+      "ts": "2026-07-30T08:01:02.520875+00:00"
     },
     "NFLX": {
       "action": "SHORT",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-30",
-  "scan_count": 2713
+  "scan_count": 2714
 }
