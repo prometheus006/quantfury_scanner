@@ -87,8 +87,8 @@
     },
     "GLD": {
       "action": "LONG",
-      "confidence": 99,
-      "ts": "2026-07-30T13:00:55.920223+00:00"
+      "confidence": 88,
+      "ts": "2026-07-30T17:00:56.517997+00:00"
     },
     "GOOGL": {
       "action": "SHORT",
@@ -127,8 +127,8 @@
     },
     "MSFT": {
       "action": "LONG",
-      "confidence": 93,
-      "ts": "2026-07-30T13:00:57.262096+00:00"
+      "confidence": 84,
+      "ts": "2026-07-30T17:00:57.458758+00:00"
     },
     "MSTR": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-30",
-  "scan_count": 2731
+  "scan_count": 2732
 }
