@@ -41,9 +41,9 @@
       "ts": "2026-07-30T14:00:58.382665+00:00"
     },
     "BABA": {
-      "action": "SHORT",
-      "confidence": 75,
-      "ts": "2026-07-29T20:30:50.792403+00:00"
+      "action": "LONG",
+      "confidence": 99,
+      "ts": "2026-07-30T16:00:56.449727+00:00"
     },
     "BAS.DE": {
       "action": "SHORT",
@@ -167,8 +167,8 @@
     },
     "OR.PA": {
       "action": "LONG",
-      "confidence": 93,
-      "ts": "2026-07-30T11:31:04.100571+00:00"
+      "confidence": 99,
+      "ts": "2026-07-30T16:00:57.658775+00:00"
     },
     "PDD": {
       "action": "LONG",
@@ -197,8 +197,8 @@
     },
     "SIE.DE": {
       "action": "LONG",
-      "confidence": 80,
-      "ts": "2026-07-30T11:31:03.730508+00:00"
+      "confidence": 94,
+      "ts": "2026-07-30T16:00:57.120425+00:00"
     },
     "SMH": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-30",
-  "scan_count": 2729
+  "scan_count": 2730
 }
