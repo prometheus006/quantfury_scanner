@@ -41,9 +41,9 @@
       "ts": "2026-07-31T14:00:57.292633+00:00"
     },
     "BABA": {
-      "action": "LONG",
-      "confidence": 84,
-      "ts": "2026-07-31T21:01:05.434216+00:00"
+      "action": "SHORT",
+      "confidence": 75,
+      "ts": "2026-07-31T22:00:59.162835+00:00"
     },
     "BAS.DE": {
       "action": "SHORT",
@@ -237,8 +237,8 @@
     },
     "XLE": {
       "action": "LONG",
-      "confidence": 91,
-      "ts": "2026-07-31T17:31:02.058695+00:00"
+      "confidence": 80,
+      "ts": "2026-07-31T22:00:57.831365+00:00"
     },
     "XLF": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-31",
-  "scan_count": 2789
+  "scan_count": 2790
 }
