@@ -7,8 +7,8 @@
     },
     "AIR.PA": {
       "action": "LONG",
-      "confidence": 81,
-      "ts": "2026-07-30T16:31:04.455770+00:00"
+      "confidence": 99,
+      "ts": "2026-07-31T09:30:49.973666+00:00"
     },
     "ALV.DE": {
       "action": "LONG",
@@ -207,8 +207,8 @@
     },
     "SOFI": {
       "action": "LONG",
-      "confidence": 92,
-      "ts": "2026-07-30T08:30:55.405113+00:00"
+      "confidence": 80,
+      "ts": "2026-07-31T09:30:48.543537+00:00"
     },
     "SPY": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-31",
-  "scan_count": 2764
+  "scan_count": 2765
 }
