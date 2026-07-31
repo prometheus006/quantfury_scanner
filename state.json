@@ -21,9 +21,9 @@
       "ts": "2026-07-31T14:00:57.163734+00:00"
     },
     "AMZN": {
-      "action": "LONG",
-      "confidence": 84,
-      "ts": "2026-07-31T16:30:53.799065+00:00"
+      "action": "SHORT",
+      "confidence": 78,
+      "ts": "2026-07-31T20:30:52.486428+00:00"
     },
     "ASML": {
       "action": "SHORT",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-07-31",
-  "scan_count": 2786
+  "scan_count": 2787
 }
