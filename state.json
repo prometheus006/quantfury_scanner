@@ -7,8 +7,8 @@
     },
     "AIR.PA": {
       "action": "LONG",
-      "confidence": 78,
-      "ts": "2026-07-31T16:01:00.760045+00:00"
+      "confidence": 99,
+      "ts": "2026-08-03T07:30:42.628144+00:00"
     },
     "ALV.DE": {
       "action": "LONG",
@@ -117,8 +117,8 @@
     },
     "MC.PA": {
       "action": "LONG",
-      "confidence": 88,
-      "ts": "2026-07-31T07:30:55.367577+00:00"
+      "confidence": 85,
+      "ts": "2026-08-03T07:30:42.486044+00:00"
     },
     "META": {
       "action": "LONG",
@@ -191,9 +191,9 @@
       "ts": "2026-07-31T09:01:03.187929+00:00"
     },
     "SAP.DE": {
-      "action": "SHORT",
-      "confidence": 75,
-      "ts": "2026-07-29T10:30:51.843059+00:00"
+      "action": "LONG",
+      "confidence": 95,
+      "ts": "2026-08-03T07:30:41.938858+00:00"
     },
     "SIE.DE": {
       "action": "SHORT",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-08-03",
-  "scan_count": 2904
+  "scan_count": 2905
 }
