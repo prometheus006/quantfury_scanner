@@ -96,9 +96,9 @@
       "ts": "2026-08-03T21:00:54.722253+00:00"
     },
     "HOOD": {
-      "action": "SHORT",
-      "confidence": 87,
-      "ts": "2026-08-04T15:30:59.151594+00:00"
+      "action": "LONG",
+      "confidence": 88,
+      "ts": "2026-08-04T16:01:02.496110+00:00"
     },
     "IWM": {
       "action": "LONG",
@@ -157,8 +157,8 @@
     },
     "NOVN.SW": {
       "action": "LONG",
-      "confidence": 93,
-      "ts": "2026-08-04T12:00:57.652788+00:00"
+      "confidence": 91,
+      "ts": "2026-08-04T16:01:03.610321+00:00"
     },
     "NVDA": {
       "action": "SHORT",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-08-04",
-  "scan_count": 2969
+  "scan_count": 2970
 }
