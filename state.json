@@ -97,8 +97,8 @@
     },
     "HOOD": {
       "action": "SHORT",
-      "confidence": 77,
-      "ts": "2026-07-31T13:30:48.528054+00:00"
+      "confidence": 87,
+      "ts": "2026-08-04T13:01:01.416281+00:00"
     },
     "IWM": {
       "action": "LONG",
@@ -212,8 +212,8 @@
     },
     "SPY": {
       "action": "SHORT",
-      "confidence": 82,
-      "ts": "2026-08-04T09:00:59.008017+00:00"
+      "confidence": 77,
+      "ts": "2026-08-04T13:01:00.322781+00:00"
     },
     "TSLA": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-08-04",
-  "scan_count": 2963
+  "scan_count": 2964
 }
