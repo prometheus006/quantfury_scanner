@@ -21,9 +21,9 @@
       "ts": "2026-08-04T20:30:53.419387+00:00"
     },
     "AMZN": {
-      "action": "SHORT",
-      "confidence": 78,
-      "ts": "2026-08-03T17:30:44.447039+00:00"
+      "action": "LONG",
+      "confidence": 95,
+      "ts": "2026-08-05T12:30:50.038687+00:00"
     },
     "ASML": {
       "action": "SHORT",
@@ -167,8 +167,8 @@
     },
     "OR.PA": {
       "action": "LONG",
-      "confidence": 91,
-      "ts": "2026-08-05T08:01:00.466199+00:00"
+      "confidence": 99,
+      "ts": "2026-08-05T12:30:52.237712+00:00"
     },
     "PDD": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-08-05",
-  "scan_count": 3010
+  "scan_count": 3011
 }
