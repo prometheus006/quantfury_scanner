@@ -7,13 +7,13 @@
     },
     "AIR.PA": {
       "action": "LONG",
-      "confidence": 93,
-      "ts": "2026-08-05T11:30:55.031352+00:00"
+      "confidence": 99,
+      "ts": "2026-08-05T16:03:43.204980+00:00"
     },
     "ALV.DE": {
       "action": "LONG",
-      "confidence": 88,
-      "ts": "2026-08-05T11:30:54.628682+00:00"
+      "confidence": 84,
+      "ts": "2026-08-05T16:03:42.664595+00:00"
     },
     "AMD": {
       "action": "SHORT",
@@ -91,9 +91,9 @@
       "ts": "2026-08-05T13:01:03.061294+00:00"
     },
     "GOOGL": {
-      "action": "SHORT",
-      "confidence": 75,
-      "ts": "2026-08-04T21:30:42.359642+00:00"
+      "action": "LONG",
+      "confidence": 90,
+      "ts": "2026-08-05T16:03:39.295341+00:00"
     },
     "HOOD": {
       "action": "SHORT",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-08-05",
-  "scan_count": 3017
+  "scan_count": 3018
 }
