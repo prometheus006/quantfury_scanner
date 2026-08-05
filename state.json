@@ -92,8 +92,8 @@
     },
     "GOOGL": {
       "action": "LONG",
-      "confidence": 90,
-      "ts": "2026-08-05T16:03:39.295341+00:00"
+      "confidence": 81,
+      "ts": "2026-08-05T20:30:50.242647+00:00"
     },
     "HOOD": {
       "action": "SHORT",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-08-05",
-  "scan_count": 3026
+  "scan_count": 3027
 }
