@@ -121,9 +121,9 @@
       "ts": "2026-08-03T15:30:49.548416+00:00"
     },
     "META": {
-      "action": "SHORT",
-      "confidence": 77,
-      "ts": "2026-08-04T08:30:51.034236+00:00"
+      "action": "LONG",
+      "confidence": 85,
+      "ts": "2026-08-05T11:00:51.071986+00:00"
     },
     "MSFT": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-08-05",
-  "scan_count": 3007
+  "scan_count": 3008
 }
