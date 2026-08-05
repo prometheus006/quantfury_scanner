@@ -56,9 +56,9 @@
       "ts": "2026-08-03T19:30:52.476334+00:00"
     },
     "BMW.DE": {
-      "action": "SHORT",
-      "confidence": 78,
-      "ts": "2026-08-03T16:00:58.256558+00:00"
+      "action": "LONG",
+      "confidence": 99,
+      "ts": "2026-08-05T08:01:00.088752+00:00"
     },
     "CCJ": {
       "action": "SHORT",
@@ -167,8 +167,8 @@
     },
     "OR.PA": {
       "action": "LONG",
-      "confidence": 99,
-      "ts": "2026-08-03T15:01:02.579639+00:00"
+      "confidence": 91,
+      "ts": "2026-08-05T08:01:00.466199+00:00"
     },
     "PDD": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-08-05",
-  "scan_count": 3001
+  "scan_count": 3002
 }
