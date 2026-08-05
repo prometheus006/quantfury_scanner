@@ -162,8 +162,8 @@
     },
     "NVDA": {
       "action": "LONG",
-      "confidence": 89,
-      "ts": "2026-08-05T14:00:55.406914+00:00"
+      "confidence": 93,
+      "ts": "2026-08-05T18:30:48.248914+00:00"
     },
     "OR.PA": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-08-05",
-  "scan_count": 3022
+  "scan_count": 3023
 }
