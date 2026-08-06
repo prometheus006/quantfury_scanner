@@ -181,9 +181,9 @@
       "ts": "2026-08-04T22:30:50.387627+00:00"
     },
     "QQQ": {
-      "action": "SHORT",
-      "confidence": 78,
-      "ts": "2026-08-05T08:30:53.202783+00:00"
+      "action": "LONG",
+      "confidence": 81,
+      "ts": "2026-08-06T13:00:54.229250+00:00"
     },
     "RHM.DE": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-08-06",
-  "scan_count": 3059
+  "scan_count": 3060
 }
