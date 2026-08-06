@@ -227,8 +227,8 @@
     },
     "TTE.PA": {
       "action": "LONG",
-      "confidence": 78,
-      "ts": "2026-08-05T14:30:54.457702+00:00"
+      "confidence": 93,
+      "ts": "2026-08-06T10:30:49.101446+00:00"
     },
     "XBI": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-08-06",
-  "scan_count": 3054
+  "scan_count": 3055
 }
