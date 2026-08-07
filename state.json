@@ -2,8 +2,8 @@
   "alerts": {
     "AAPL": {
       "action": "LONG",
-      "confidence": 91,
-      "ts": "2026-08-07T14:30:55.539211+00:00"
+      "confidence": 99,
+      "ts": "2026-08-07T19:30:54.120798+00:00"
     },
     "AIR.PA": {
       "action": "LONG",
@@ -231,9 +231,9 @@
       "ts": "2026-08-07T13:30:52.266437+00:00"
     },
     "XBI": {
-      "action": "SHORT",
-      "confidence": 77,
-      "ts": "2026-08-07T16:01:01.954980+00:00"
+      "action": "LONG",
+      "confidence": 93,
+      "ts": "2026-08-07T19:30:55.613577+00:00"
     },
     "XLE": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-08-07",
-  "scan_count": 3108
+  "scan_count": 3109
 }
