@@ -27,8 +27,8 @@
     },
     "ASML": {
       "action": "LONG",
-      "confidence": 95,
-      "ts": "2026-08-10T08:30:51.172849+00:00"
+      "confidence": 93,
+      "ts": "2026-08-10T13:00:55.042846+00:00"
     },
     "ASML.AS": {
       "action": "LONG",
@@ -42,8 +42,8 @@
     },
     "BABA": {
       "action": "LONG",
-      "confidence": 93,
-      "ts": "2026-08-10T08:30:54.952318+00:00"
+      "confidence": 99,
+      "ts": "2026-08-10T13:00:58.861899+00:00"
     },
     "BAS.DE": {
       "action": "LONG",
@@ -62,18 +62,18 @@
     },
     "CCJ": {
       "action": "LONG",
-      "confidence": 93,
-      "ts": "2026-08-10T08:30:51.694340+00:00"
+      "confidence": 99,
+      "ts": "2026-08-10T13:00:55.568490+00:00"
     },
     "CEG": {
       "action": "LONG",
       "confidence": 88,
-      "ts": "2026-08-10T08:30:51.824652+00:00"
+      "ts": "2026-08-10T13:00:55.696435+00:00"
     },
     "COIN": {
-      "action": "LONG",
-      "confidence": 80,
-      "ts": "2026-08-10T08:30:54.431779+00:00"
+      "action": "SHORT",
+      "confidence": 77,
+      "ts": "2026-08-10T13:00:58.334749+00:00"
     },
     "GDX": {
       "action": "SHORT",
@@ -92,8 +92,8 @@
     },
     "GOOGL": {
       "action": "LONG",
-      "confidence": 93,
-      "ts": "2026-08-07T21:01:04.737237+00:00"
+      "confidence": 91,
+      "ts": "2026-08-10T13:00:56.222655+00:00"
     },
     "HOOD": {
       "action": "LONG",
@@ -107,8 +107,8 @@
     },
     "JD": {
       "action": "LONG",
-      "confidence": 93,
-      "ts": "2026-08-10T08:30:55.082891+00:00"
+      "confidence": 99,
+      "ts": "2026-08-10T13:00:58.992834+00:00"
     },
     "MBG.DE": {
       "action": "LONG",
@@ -122,8 +122,8 @@
     },
     "META": {
       "action": "LONG",
-      "confidence": 88,
-      "ts": "2026-08-10T08:30:52.469167+00:00"
+      "confidence": 80,
+      "ts": "2026-08-10T13:00:56.354874+00:00"
     },
     "MSFT": {
       "action": "LONG",
@@ -152,8 +152,8 @@
     },
     "NIO": {
       "action": "LONG",
-      "confidence": 75,
-      "ts": "2026-08-10T08:30:55.342606+00:00"
+      "confidence": 88,
+      "ts": "2026-08-10T13:00:59.256219+00:00"
     },
     "NOVN.SW": {
       "action": "SHORT",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-08-10",
-  "scan_count": 3239
+  "scan_count": 3240
 }
