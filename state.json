@@ -52,8 +52,8 @@
     },
     "BIDU": {
       "action": "LONG",
-      "confidence": 96,
-      "ts": "2026-08-10T21:01:00.087467+00:00"
+      "confidence": 78,
+      "ts": "2026-08-11T09:31:03.222716+00:00"
     },
     "BMW.DE": {
       "action": "SHORT",
@@ -107,8 +107,8 @@
     },
     "JD": {
       "action": "LONG",
-      "confidence": 99,
-      "ts": "2026-08-10T21:30:49.818587+00:00"
+      "confidence": 81,
+      "ts": "2026-08-11T09:31:02.825653+00:00"
     },
     "MBG.DE": {
       "action": "LONG",
@@ -152,8 +152,8 @@
     },
     "NIO": {
       "action": "LONG",
-      "confidence": 91,
-      "ts": "2026-08-10T21:30:50.017545+00:00"
+      "confidence": 81,
+      "ts": "2026-08-11T09:31:03.090347+00:00"
     },
     "NOVN.SW": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-08-11",
-  "scan_count": 3280
+  "scan_count": 3281
 }
