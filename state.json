@@ -247,10 +247,10 @@
     },
     "XLK": {
       "action": "LONG",
-      "confidence": 81,
-      "ts": "2026-08-11T18:30:53.418743+00:00"
+      "confidence": 93,
+      "ts": "2026-08-11T23:30:50.482261+00:00"
     }
   },
   "last_heartbeat": "2026-08-11",
-  "scan_count": 3308
+  "scan_count": 3309
 }
