@@ -1,9 +1,9 @@
 {
   "alerts": {
     "AAPL": {
-      "action": "SHORT",
-      "confidence": 75,
-      "ts": "2026-08-11T15:30:48.622993+00:00"
+      "action": "LONG",
+      "confidence": 91,
+      "ts": "2026-08-11T16:00:59.426119+00:00"
     },
     "AIR.PA": {
       "action": "LONG",
@@ -42,8 +42,8 @@
     },
     "BABA": {
       "action": "LONG",
-      "confidence": 84,
-      "ts": "2026-08-10T21:30:49.719019+00:00"
+      "confidence": 81,
+      "ts": "2026-08-11T16:01:01.626065+00:00"
     },
     "BAS.DE": {
       "action": "LONG",
@@ -57,8 +57,8 @@
     },
     "BMW.DE": {
       "action": "LONG",
-      "confidence": 99,
-      "ts": "2026-08-11T11:30:54.621128+00:00"
+      "confidence": 89,
+      "ts": "2026-08-11T16:01:02.264482+00:00"
     },
     "CCJ": {
       "action": "LONG",
@@ -102,8 +102,8 @@
     },
     "IWM": {
       "action": "LONG",
-      "confidence": 99,
-      "ts": "2026-08-11T11:30:52.387125+00:00"
+      "confidence": 88,
+      "ts": "2026-08-11T16:01:00.520391+00:00"
     },
     "JD": {
       "action": "LONG",
@@ -162,8 +162,8 @@
     },
     "NVDA": {
       "action": "LONG",
-      "confidence": 99,
-      "ts": "2026-08-11T11:01:04.390093+00:00"
+      "confidence": 96,
+      "ts": "2026-08-11T16:00:58.810408+00:00"
     },
     "OR.PA": {
       "action": "SHORT",
@@ -202,13 +202,13 @@
     },
     "SMH": {
       "action": "LONG",
-      "confidence": 96,
-      "ts": "2026-08-11T12:00:53.480121+00:00"
+      "confidence": 91,
+      "ts": "2026-08-11T16:01:01.030516+00:00"
     },
     "SOFI": {
-      "action": "LONG",
-      "confidence": 99,
-      "ts": "2026-08-11T12:00:54.142525+00:00"
+      "action": "SHORT",
+      "confidence": 75,
+      "ts": "2026-08-11T16:01:01.526292+00:00"
     },
     "SPY": {
       "action": "LONG",
@@ -218,7 +218,7 @@
     "TSLA": {
       "action": "LONG",
       "confidence": 88,
-      "ts": "2026-08-11T12:00:52.031172+00:00"
+      "ts": "2026-08-11T16:00:59.924840+00:00"
     },
     "TSM": {
       "action": "LONG",
@@ -228,7 +228,7 @@
     "TTE.PA": {
       "action": "LONG",
       "confidence": 93,
-      "ts": "2026-08-11T11:30:55.146294+00:00"
+      "ts": "2026-08-11T16:01:02.663341+00:00"
     },
     "XBI": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-08-11",
-  "scan_count": 3293
+  "scan_count": 3294
 }
