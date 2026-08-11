@@ -27,8 +27,8 @@
     },
     "ASML": {
       "action": "LONG",
-      "confidence": 93,
-      "ts": "2026-08-10T13:00:55.042846+00:00"
+      "confidence": 99,
+      "ts": "2026-08-11T10:00:50.351752+00:00"
     },
     "ASML.AS": {
       "action": "SHORT",
@@ -137,8 +137,8 @@
     },
     "NEE": {
       "action": "LONG",
-      "confidence": 97,
-      "ts": "2026-08-10T20:01:00.464556+00:00"
+      "confidence": 91,
+      "ts": "2026-08-11T10:00:51.123504+00:00"
     },
     "NESN.SW": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-08-11",
-  "scan_count": 3281
+  "scan_count": 3282
 }
