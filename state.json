@@ -187,8 +187,8 @@
     },
     "RHM.DE": {
       "action": "LONG",
-      "confidence": 91,
-      "ts": "2026-08-11T14:01:01.154117+00:00"
+      "confidence": 99,
+      "ts": "2026-08-12T08:00:49.239958+00:00"
     },
     "SAP.DE": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-08-12",
-  "scan_count": 3325
+  "scan_count": 3326
 }
