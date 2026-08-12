@@ -22,8 +22,8 @@
     },
     "AMZN": {
       "action": "LONG",
-      "confidence": 81,
-      "ts": "2026-08-11T16:30:48.906746+00:00"
+      "confidence": 94,
+      "ts": "2026-08-12T11:00:57.337864+00:00"
     },
     "ASML": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-08-12",
-  "scan_count": 3331
+  "scan_count": 3332
 }
