@@ -42,8 +42,8 @@
     },
     "BABA": {
       "action": "LONG",
-      "confidence": 81,
-      "ts": "2026-08-13T17:01:04.628054+00:00"
+      "confidence": 94,
+      "ts": "2026-08-13T21:30:58.018808+00:00"
     },
     "BAS.DE": {
       "action": "LONG",
@@ -147,8 +147,8 @@
     },
     "NFLX": {
       "action": "LONG",
-      "confidence": 93,
-      "ts": "2026-08-13T17:01:03.444487+00:00"
+      "confidence": 84,
+      "ts": "2026-08-13T21:30:56.157641+00:00"
     },
     "NIO": {
       "action": "LONG",
@@ -212,8 +212,8 @@
     },
     "SPY": {
       "action": "LONG",
-      "confidence": 88,
-      "ts": "2026-08-13T17:01:03.528505+00:00"
+      "confidence": 80,
+      "ts": "2026-08-13T21:30:56.291224+00:00"
     },
     "TSLA": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-08-13",
-  "scan_count": 3400
+  "scan_count": 3401
 }
