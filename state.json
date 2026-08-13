@@ -22,8 +22,8 @@
     },
     "AMZN": {
       "action": "LONG",
-      "confidence": 78,
-      "ts": "2026-08-13T00:30:46.162734+00:00"
+      "confidence": 94,
+      "ts": "2026-08-13T09:30:48.873929+00:00"
     },
     "ASML": {
       "action": "LONG",
@@ -151,9 +151,9 @@
       "ts": "2026-08-13T09:00:53.539790+00:00"
     },
     "NIO": {
-      "action": "LONG",
-      "confidence": 91,
-      "ts": "2026-08-13T08:30:48.310990+00:00"
+      "action": "SHORT",
+      "confidence": 77,
+      "ts": "2026-08-13T09:30:50.915002+00:00"
     },
     "NOVN.SW": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-08-13",
-  "scan_count": 3376
+  "scan_count": 3377
 }
