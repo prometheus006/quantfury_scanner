@@ -118,7 +118,7 @@
     "MC.PA": {
       "action": "LONG",
       "confidence": 78,
-      "ts": "2026-08-13T07:30:40.726046+00:00"
+      "ts": "2026-08-13T12:00:56.762764+00:00"
     },
     "META": {
       "action": "LONG",
@@ -157,8 +157,8 @@
     },
     "NOVN.SW": {
       "action": "LONG",
-      "confidence": 78,
-      "ts": "2026-08-13T07:30:41.153124+00:00"
+      "confidence": 94,
+      "ts": "2026-08-13T12:00:57.095346+00:00"
     },
     "NVDA": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-08-13",
-  "scan_count": 3381
+  "scan_count": 3382
 }
