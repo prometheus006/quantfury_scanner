@@ -67,8 +67,8 @@
     },
     "CEG": {
       "action": "LONG",
-      "confidence": 99,
-      "ts": "2026-08-14T11:00:50.493946+00:00"
+      "confidence": 84,
+      "ts": "2026-08-14T15:01:00.489882+00:00"
     },
     "COIN": {
       "action": "SHORT",
@@ -117,8 +117,8 @@
     },
     "MC.PA": {
       "action": "LONG",
-      "confidence": 93,
-      "ts": "2026-08-14T10:30:52.847871+00:00"
+      "confidence": 91,
+      "ts": "2026-08-14T15:01:02.681638+00:00"
     },
     "META": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-08-14",
-  "scan_count": 3435
+  "scan_count": 3436
 }
