@@ -98,7 +98,7 @@
     "HOOD": {
       "action": "LONG",
       "confidence": 81,
-      "ts": "2026-08-14T19:00:56.793329+00:00"
+      "ts": "2026-08-14T23:30:45.875810+00:00"
     },
     "IWM": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-08-14",
-  "scan_count": 3452
+  "scan_count": 3453
 }
