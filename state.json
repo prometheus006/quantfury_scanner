@@ -8,7 +8,7 @@
     "AIR.PA": {
       "action": "LONG",
       "confidence": 99,
-      "ts": "2026-08-14T12:01:06.301208+00:00"
+      "ts": "2026-08-14T16:30:47.079371+00:00"
     },
     "ALV.DE": {
       "action": "LONG",
@@ -47,8 +47,8 @@
     },
     "BAS.DE": {
       "action": "LONG",
-      "confidence": 94,
-      "ts": "2026-08-14T11:30:47.791321+00:00"
+      "confidence": 88,
+      "ts": "2026-08-14T16:30:46.775121+00:00"
     },
     "BIDU": {
       "action": "SHORT",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-08-14",
-  "scan_count": 3438
+  "scan_count": 3439
 }
