@@ -82,8 +82,8 @@
     },
     "GEV": {
       "action": "LONG",
-      "confidence": 95,
-      "ts": "2026-08-14T15:30:42.416918+00:00"
+      "confidence": 99,
+      "ts": "2026-08-14T21:00:51.424463+00:00"
     },
     "GLD": {
       "action": "LONG",
@@ -92,8 +92,8 @@
     },
     "GOOGL": {
       "action": "LONG",
-      "confidence": 88,
-      "ts": "2026-08-14T14:00:53.874628+00:00"
+      "confidence": 91,
+      "ts": "2026-08-14T21:00:52.012727+00:00"
     },
     "HOOD": {
       "action": "LONG",
@@ -127,8 +127,8 @@
     },
     "MSFT": {
       "action": "LONG",
-      "confidence": 99,
-      "ts": "2026-08-14T14:00:53.740341+00:00"
+      "confidence": 88,
+      "ts": "2026-08-14T21:00:51.914953+00:00"
     },
     "MSTR": {
       "action": "SHORT",
@@ -136,9 +136,9 @@
       "ts": "2026-08-14T10:01:00.206171+00:00"
     },
     "NEE": {
-      "action": "LONG",
-      "confidence": 99,
-      "ts": "2026-08-14T18:00:55.034111+00:00"
+      "action": "SHORT",
+      "confidence": 78,
+      "ts": "2026-08-14T21:00:51.719389+00:00"
     },
     "NESN.SW": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-08-14",
-  "scan_count": 3447
+  "scan_count": 3448
 }
