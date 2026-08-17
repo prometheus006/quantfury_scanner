@@ -142,8 +142,8 @@
     },
     "NESN.SW": {
       "action": "LONG",
-      "confidence": 99,
-      "ts": "2026-08-14T14:30:49.406259+00:00"
+      "confidence": 78,
+      "ts": "2026-08-17T10:00:53.708595+00:00"
     },
     "NFLX": {
       "action": "LONG",
@@ -163,7 +163,7 @@
     "NVDA": {
       "action": "LONG",
       "confidence": 99,
-      "ts": "2026-08-13T18:30:47.583603+00:00"
+      "ts": "2026-08-17T10:00:49.862009+00:00"
     },
     "OR.PA": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-08-17",
-  "scan_count": 3569
+  "scan_count": 3570
 }
