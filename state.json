@@ -77,8 +77,8 @@
     },
     "GDX": {
       "action": "LONG",
-      "confidence": 99,
-      "ts": "2026-08-17T17:30:44.102041+00:00"
+      "confidence": 95,
+      "ts": "2026-08-18T15:00:51.973033+00:00"
     },
     "GEV": {
       "action": "LONG",
@@ -117,8 +117,8 @@
     },
     "MC.PA": {
       "action": "LONG",
-      "confidence": 93,
-      "ts": "2026-08-18T10:30:52.867862+00:00"
+      "confidence": 91,
+      "ts": "2026-08-18T15:00:54.951404+00:00"
     },
     "META": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-08-18",
-  "scan_count": 3624
+  "scan_count": 3625
 }
