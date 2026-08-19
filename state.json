@@ -17,8 +17,8 @@
     },
     "AMD": {
       "action": "LONG",
-      "confidence": 94,
-      "ts": "2026-08-19T08:30:44.077890+00:00"
+      "confidence": 91,
+      "ts": "2026-08-19T13:30:46.682026+00:00"
     },
     "AMZN": {
       "action": "LONG",
@@ -187,8 +187,8 @@
     },
     "RHM.DE": {
       "action": "LONG",
-      "confidence": 99,
-      "ts": "2026-08-17T11:30:45.083163+00:00"
+      "confidence": 81,
+      "ts": "2026-08-19T13:30:48.748435+00:00"
     },
     "SAP.DE": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-08-19",
-  "scan_count": 3669
+  "scan_count": 3670
 }
