@@ -2,8 +2,8 @@
   "alerts": {
     "AAPL": {
       "action": "LONG",
-      "confidence": 81,
-      "ts": "2026-08-19T14:00:53.208642+00:00"
+      "confidence": 88,
+      "ts": "2026-08-19T18:30:46.970990+00:00"
     },
     "AIR.PA": {
       "action": "LONG",
@@ -72,8 +72,8 @@
     },
     "COIN": {
       "action": "LONG",
-      "confidence": 80,
-      "ts": "2026-08-19T14:00:55.562300+00:00"
+      "confidence": 93,
+      "ts": "2026-08-19T18:30:49.370795+00:00"
     },
     "GDX": {
       "action": "LONG",
@@ -152,8 +152,8 @@
     },
     "NIO": {
       "action": "LONG",
-      "confidence": 96,
-      "ts": "2026-08-19T13:01:09.934322+00:00"
+      "confidence": 80,
+      "ts": "2026-08-19T18:30:50.293268+00:00"
     },
     "NOVN.SW": {
       "action": "LONG",
@@ -178,7 +178,7 @@
     "PLTR": {
       "action": "LONG",
       "confidence": 99,
-      "ts": "2026-08-19T13:01:09.290644+00:00"
+      "ts": "2026-08-19T18:30:49.240293+00:00"
     },
     "QQQ": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-08-19",
-  "scan_count": 3679
+  "scan_count": 3680
 }
