@@ -37,8 +37,8 @@
     },
     "AVGO": {
       "action": "LONG",
-      "confidence": 91,
-      "ts": "2026-08-19T09:00:51.456347+00:00"
+      "confidence": 93,
+      "ts": "2026-08-19T22:00:51.564856+00:00"
     },
     "BABA": {
       "action": "LONG",
@@ -132,8 +132,8 @@
     },
     "MSTR": {
       "action": "LONG",
-      "confidence": 93,
-      "ts": "2026-08-19T17:30:50.340888+00:00"
+      "confidence": 84,
+      "ts": "2026-08-19T22:00:52.671762+00:00"
     },
     "NEE": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-08-19",
-  "scan_count": 3686
+  "scan_count": 3687
 }
