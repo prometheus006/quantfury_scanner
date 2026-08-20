@@ -42,8 +42,8 @@
     },
     "BABA": {
       "action": "LONG",
-      "confidence": 82,
-      "ts": "2026-08-19T20:30:46.379252+00:00"
+      "confidence": 93,
+      "ts": "2026-08-20T01:00:47.584374+00:00"
     },
     "BAS.DE": {
       "action": "LONG",
@@ -97,8 +97,8 @@
     },
     "HOOD": {
       "action": "LONG",
-      "confidence": 88,
-      "ts": "2026-08-19T20:30:46.193670+00:00"
+      "confidence": 99,
+      "ts": "2026-08-20T01:00:47.385213+00:00"
     },
     "IWM": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-08-20",
-  "scan_count": 3692
+  "scan_count": 3693
 }
