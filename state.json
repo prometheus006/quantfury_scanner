@@ -83,7 +83,7 @@
     "GEV": {
       "action": "LONG",
       "confidence": 91,
-      "ts": "2026-08-20T13:00:56.789841+00:00"
+      "ts": "2026-08-21T15:00:49.060259+00:00"
     },
     "GLD": {
       "action": "LONG",
@@ -92,8 +92,8 @@
     },
     "GOOGL": {
       "action": "LONG",
-      "confidence": 99,
-      "ts": "2026-08-21T08:30:43.669050+00:00"
+      "confidence": 88,
+      "ts": "2026-08-21T15:00:49.652061+00:00"
     },
     "HOOD": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-08-21",
-  "scan_count": 3768
+  "scan_count": 3769
 }
