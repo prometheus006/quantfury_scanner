@@ -27,8 +27,8 @@
     },
     "ASML": {
       "action": "LONG",
-      "confidence": 75,
-      "ts": "2026-08-24T14:00:54.997342+00:00"
+      "confidence": 96,
+      "ts": "2026-08-24T19:30:44.153527+00:00"
     },
     "ASML.AS": {
       "action": "SHORT",
@@ -107,8 +107,8 @@
     },
     "JD": {
       "action": "LONG",
-      "confidence": 91,
-      "ts": "2026-08-21T09:00:50.460816+00:00"
+      "confidence": 99,
+      "ts": "2026-08-24T19:30:47.077332+00:00"
     },
     "MBG.DE": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-08-24",
-  "scan_count": 3921
+  "scan_count": 3922
 }
