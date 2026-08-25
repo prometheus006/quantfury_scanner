@@ -211,9 +211,9 @@
       "ts": "2026-08-25T14:30:44.115141+00:00"
     },
     "SPY": {
-      "action": "SHORT",
-      "confidence": 75,
-      "ts": "2026-08-25T14:30:43.222921+00:00"
+      "action": "LONG",
+      "confidence": 95,
+      "ts": "2026-08-25T16:01:05.335152+00:00"
     },
     "TSLA": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-08-25",
-  "scan_count": 3962
+  "scan_count": 3963
 }
