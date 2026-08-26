@@ -151,9 +151,9 @@
       "ts": "2026-08-26T08:30:44.982796+00:00"
     },
     "NIO": {
-      "action": "LONG",
-      "confidence": 92,
-      "ts": "2026-08-25T10:30:51.058763+00:00"
+      "action": "SHORT",
+      "confidence": 80,
+      "ts": "2026-08-26T14:30:46.419444+00:00"
     },
     "NOVN.SW": {
       "action": "SHORT",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-08-26",
-  "scan_count": 4007
+  "scan_count": 4008
 }
