@@ -27,8 +27,8 @@
     },
     "ASML": {
       "action": "LONG",
-      "confidence": 96,
-      "ts": "2026-08-26T19:00:58.545992+00:00"
+      "confidence": 80,
+      "ts": "2026-08-26T23:30:47.019977+00:00"
     },
     "ASML.AS": {
       "action": "LONG",
@@ -66,9 +66,9 @@
       "ts": "2026-08-26T10:30:41.557025+00:00"
     },
     "CEG": {
-      "action": "SHORT",
-      "confidence": 77,
-      "ts": "2026-08-26T18:30:47.134832+00:00"
+      "action": "LONG",
+      "confidence": 91,
+      "ts": "2026-08-26T23:30:47.512774+00:00"
     },
     "COIN": {
       "action": "LONG",
@@ -87,8 +87,8 @@
     },
     "GLD": {
       "action": "LONG",
-      "confidence": 81,
-      "ts": "2026-08-26T16:42:39.037219+00:00"
+      "confidence": 99,
+      "ts": "2026-08-26T23:30:46.823886+00:00"
     },
     "GOOGL": {
       "action": "LONG",
@@ -172,8 +172,8 @@
     },
     "PDD": {
       "action": "LONG",
-      "confidence": 78,
-      "ts": "2026-08-26T16:42:43.461296+00:00"
+      "confidence": 93,
+      "ts": "2026-08-26T23:30:50.076032+00:00"
     },
     "PLTR": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-08-26",
-  "scan_count": 4024
+  "scan_count": 4025
 }
