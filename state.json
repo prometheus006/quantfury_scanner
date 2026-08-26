@@ -2,8 +2,8 @@
   "alerts": {
     "AAPL": {
       "action": "LONG",
-      "confidence": 80,
-      "ts": "2026-08-26T18:30:47.419249+00:00"
+      "confidence": 99,
+      "ts": "2026-08-26T23:00:50.435703+00:00"
     },
     "AIR.PA": {
       "action": "LONG",
@@ -82,8 +82,8 @@
     },
     "GEV": {
       "action": "LONG",
-      "confidence": 86,
-      "ts": "2026-08-26T14:00:54.918731+00:00"
+      "confidence": 80,
+      "ts": "2026-08-26T23:00:50.040397+00:00"
     },
     "GLD": {
       "action": "LONG",
@@ -128,7 +128,7 @@
     "MSFT": {
       "action": "LONG",
       "confidence": 80,
-      "ts": "2026-08-26T18:30:47.554093+00:00"
+      "ts": "2026-08-26T23:00:50.534930+00:00"
     },
     "MSTR": {
       "action": "LONG",
@@ -212,8 +212,8 @@
     },
     "SPY": {
       "action": "LONG",
-      "confidence": 99,
-      "ts": "2026-08-26T18:30:48.639603+00:00"
+      "confidence": 80,
+      "ts": "2026-08-26T23:00:51.324841+00:00"
     },
     "TSLA": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-08-26",
-  "scan_count": 4023
+  "scan_count": 4024
 }
