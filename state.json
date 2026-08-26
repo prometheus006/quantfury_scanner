@@ -16,14 +16,14 @@
       "ts": "2026-08-26T07:30:47.849716+00:00"
     },
     "AMD": {
-      "action": "LONG",
-      "confidence": 88,
-      "ts": "2026-08-26T08:30:44.789208+00:00"
+      "action": "SHORT",
+      "confidence": 77,
+      "ts": "2026-08-26T11:30:42.679713+00:00"
     },
     "AMZN": {
-      "action": "SHORT",
-      "confidence": 80,
-      "ts": "2026-08-25T14:00:54.686602+00:00"
+      "action": "LONG",
+      "confidence": 99,
+      "ts": "2026-08-26T11:30:42.490680+00:00"
     },
     "ASML": {
       "action": "SHORT",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-08-26",
-  "scan_count": 4001
+  "scan_count": 4002
 }
