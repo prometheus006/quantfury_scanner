@@ -182,8 +182,8 @@
     },
     "QQQ": {
       "action": "LONG",
-      "confidence": 80,
-      "ts": "2026-08-27T17:00:56.206734+00:00"
+      "confidence": 86,
+      "ts": "2026-08-28T15:00:53.078480+00:00"
     },
     "RHM.DE": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-08-28",
-  "scan_count": 4103
+  "scan_count": 4104
 }
