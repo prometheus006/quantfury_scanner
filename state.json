@@ -37,8 +37,8 @@
     },
     "AVGO": {
       "action": "LONG",
-      "confidence": 80,
-      "ts": "2026-08-28T12:30:45.695597+00:00"
+      "confidence": 91,
+      "ts": "2026-08-31T18:30:48.578242+00:00"
     },
     "BABA": {
       "action": "SHORT",
@@ -67,8 +67,8 @@
     },
     "CEG": {
       "action": "LONG",
-      "confidence": 78,
-      "ts": "2026-08-31T11:30:49.993990+00:00"
+      "confidence": 91,
+      "ts": "2026-08-31T18:30:47.539239+00:00"
     },
     "COIN": {
       "action": "LONG",
@@ -93,7 +93,7 @@
     "GOOGL": {
       "action": "LONG",
       "confidence": 78,
-      "ts": "2026-08-31T14:00:55.941390+00:00"
+      "ts": "2026-08-31T18:30:48.000157+00:00"
     },
     "HOOD": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-08-31",
-  "scan_count": 4254
+  "scan_count": 4255
 }
