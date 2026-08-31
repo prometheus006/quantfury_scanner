@@ -21,9 +21,9 @@
       "ts": "2026-08-31T09:30:54.281637+00:00"
     },
     "AMZN": {
-      "action": "LONG",
-      "confidence": 88,
-      "ts": "2026-08-31T08:30:56.333722+00:00"
+      "action": "SHORT",
+      "confidence": 77,
+      "ts": "2026-08-31T11:00:57.420134+00:00"
     },
     "ASML": {
       "action": "LONG",
@@ -132,8 +132,8 @@
     },
     "MSTR": {
       "action": "LONG",
-      "confidence": 95,
-      "ts": "2026-08-28T17:00:59.138077+00:00"
+      "confidence": 99,
+      "ts": "2026-08-31T11:00:59.392503+00:00"
     },
     "NEE": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-08-31",
-  "scan_count": 4239
+  "scan_count": 4240
 }
