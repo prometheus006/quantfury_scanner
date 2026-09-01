@@ -47,8 +47,8 @@
     },
     "BAS.DE": {
       "action": "LONG",
-      "confidence": 99,
-      "ts": "2026-08-31T16:01:01.394842+00:00"
+      "confidence": 93,
+      "ts": "2026-09-01T07:30:46.721391+00:00"
     },
     "BIDU": {
       "action": "LONG",
@@ -157,8 +157,8 @@
     },
     "NOVN.SW": {
       "action": "LONG",
-      "confidence": 78,
-      "ts": "2026-08-31T16:01:01.906493+00:00"
+      "confidence": 88,
+      "ts": "2026-09-01T07:30:47.157344+00:00"
     },
     "NVDA": {
       "action": "LONG",
@@ -197,8 +197,8 @@
     },
     "SIE.DE": {
       "action": "LONG",
-      "confidence": 99,
-      "ts": "2026-08-28T14:00:56.467171+00:00"
+      "confidence": 81,
+      "ts": "2026-09-01T07:30:46.484703+00:00"
     },
     "SMH": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-09-01",
-  "scan_count": 4279
+  "scan_count": 4280
 }
