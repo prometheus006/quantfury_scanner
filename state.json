@@ -2,8 +2,8 @@
   "alerts": {
     "AAPL": {
       "action": "LONG",
-      "confidence": 95,
-      "ts": "2026-09-01T14:01:03.633564+00:00"
+      "confidence": 93,
+      "ts": "2026-09-01T18:30:50.987146+00:00"
     },
     "AIR.PA": {
       "action": "LONG",
@@ -23,7 +23,7 @@
     "AMZN": {
       "action": "LONG",
       "confidence": 78,
-      "ts": "2026-09-01T14:01:04.020638+00:00"
+      "ts": "2026-09-01T18:30:51.531961+00:00"
     },
     "ASML": {
       "action": "SHORT",
@@ -37,8 +37,8 @@
     },
     "AVGO": {
       "action": "LONG",
-      "confidence": 75,
-      "ts": "2026-09-01T14:01:04.312034+00:00"
+      "confidence": 99,
+      "ts": "2026-09-01T18:30:51.937469+00:00"
     },
     "BABA": {
       "action": "LONG",
@@ -161,9 +161,9 @@
       "ts": "2026-09-01T15:30:54.209259+00:00"
     },
     "NVDA": {
-      "action": "LONG",
-      "confidence": 91,
-      "ts": "2026-09-01T18:00:56.514167+00:00"
+      "action": "SHORT",
+      "confidence": 75,
+      "ts": "2026-09-01T18:30:50.177309+00:00"
     },
     "OR.PA": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-09-01",
-  "scan_count": 4301
+  "scan_count": 4302
 }
