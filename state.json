@@ -157,8 +157,8 @@
     },
     "NOVN.SW": {
       "action": "LONG",
-      "confidence": 88,
-      "ts": "2026-09-01T07:30:47.157344+00:00"
+      "confidence": 80,
+      "ts": "2026-09-01T11:30:51.105105+00:00"
     },
     "NVDA": {
       "action": "SHORT",
@@ -197,8 +197,8 @@
     },
     "SIE.DE": {
       "action": "LONG",
-      "confidence": 81,
-      "ts": "2026-09-01T07:30:46.484703+00:00"
+      "confidence": 78,
+      "ts": "2026-09-01T11:30:50.434895+00:00"
     },
     "SMH": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-09-01",
-  "scan_count": 4287
+  "scan_count": 4288
 }
