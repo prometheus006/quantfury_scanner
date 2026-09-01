@@ -222,8 +222,8 @@
     },
     "TSM": {
       "action": "LONG",
-      "confidence": 94,
-      "ts": "2026-08-31T23:30:45.927154+00:00"
+      "confidence": 91,
+      "ts": "2026-09-01T11:00:53.357844+00:00"
     },
     "TTE.PA": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-09-01",
-  "scan_count": 4286
+  "scan_count": 4287
 }
