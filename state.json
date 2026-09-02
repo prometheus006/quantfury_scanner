@@ -137,8 +137,8 @@
     },
     "NEE": {
       "action": "LONG",
-      "confidence": 88,
-      "ts": "2026-09-02T12:01:01.486955+00:00"
+      "confidence": 99,
+      "ts": "2026-09-02T18:00:58.711396+00:00"
     },
     "NESN.SW": {
       "action": "LONG",
@@ -222,8 +222,8 @@
     },
     "TSM": {
       "action": "LONG",
-      "confidence": 94,
-      "ts": "2026-09-02T13:01:10.174082+00:00"
+      "confidence": 91,
+      "ts": "2026-09-02T18:00:58.384469+00:00"
     },
     "TTE.PA": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-09-02",
-  "scan_count": 4348
+  "scan_count": 4349
 }
