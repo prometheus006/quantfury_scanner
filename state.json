@@ -231,14 +231,14 @@
       "ts": "2026-09-02T15:30:54.183351+00:00"
     },
     "XBI": {
-      "action": "SHORT",
-      "confidence": 80,
-      "ts": "2026-09-02T15:30:52.473191+00:00"
+      "action": "LONG",
+      "confidence": 88,
+      "ts": "2026-09-02T19:01:15.419368+00:00"
     },
     "XLE": {
-      "action": "SHORT",
-      "confidence": 77,
-      "ts": "2026-09-01T14:30:46.797096+00:00"
+      "action": "LONG",
+      "confidence": 95,
+      "ts": "2026-09-02T19:01:15.219523+00:00"
     },
     "XLF": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-09-02",
-  "scan_count": 4350
+  "scan_count": 4351
 }
