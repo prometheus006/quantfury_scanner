@@ -81,9 +81,9 @@
       "ts": "2026-09-02T14:30:49.836241+00:00"
     },
     "GEV": {
-      "action": "SHORT",
-      "confidence": 77,
-      "ts": "2026-09-01T14:30:45.516677+00:00"
+      "action": "LONG",
+      "confidence": 80,
+      "ts": "2026-09-02T16:00:57.903892+00:00"
     },
     "GLD": {
       "action": "LONG",
@@ -192,8 +192,8 @@
     },
     "SAP.DE": {
       "action": "LONG",
-      "confidence": 78,
-      "ts": "2026-09-02T11:30:53.423219+00:00"
+      "confidence": 75,
+      "ts": "2026-09-02T16:01:01.944007+00:00"
     },
     "SIE.DE": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-09-02",
-  "scan_count": 4344
+  "scan_count": 4345
 }
