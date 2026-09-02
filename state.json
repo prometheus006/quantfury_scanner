@@ -7,8 +7,8 @@
     },
     "AIR.PA": {
       "action": "LONG",
-      "confidence": 78,
-      "ts": "2026-08-31T13:00:59.191285+00:00"
+      "confidence": 93,
+      "ts": "2026-09-02T10:30:50.449268+00:00"
     },
     "ALV.DE": {
       "action": "LONG",
@@ -27,8 +27,8 @@
     },
     "ASML": {
       "action": "LONG",
-      "confidence": 92,
-      "ts": "2026-09-01T20:30:46.469784+00:00"
+      "confidence": 91,
+      "ts": "2026-09-02T10:30:46.672888+00:00"
     },
     "ASML.AS": {
       "action": "SHORT",
@@ -171,9 +171,9 @@
       "ts": "2026-09-02T09:30:59.318223+00:00"
     },
     "PDD": {
-      "action": "LONG",
-      "confidence": 91,
-      "ts": "2026-09-02T10:00:57.229746+00:00"
+      "action": "SHORT",
+      "confidence": 77,
+      "ts": "2026-09-02T10:30:49.678407+00:00"
     },
     "PLTR": {
       "action": "LONG",
@@ -187,8 +187,8 @@
     },
     "RHM.DE": {
       "action": "LONG",
-      "confidence": 78,
-      "ts": "2026-08-31T14:30:55.578253+00:00"
+      "confidence": 93,
+      "ts": "2026-09-02T10:30:50.285979+00:00"
     },
     "SAP.DE": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-09-02",
-  "scan_count": 4333
+  "scan_count": 4334
 }
