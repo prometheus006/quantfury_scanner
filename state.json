@@ -12,8 +12,8 @@
     },
     "ALV.DE": {
       "action": "LONG",
-      "confidence": 99,
-      "ts": "2026-09-03T12:30:57.604901+00:00"
+      "confidence": 89,
+      "ts": "2026-09-03T16:31:05.915473+00:00"
     },
     "AMD": {
       "action": "LONG",
@@ -97,8 +97,8 @@
     },
     "HOOD": {
       "action": "LONG",
-      "confidence": 93,
-      "ts": "2026-09-03T12:30:56.581865+00:00"
+      "confidence": 84,
+      "ts": "2026-09-03T16:31:04.868432+00:00"
     },
     "IWM": {
       "action": "LONG",
@@ -217,8 +217,8 @@
     },
     "TSLA": {
       "action": "LONG",
-      "confidence": 93,
-      "ts": "2026-09-03T12:30:54.626334+00:00"
+      "confidence": 84,
+      "ts": "2026-09-03T16:31:02.982130+00:00"
     },
     "TSM": {
       "action": "SHORT",
@@ -242,8 +242,8 @@
     },
     "XLF": {
       "action": "LONG",
-      "confidence": 88,
-      "ts": "2026-09-03T12:30:55.667412+00:00"
+      "confidence": 75,
+      "ts": "2026-09-03T16:31:04.051202+00:00"
     },
     "XLK": {
       "action": "SHORT",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-09-03",
-  "scan_count": 4393
+  "scan_count": 4394
 }
