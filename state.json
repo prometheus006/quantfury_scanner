@@ -17,8 +17,8 @@
     },
     "AMD": {
       "action": "LONG",
-      "confidence": 92,
-      "ts": "2026-09-03T13:01:11.000159+00:00"
+      "confidence": 91,
+      "ts": "2026-09-03T23:30:52.371639+00:00"
     },
     "AMZN": {
       "action": "LONG",
@@ -177,8 +177,8 @@
     },
     "PLTR": {
       "action": "LONG",
-      "confidence": 93,
-      "ts": "2026-09-03T19:30:53.023816+00:00"
+      "confidence": 88,
+      "ts": "2026-09-03T23:30:53.457039+00:00"
     },
     "QQQ": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-09-03",
-  "scan_count": 4407
+  "scan_count": 4408
 }
