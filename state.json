@@ -32,8 +32,8 @@
     },
     "ASML.AS": {
       "action": "LONG",
-      "confidence": 92,
-      "ts": "2026-09-02T12:30:52.641367+00:00"
+      "confidence": 91,
+      "ts": "2026-09-03T10:30:54.913465+00:00"
     },
     "AVGO": {
       "action": "LONG",
@@ -202,8 +202,8 @@
     },
     "SMH": {
       "action": "LONG",
-      "confidence": 88,
-      "ts": "2026-09-02T20:01:02.111092+00:00"
+      "confidence": 91,
+      "ts": "2026-09-03T10:30:52.715418+00:00"
     },
     "SOFI": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-09-03",
-  "scan_count": 4381
+  "scan_count": 4382
 }
