@@ -177,8 +177,8 @@
     },
     "PLTR": {
       "action": "LONG",
-      "confidence": 91,
-      "ts": "2026-09-03T12:30:56.191701+00:00"
+      "confidence": 93,
+      "ts": "2026-09-03T19:30:53.023816+00:00"
     },
     "QQQ": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-09-03",
-  "scan_count": 4399
+  "scan_count": 4400
 }
