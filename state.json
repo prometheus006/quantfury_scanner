@@ -71,14 +71,14 @@
       "ts": "2026-09-03T12:30:53.713885+00:00"
     },
     "COIN": {
-      "action": "LONG",
-      "confidence": 93,
-      "ts": "2026-09-04T08:30:58.799949+00:00"
+      "action": "SHORT",
+      "confidence": 75,
+      "ts": "2026-09-04T10:01:02.537206+00:00"
     },
     "GDX": {
-      "action": "LONG",
-      "confidence": 93,
-      "ts": "2026-09-04T08:30:57.076124+00:00"
+      "action": "SHORT",
+      "confidence": 77,
+      "ts": "2026-09-04T10:00:59.953366+00:00"
     },
     "GEV": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-09-04",
-  "scan_count": 4428
+  "scan_count": 4429
 }
