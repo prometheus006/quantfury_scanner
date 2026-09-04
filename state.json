@@ -131,9 +131,9 @@
       "ts": "2026-09-04T09:01:09.991414+00:00"
     },
     "MSTR": {
-      "action": "LONG",
-      "confidence": 93,
-      "ts": "2026-09-04T08:30:58.865543+00:00"
+      "action": "SHORT",
+      "confidence": 75,
+      "ts": "2026-09-04T10:31:09.627000+00:00"
     },
     "NEE": {
       "action": "SHORT",
@@ -192,8 +192,8 @@
     },
     "SAP.DE": {
       "action": "LONG",
-      "confidence": 93,
-      "ts": "2026-09-03T08:30:52.230163+00:00"
+      "confidence": 99,
+      "ts": "2026-09-04T10:31:10.151835+00:00"
     },
     "SIE.DE": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-09-04",
-  "scan_count": 4429
+  "scan_count": 4430
 }
