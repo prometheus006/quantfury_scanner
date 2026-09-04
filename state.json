@@ -2,8 +2,8 @@
   "alerts": {
     "AAPL": {
       "action": "LONG",
-      "confidence": 99,
-      "ts": "2026-09-03T18:31:01.054516+00:00"
+      "confidence": 81,
+      "ts": "2026-09-04T14:30:54.495698+00:00"
     },
     "AIR.PA": {
       "action": "LONG",
@@ -67,8 +67,8 @@
     },
     "CEG": {
       "action": "LONG",
-      "confidence": 93,
-      "ts": "2026-09-03T12:30:53.713885+00:00"
+      "confidence": 99,
+      "ts": "2026-09-04T14:30:54.343425+00:00"
     },
     "COIN": {
       "action": "SHORT",
@@ -146,9 +146,9 @@
       "ts": "2026-09-04T13:01:12.817428+00:00"
     },
     "NFLX": {
-      "action": "SHORT",
-      "confidence": 77,
-      "ts": "2026-09-03T14:01:07.691954+00:00"
+      "action": "LONG",
+      "confidence": 81,
+      "ts": "2026-09-04T14:30:55.101148+00:00"
     },
     "NIO": {
       "action": "SHORT",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-09-04",
-  "scan_count": 4437
+  "scan_count": 4438
 }
