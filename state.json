@@ -237,8 +237,8 @@
     },
     "XLE": {
       "action": "LONG",
-      "confidence": 78,
-      "ts": "2026-09-04T21:01:00.327570+00:00"
+      "confidence": 91,
+      "ts": "2026-09-05T01:01:02.835845+00:00"
     },
     "XLF": {
       "action": "SHORT",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-09-05",
-  "scan_count": 4458
+  "scan_count": 4459
 }
