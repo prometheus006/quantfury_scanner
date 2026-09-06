@@ -53,8 +53,8 @@ DEDUPE_HOURS = 4          # Aynı sembol+yön için tekrar mail göndermeden bek
 # ─────────────────────────────────────────────────────────────────────────────
 # VERİ
 # ─────────────────────────────────────────────────────────────────────────────
-BAR_INTERVAL = "1h"       # 1h = swing/intraday için doğru denge
-BAR_PERIOD = "60d"        # ~390 bar → EMA200 dahil tüm indikatörler stabil
+BAR_INTERVAL = "1d"       # st_daily botuyla aynı periyot (günlük bar)
+BAR_PERIOD = "2y"         # ~500 bar → EMA200 dahil tüm indikatörler stabil
 
 # ─────────────────────────────────────────────────────────────────────────────
 # İNDİKATÖR PARAMETRELERİ (mevcut botunla aynı)
