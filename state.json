@@ -48,7 +48,7 @@
     "BAS.DE": {
       "action": "LONG",
       "confidence": 99,
-      "ts": "2026-09-03T11:30:58.855925+00:00"
+      "ts": "2026-09-07T08:00:58.255239+00:00"
     },
     "BIDU": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-09-07",
-  "scan_count": 4555
+  "scan_count": 4556
 }
