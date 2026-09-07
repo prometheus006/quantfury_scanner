@@ -46,7 +46,7 @@ UNIVERSE = [
 # ─────────────────────────────────────────────────────────────────────────────
 MIN_CONFIDENCE = 75       # Bu skorun altındaki sinyaller mail atılmaz
 MIN_BARS = 60             # Bu kadar bar gelmeyen sembol atlanır
-DEDUPE_HOURS = 4          # Aynı sembol+yön için tekrar mail göndermeden bekle
+DEDUPE_HOURS = 20         # Aynı sembol+yön için tekrar mail göndermeden bekle
 
 # Yön değişimi her zaman tetikler (LONG iken SHORT geldi → bildirim atılır)
 
