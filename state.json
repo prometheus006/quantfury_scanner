@@ -47,8 +47,8 @@
     },
     "BAS.DE": {
       "action": "LONG",
-      "confidence": 99,
-      "ts": "2026-09-07T08:00:58.255239+00:00"
+      "confidence": 93,
+      "ts": "2026-09-08T08:00:59.551062+00:00"
     },
     "BIDU": {
       "action": "LONG",
@@ -113,7 +113,7 @@
     "MBG.DE": {
       "action": "LONG",
       "confidence": 88,
-      "ts": "2026-09-07T10:00:59.890362+00:00"
+      "ts": "2026-09-08T08:00:59.481978+00:00"
     },
     "MC.PA": {
       "action": "LONG",
@@ -142,8 +142,8 @@
     },
     "NESN.SW": {
       "action": "LONG",
-      "confidence": 95,
-      "ts": "2026-09-04T13:01:12.817428+00:00"
+      "confidence": 91,
+      "ts": "2026-09-08T08:01:00.033367+00:00"
     },
     "NFLX": {
       "action": "LONG",
@@ -227,8 +227,8 @@
     },
     "TTE.PA": {
       "action": "LONG",
-      "confidence": 81,
-      "ts": "2026-09-04T14:01:04.765024+00:00"
+      "confidence": 99,
+      "ts": "2026-09-08T08:00:59.896414+00:00"
     },
     "XBI": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-09-08",
-  "scan_count": 4579
+  "scan_count": 4580
 }
