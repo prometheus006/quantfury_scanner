@@ -158,7 +158,7 @@
     "NOVN.SW": {
       "action": "SHORT",
       "confidence": 77,
-      "ts": "2026-09-08T11:01:02.416981+00:00"
+      "ts": "2026-09-09T07:01:03.564777+00:00"
     },
     "NVDA": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-09-09",
-  "scan_count": 4602
+  "scan_count": 4603
 }
