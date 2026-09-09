@@ -32,8 +32,8 @@
     },
     "ASML.AS": {
       "action": "LONG",
-      "confidence": 92,
-      "ts": "2026-09-03T16:01:14.923326+00:00"
+      "confidence": 99,
+      "ts": "2026-09-09T09:01:04.994174+00:00"
     },
     "AVGO": {
       "action": "SHORT",
@@ -113,7 +113,7 @@
     "MBG.DE": {
       "action": "LONG",
       "confidence": 88,
-      "ts": "2026-09-08T08:00:59.481978+00:00"
+      "ts": "2026-09-09T09:01:04.635641+00:00"
     },
     "MC.PA": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-09-09",
-  "scan_count": 4604
+  "scan_count": 4605
 }
