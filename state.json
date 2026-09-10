@@ -123,7 +123,7 @@
     "META": {
       "action": "LONG",
       "confidence": 93,
-      "ts": "2026-09-09T20:01:09.468098+00:00"
+      "ts": "2026-09-10T17:01:03.902147+00:00"
     },
     "MSFT": {
       "action": "SHORT",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-09-10",
-  "scan_count": 4636
+  "scan_count": 4637
 }
