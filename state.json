@@ -47,8 +47,8 @@
     },
     "BAS.DE": {
       "action": "LONG",
-      "confidence": 93,
-      "ts": "2026-09-10T04:01:07.956596+00:00"
+      "confidence": 99,
+      "ts": "2026-09-11T01:01:02.750701+00:00"
     },
     "BIDU": {
       "action": "LONG",
@@ -228,7 +228,7 @@
     "TTE.PA": {
       "action": "LONG",
       "confidence": 99,
-      "ts": "2026-09-10T04:01:08.300785+00:00"
+      "ts": "2026-09-11T01:01:03.014984+00:00"
     },
     "XBI": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-09-11",
-  "scan_count": 4644
+  "scan_count": 4645
 }
