@@ -141,9 +141,9 @@
       "ts": "2026-09-15T11:01:02.190593+00:00"
     },
     "NESN.SW": {
-      "action": "LONG",
-      "confidence": 91,
-      "ts": "2026-09-18T07:01:16.199032+00:00"
+      "action": "SHORT",
+      "confidence": 75,
+      "ts": "2026-09-18T08:01:12.473250+00:00"
     },
     "NFLX": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-09-18",
-  "scan_count": 4819
+  "scan_count": 4820
 }
