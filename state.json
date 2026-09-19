@@ -58,7 +58,7 @@
     "BMW.DE": {
       "action": "SHORT",
       "confidence": 93,
-      "ts": "2026-09-18T16:01:07.045542+00:00"
+      "ts": "2026-09-19T13:00:58.370417+00:00"
     },
     "CCJ": {
       "action": "SHORT",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-09-19",
-  "scan_count": 4848
+  "scan_count": 4849
 }
