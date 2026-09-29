@@ -32,8 +32,8 @@
     },
     "ASML.AS": {
       "action": "LONG",
-      "confidence": 99,
-      "ts": "2026-09-23T05:01:04.803343+00:00"
+      "confidence": 93,
+      "ts": "2026-09-29T09:01:02.967707+00:00"
     },
     "AVGO": {
       "action": "LONG",
@@ -198,7 +198,7 @@
     "SIE.DE": {
       "action": "LONG",
       "confidence": 99,
-      "ts": "2026-09-24T04:01:37.133460+00:00"
+      "ts": "2026-09-29T09:01:02.272127+00:00"
     },
     "SMH": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-09-29",
-  "scan_count": 5066
+  "scan_count": 5067
 }
