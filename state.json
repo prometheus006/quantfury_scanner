@@ -53,7 +53,7 @@
     "BIDU": {
       "action": "LONG",
       "confidence": 91,
-      "ts": "2026-09-29T19:01:05.863210+00:00"
+      "ts": "2026-09-30T20:01:01.054347+00:00"
     },
     "BMW.DE": {
       "action": "SHORT",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-09-30",
-  "scan_count": 5101
+  "scan_count": 5102
 }
