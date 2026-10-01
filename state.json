@@ -131,9 +131,9 @@
       "ts": "2026-09-30T14:01:03.375776+00:00"
     },
     "MSTR": {
-      "action": "LONG",
-      "confidence": 88,
-      "ts": "2026-10-01T00:01:05.480824+00:00"
+      "action": "SHORT",
+      "confidence": 77,
+      "ts": "2026-10-01T02:01:00.923690+00:00"
     },
     "NEE": {
       "action": "SHORT",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-10-01",
-  "scan_count": 5107
+  "scan_count": 5108
 }
