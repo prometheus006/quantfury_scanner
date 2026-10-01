@@ -91,9 +91,9 @@
       "ts": "2026-09-04T13:01:08.690676+00:00"
     },
     "GOOGL": {
-      "action": "LONG",
-      "confidence": 99,
-      "ts": "2026-09-19T17:01:00.872366+00:00"
+      "action": "SHORT",
+      "confidence": 75,
+      "ts": "2026-10-01T17:01:02.306247+00:00"
     },
     "HOOD": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-10-01",
-  "scan_count": 5122
+  "scan_count": 5123
 }
