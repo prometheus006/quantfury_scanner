@@ -128,7 +128,7 @@
     "MSFT": {
       "action": "LONG",
       "confidence": 99,
-      "ts": "2026-10-02T11:01:03.975475+00:00"
+      "ts": "2026-10-03T08:00:57.722957+00:00"
     },
     "MSTR": {
       "action": "SHORT",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-10-03",
-  "scan_count": 5161
+  "scan_count": 5162
 }
