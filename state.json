@@ -117,8 +117,8 @@
     },
     "MC.PA": {
       "action": "LONG",
-      "confidence": 91,
-      "ts": "2026-10-01T22:01:06.675774+00:00"
+      "confidence": 93,
+      "ts": "2026-10-07T09:01:04.135377+00:00"
     },
     "META": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-10-07",
-  "scan_count": 5257
+  "scan_count": 5258
 }
