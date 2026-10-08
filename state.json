@@ -47,8 +47,8 @@
     },
     "BAS.DE": {
       "action": "LONG",
-      "confidence": 81,
-      "ts": "2026-10-01T08:04:46.150242+00:00"
+      "confidence": 99,
+      "ts": "2026-10-08T09:01:05.002013+00:00"
     },
     "BIDU": {
       "action": "LONG",
@@ -196,9 +196,9 @@
       "ts": "2026-09-04T16:01:11.188218+00:00"
     },
     "SIE.DE": {
-      "action": "LONG",
-      "confidence": 99,
-      "ts": "2026-10-08T01:01:12.194616+00:00"
+      "action": "SHORT",
+      "confidence": 75,
+      "ts": "2026-10-08T09:01:04.816193+00:00"
     },
     "SMH": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-10-08",
-  "scan_count": 5280
+  "scan_count": 5281
 }
