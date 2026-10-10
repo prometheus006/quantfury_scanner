@@ -242,8 +242,8 @@
     },
     "XLF": {
       "action": "LONG",
-      "confidence": 94,
-      "ts": "2026-10-09T14:01:03.358032+00:00"
+      "confidence": 93,
+      "ts": "2026-10-10T11:01:05.634169+00:00"
     },
     "XLK": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-10-10",
-  "scan_count": 5330
+  "scan_count": 5331
 }
