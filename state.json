@@ -22,8 +22,8 @@
     },
     "AMZN": {
       "action": "LONG",
-      "confidence": 99,
-      "ts": "2026-10-14T07:01:06.210201+00:00"
+      "confidence": 91,
+      "ts": "2026-10-16T18:01:03.386835+00:00"
     },
     "ASML": {
       "action": "LONG",
@@ -247,10 +247,10 @@
     },
     "XLK": {
       "action": "LONG",
-      "confidence": 99,
-      "ts": "2026-10-10T18:01:02.072982+00:00"
+      "confidence": 95,
+      "ts": "2026-10-16T18:01:03.824738+00:00"
     }
   },
   "last_heartbeat": "2026-10-16",
-  "scan_count": 5481
+  "scan_count": 5482
 }
