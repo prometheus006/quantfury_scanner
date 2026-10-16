@@ -7,8 +7,8 @@
     },
     "AIR.PA": {
       "action": "LONG",
-      "confidence": 78,
-      "ts": "2026-10-15T05:01:02.810029+00:00"
+      "confidence": 93,
+      "ts": "2026-10-16T01:01:07.915625+00:00"
     },
     "ALV.DE": {
       "action": "LONG",
@@ -86,9 +86,9 @@
       "ts": "2026-10-16T00:01:07.100802+00:00"
     },
     "GLD": {
-      "action": "SHORT",
-      "confidence": 84,
-      "ts": "2026-10-16T00:01:06.884027+00:00"
+      "action": "LONG",
+      "confidence": 93,
+      "ts": "2026-10-16T01:01:04.827592+00:00"
     },
     "GOOGL": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-10-16",
-  "scan_count": 5464
+  "scan_count": 5465
 }
