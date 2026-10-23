@@ -93,7 +93,7 @@
     "GOOGL": {
       "action": "LONG",
       "confidence": 78,
-      "ts": "2026-10-22T18:01:13.270443+00:00"
+      "ts": "2026-10-23T15:01:10.724323+00:00"
     },
     "HOOD": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-10-23",
-  "scan_count": 5646
+  "scan_count": 5647
 }
