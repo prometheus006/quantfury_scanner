@@ -202,8 +202,8 @@
     },
     "SMH": {
       "action": "LONG",
-      "confidence": 78,
-      "ts": "2026-10-22T15:01:11.838056+00:00"
+      "confidence": 75,
+      "ts": "2026-10-23T12:01:06.874007+00:00"
     },
     "SOFI": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-10-23",
-  "scan_count": 5643
+  "scan_count": 5644
 }
