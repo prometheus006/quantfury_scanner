@@ -197,8 +197,8 @@
     },
     "SIE.DE": {
       "action": "LONG",
-      "confidence": 99,
-      "ts": "2026-10-30T23:01:05.882180+00:00"
+      "confidence": 91,
+      "ts": "2026-11-06T16:01:13.309549+00:00"
     },
     "SMH": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-11-06",
-  "scan_count": 5982
+  "scan_count": 5983
 }
