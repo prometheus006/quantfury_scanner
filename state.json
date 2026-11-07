@@ -138,7 +138,7 @@
     "NEE": {
       "action": "LONG",
       "confidence": 93,
-      "ts": "2026-11-07T00:01:09.120243+00:00"
+      "ts": "2026-11-07T21:01:05.904726+00:00"
     },
     "NESN.SW": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-11-07",
-  "scan_count": 6011
+  "scan_count": 6012
 }
