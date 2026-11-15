@@ -168,7 +168,7 @@
     "OR.PA": {
       "action": "SHORT",
       "confidence": 75,
-      "ts": "2026-11-14T09:01:05.565966+00:00"
+      "ts": "2026-11-15T06:00:59.343624+00:00"
     },
     "PDD": {
       "action": "SHORT",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-11-15",
-  "scan_count": 6187
+  "scan_count": 6188
 }
