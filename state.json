@@ -76,9 +76,9 @@
       "ts": "2026-09-30T08:01:00.638670+00:00"
     },
     "GDX": {
-      "action": "LONG",
-      "confidence": 96,
-      "ts": "2026-11-06T12:01:12.532501+00:00"
+      "action": "SHORT",
+      "confidence": 84,
+      "ts": "2026-11-16T21:01:03.400114+00:00"
     },
     "GEV": {
       "action": "SHORT",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-11-16",
-  "scan_count": 6226
+  "scan_count": 6227
 }
