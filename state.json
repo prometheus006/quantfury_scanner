@@ -92,8 +92,8 @@
     },
     "GOOGL": {
       "action": "LONG",
-      "confidence": 92,
-      "ts": "2026-11-13T12:01:05.666897+00:00"
+      "confidence": 91,
+      "ts": "2026-11-16T20:01:02.813351+00:00"
     },
     "HOOD": {
       "action": "LONG",
@@ -177,8 +177,8 @@
     },
     "PLTR": {
       "action": "LONG",
-      "confidence": 81,
-      "ts": "2026-11-08T08:01:04.143912+00:00"
+      "confidence": 78,
+      "ts": "2026-11-16T20:01:03.262567+00:00"
     },
     "QQQ": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-11-16",
-  "scan_count": 6225
+  "scan_count": 6226
 }
