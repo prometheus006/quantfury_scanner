@@ -107,8 +107,8 @@
     },
     "JD": {
       "action": "SHORT",
-      "confidence": 84,
-      "ts": "2026-11-17T15:01:10.119157+00:00"
+      "confidence": 85,
+      "ts": "2026-11-18T12:01:11.539606+00:00"
     },
     "MBG.DE": {
       "action": "SHORT",
@@ -147,8 +147,8 @@
     },
     "NFLX": {
       "action": "SHORT",
-      "confidence": 84,
-      "ts": "2026-11-17T15:01:09.540254+00:00"
+      "confidence": 77,
+      "ts": "2026-11-18T12:01:10.518357+00:00"
     },
     "NIO": {
       "action": "SHORT",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-11-18",
-  "scan_count": 6265
+  "scan_count": 6266
 }
