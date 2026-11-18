@@ -51,9 +51,9 @@
       "ts": "2026-11-16T09:01:15.417930+00:00"
     },
     "BIDU": {
-      "action": "LONG",
-      "confidence": 91,
-      "ts": "2026-11-18T01:01:03.167314+00:00"
+      "action": "SHORT",
+      "confidence": 77,
+      "ts": "2026-11-18T03:01:08.541730+00:00"
     },
     "BMW.DE": {
       "action": "SHORT",
@@ -142,8 +142,8 @@
     },
     "NESN.SW": {
       "action": "LONG",
-      "confidence": 93,
-      "ts": "2026-11-17T06:01:06.698215+00:00"
+      "confidence": 99,
+      "ts": "2026-11-18T03:01:08.920533+00:00"
     },
     "NFLX": {
       "action": "SHORT",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-11-18",
-  "scan_count": 6256
+  "scan_count": 6257
 }
