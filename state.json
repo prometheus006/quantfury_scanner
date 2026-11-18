@@ -113,7 +113,7 @@
     "MBG.DE": {
       "action": "SHORT",
       "confidence": 84,
-      "ts": "2026-11-17T09:01:04.680339+00:00"
+      "ts": "2026-11-18T23:01:08.059133+00:00"
     },
     "MC.PA": {
       "action": "SHORT",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-11-18",
-  "scan_count": 6276
+  "scan_count": 6277
 }
