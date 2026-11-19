@@ -171,9 +171,9 @@
       "ts": "2026-11-15T06:00:59.343624+00:00"
     },
     "PDD": {
-      "action": "SHORT",
-      "confidence": 93,
-      "ts": "2026-11-12T13:01:05.985830+00:00"
+      "action": "LONG",
+      "confidence": 88,
+      "ts": "2026-11-19T15:01:12.840366+00:00"
     },
     "PLTR": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-11-19",
-  "scan_count": 6292
+  "scan_count": 6293
 }
