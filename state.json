@@ -3,7 +3,7 @@
     "AAPL": {
       "action": "LONG",
       "confidence": 99,
-      "ts": "2026-11-19T05:01:08.378926+00:00"
+      "ts": "2026-11-20T02:01:14.884513+00:00"
     },
     "AIR.PA": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-11-20",
-  "scan_count": 6303
+  "scan_count": 6304
 }
