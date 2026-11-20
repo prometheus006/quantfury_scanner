@@ -47,8 +47,8 @@
     },
     "BAS.DE": {
       "action": "LONG",
-      "confidence": 99,
-      "ts": "2026-11-16T09:01:15.417930+00:00"
+      "confidence": 81,
+      "ts": "2026-11-20T09:01:08.200285+00:00"
     },
     "BIDU": {
       "action": "SHORT",
@@ -192,8 +192,8 @@
     },
     "SAP.DE": {
       "action": "LONG",
-      "confidence": 95,
-      "ts": "2026-11-19T10:01:10.905049+00:00"
+      "confidence": 81,
+      "ts": "2026-11-20T09:01:08.050483+00:00"
     },
     "SIE.DE": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-11-20",
-  "scan_count": 6310
+  "scan_count": 6311
 }
