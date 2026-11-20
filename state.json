@@ -172,8 +172,8 @@
     },
     "PDD": {
       "action": "LONG",
-      "confidence": 88,
-      "ts": "2026-11-19T15:01:12.840366+00:00"
+      "confidence": 89,
+      "ts": "2026-11-20T12:01:08.765589+00:00"
     },
     "PLTR": {
       "action": "LONG",
@@ -252,5 +252,5 @@
     }
   },
   "last_heartbeat": "2026-11-20",
-  "scan_count": 6313
+  "scan_count": 6314
 }
